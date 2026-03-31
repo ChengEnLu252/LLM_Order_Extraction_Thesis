@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-2702",
+  "po_date": "2025-02-25",
+  "currency": "JPY",
+  "total_amount": "3320.68",
+  "items": [
+    {
+      "part_number": "FT-100",
+      "quantity": 3,
+      "unit": "pcs",
+      "unit_price": "47.00",
+      "line_amount": "141.00"
+    },
+    {
+      "part_number": "EV-940",
+      "quantity": 6,
+      "unit": "pcs",
+      "unit_price": "7.32",
+      "line_amount": "43.92"
+    },
+    {
+      "part_number": "EV-725",
+      "quantity": 38,
+      "unit": "sets",
+      "unit_price": "82.52",
+      "line_amount": "3135.76"
+    }
+  ]
+}

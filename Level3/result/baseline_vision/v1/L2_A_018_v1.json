@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-2600",
+  "po_date": "2024-01-26",
+  "currency": "JPY",
+  "total_amount": 10681.47,
+  "items": [
+    {
+      "part_number": "AX-512",
+      "quantity": 30,
+      "unit": "sets",
+      "unit_price": 35.59,
+      "line_amount": 1061.7
+    },
+    {
+      "part_number": "GX-630",
+      "quantity": 9,
+      "unit": "pcs",
+      "unit_price": 82.13,
+      "line_amount": 743.13
+    },
+    {
+      "part_number": "AX-305",
+      "quantity": 38,
+      "unit": "EA",
+      "unit_price": 63.69,
+      "line_amount": 2420.22
+    },
+    {
+      "part_number": "BK-310",
+      "quantity": 38,
+      "unit": "pcs",
+      "unit_price": 95.01,
+      "line_amount": 3610.38
+    },
+    {
+      "part_number": "YQ-410",
+      "quantity": 37,
+      "unit": "units",
+      "unit_price": 76.92,
+      "line_amount": 2846.04
+    }
+  ]
+}

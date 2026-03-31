@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-7694",
+  "po_date": "2024-08-13",
+  "currency": null,
+  "total_amount": 1247.31,
+  "items": [
+    {
+      "part_number": "FR-512",
+      "quantity": 15,
+      "unit": "boxes",
+      "unit_price": 95.7,
+      "line_amount": 647.01
+    },
+    {
+      "part_number": "AX-305",
+      "quantity": 21,
+      "unit": null,
+      "unit_price": 30.81,
+      "line_amount": 647.01
+    }
+  ]
+}

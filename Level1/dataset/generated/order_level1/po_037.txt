@@ -1,0 +1,17 @@
+
+Subject: PO-2026-0037
+
+Hi,
+
+Please process this order.
+
+Buyer: 承恩科技股份有限公司
+Supplier: 鼎新材料股份有限公司
+Date: October 17, 2024
+
+Items:
+1. 電源管理IC (PMIC-A88) 數量: 917 PCS 單價: 70.28 小計: 64446.76
+2. 固態硬碟 1TB (SSD-1TB-X) 數量: 412 個 單價: 67.33 小計: 27739.96
+
+
+Total Amount: 92186.72 USD

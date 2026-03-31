@@ -1,0 +1,17 @@
+Purchase Order
+Document ID: L2_B_022
+Category: B
+Please arrange the following materials for our upcoming production schedule.
+Supplier information: BluePeak Industrial Supply 藍峰工業供應
+For tracking purposes, please use order reference Po-2024-8032.
+Requested by: Summit Valley Electronics峰谷電子
+Ordered Materials:
+1.Part JQ-410 / Qty 32 units / Unit Price 9.64 / Amount 308.48
+2.Part: FT-220 | Qty: 30 sets  Price:2.91 | Amount: 87.30
+3.Part:DX-725|Qty:10 pcsPrice:48.81 Amount:488.10
+Payment Terms:Net 30days(30天付款）
+Please note that the order date is 2024-07-05.
+Shipping arrangement follows Exw Warehouse(工廠交货）.
+Please process all item prices in JPY.
+Total amount for this order: 883.88
+Additional note: Please confirm delivery schedule before shipment.出貨前請先確認交期。

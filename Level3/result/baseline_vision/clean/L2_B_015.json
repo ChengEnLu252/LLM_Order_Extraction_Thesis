@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-4621",
+  "po_date": "2026-01-07",
+  "currency": "EUR",
+  "total_amount": 5758.0,
+  "items": [
+    {
+      "part_number": "HM-220",
+      "quantity": 24,
+      "unit": "boxes",
+      "unit_price": 99.77,
+      "line_amount": 2394.48
+    },
+    {
+      "part_number": "HM-240",
+      "quantity": 28,
+      "unit": null,
+      "unit_price": 92.37,
+      "line_amount": 2581.88
+    },
+    {
+      "part_number": "HM-410",
+      "quantity": 24,
+      "unit": null,
+      "unit_price": 32.57,
+      "line_amount": 781.68
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-6233",
+  "po_date": "2026-07-13",
+  "currency": "EUR",
+  "total_amount": 4363.95,
+  "items": [
+    {
+      "part_number": "EV-410",
+      "quantity": 39,
+      "unit": "pcs",
+      "unit_price": 83.02,
+      "line_amount": 3237.78
+    },
+    {
+      "part_number": "GX-725",
+      "quantity": 28,
+      "unit": "units",
+      "unit_price": 38.02,
+      "line_amount": 1064.56
+    },
+    {
+      "part_number": "AX-940",
+      "quantity": 16,
+      "unit": "units",
+      "unit_price": 4.03,
+      "line_amount": 64.48
+    }
+  ]
+}

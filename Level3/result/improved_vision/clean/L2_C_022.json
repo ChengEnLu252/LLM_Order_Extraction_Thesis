@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-3389",
+  "po_date": "2024-11-02",
+  "currency": "RUR",
+  "total_amount": 5462.2,
+  "items": [
+    {
+      "part_number": "RM-940",
+      "quantity": 3,
+      "unit": "sets",
+      "unit_price": 31.4,
+      "line_amount": 1063.2
+    },
+    {
+      "part_number": "RM-100",
+      "quantity": 8,
+      "unit": "boxes",
+      "unit_price": 69.67,
+      "line_amount": 557.36
+    },
+    {
+      "part_number": "BX-380",
+      "quantity": 32,
+      "unit": "boxes",
+      "unit_price": 84.42,
+      "line_amount": 2696.04
+    },
+    {
+      "part_number": "RM-940",
+      "quantity": 8,
+      "unit": "boxes",
+      "unit_price": 37.37,
+      "line_amount": 672.66
+    }
+  ]
+}

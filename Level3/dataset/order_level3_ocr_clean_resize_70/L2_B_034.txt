@@ -1,0 +1,17 @@
+Purchase Order
+Document ID: L2_B_034
+Category: B
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Buyer: Stonepath Industrial石徑工業
+Please arrange the following materials for our upcoming production schedule.
+For tracking purposes, please use order reference PO-2025-8982.
+ItemList:
+1.Part: GX-512 Qty: 39 boxes  Price:81.82  Amount: 3190.98
+2.Part: AX-725 |Qty: 10 units  Price:19.42  Amount: 194.20
+3. FT-410, quantity 4 units, unit price 19.84, amount 79.36
+Please note that the order date is 2025-10-11.
+Please process all item prices in USD.
+PaymentTerms:30%advance，70%beforeshipment（30%预付，70出貨前付清）
+Shipping Terms：CIF Destination（成本保險加運費）
+Amount due upon confirmation: 3464.54
+Remark: Please confirm delivery schedule before shipment.出貨前请先確認交期。

@@ -1,0 +1,17 @@
+
+Subject: PO-2026-0004
+
+Hi,
+
+Please process this order.
+
+Buyer: 宏達電子有限公司
+Supplier: 宏達電子有限公司
+Date: August 03, 2025
+
+Items:
+1. 電源管理IC (PMIC-A88) 數量: 284 個 單價: 63.27 小計: 17968.68
+2. 固態硬碟 1TB (SSD-1TB-X) 數量: 31 個 單價: 120.07 小計: 3722.17
+
+
+Total Amount: 21690.85 USD

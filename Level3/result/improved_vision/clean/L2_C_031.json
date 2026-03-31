@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-2753",
+  "po_date": "2022-09-21",
+  "currency": "USD",
+  "total_amount": 7865.79,
+  "items": [
+    {
+      "part_number": "JO-512",
+      "quantity": 33,
+      "unit": "pcs",
+      "unit_price": 53.53,
+      "line_amount": 1766.49
+    },
+    {
+      "part_number": "BK-100",
+      "quantity": 252,
+      "unit": null,
+      "unit_price": 23.63,
+      "line_amount": 590.75
+    },
+    {
+      "part_number": "BK-830",
+      "quantity": 33,
+      "unit": "pcs",
+      "unit_price": 93.98,
+      "line_amount": 3068.34
+    },
+    {
+      "part_number": "GX-618",
+      "quantity": 25,
+      "unit": null,
+      "unit_price": 53.84,
+      "line_amount": 1346.0
+    },
+    {
+      "part_number": "MR-512",
+      "quantity": 19,
+      "unit": "pcs",
+      "unit_price": 53.84,
+      "line_amount": 1022.96
+    }
+  ]
+}

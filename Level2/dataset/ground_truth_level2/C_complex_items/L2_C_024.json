@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-1431",
+  "po_date": "2026-03-24",
+  "currency": "JPY",
+  "total_amount": "6228.97",
+  "items": [
+    {
+      "part_number": "GX-512",
+      "quantity": 11,
+      "unit": "EA",
+      "unit_price": "10.26",
+      "line_amount": "112.86"
+    },
+    {
+      "part_number": "HM-305",
+      "quantity": 17,
+      "unit": "EA",
+      "unit_price": "74.28",
+      "line_amount": "1262.76"
+    },
+    {
+      "part_number": "AX-100",
+      "quantity": 35,
+      "unit": "boxes",
+      "unit_price": "84.17",
+      "line_amount": "2945.95"
+    },
+    {
+      "part_number": "HM-940",
+      "quantity": 22,
+      "unit": "boxes",
+      "unit_price": "86.70",
+      "line_amount": "1907.40"
+    }
+  ]
+}

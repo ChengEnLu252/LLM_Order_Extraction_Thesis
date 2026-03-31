@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-3600",
+  "po_date": "2026-01-15",
+  "currency": "EUR",
+  "total_amount": 9207.41,
+  "items": [
+    {
+      "part_number": "AK-610",
+      "quantity": 23,
+      "unit": "pcs",
+      "unit_price": 68.53,
+      "line_amount": 1576.19
+    },
+    {
+      "part_number": "GX-512",
+      "quantity": 23,
+      "unit": "boxes",
+      "unit_price": 11.16,
+      "line_amount": 258.89
+    },
+    {
+      "part_number": "FV-720",
+      "quantity": 40,
+      "unit": "units",
+      "unit_price": 87.58,
+      "line_amount": 3503.2
+    },
+    {
+      "part_number": "EV-725",
+      "quantity": 11,
+      "unit": "EA",
+      "unit_price": 91.84,
+      "line_amount": 1010.24
+    },
+    {
+      "part_number": "BX-512",
+      "quantity": 40,
+      "unit": "units",
+      "unit_price": 71.47,
+      "line_amount": 2850.8
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "po_number": "Po-2026-8779",
+  "po_date": "2025-04-27",
+  "currency": "EUR",
+  "total_amount": 2036.19,
+  "items": [
+    {
+      "part_number": "IR-305",
+      "quantity": 4,
+      "unit": "pcs",
+      "unit_price": 51.21,
+      "line_amount": 204.84
+    },
+    {
+      "part_number": "CN-410",
+      "quantity": 30,
+      "unit": "EA",
+      "unit_price": 18.94,
+      "line_amount": 568.2
+    },
+    {
+      "part_number": "BK-725",
+      "quantity": 10,
+      "unit": "EA",
+      "unit_price": 6.18,
+      "line_amount": 61.8
+    },
+    {
+      "part_number": "EV-618",
+      "quantity": 11,
+      "unit": "pcs",
+      "unit_price": 83.74,
+      "line_amount": 921.14
+    },
+    {
+      "part_number": "Gx-940",
+      "quantity": 7,
+      "unit": "boxes",
+      "unit_price": 40.03,
+      "line_amount": 280.21
+    }
+  ]
+}

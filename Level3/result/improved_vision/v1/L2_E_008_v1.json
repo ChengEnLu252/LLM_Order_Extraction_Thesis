@@ -1,0 +1,29 @@
+{
+  "po_number": "L2-2_008",
+  "po_date": "2024-09-18",
+  "currency": "JPY",
+  "total_amount": 531.1,
+  "items": [
+    {
+      "part_number": "R-220",
+      "quantity": 70,
+      "unit": "pcs",
+      "unit_price": 12.35,
+      "line_amount": 865.0
+    },
+    {
+      "part_number": "C-725",
+      "quantity": 34,
+      "unit": "pcs",
+      "unit_price": 39.39,
+      "line_amount": 1069.02
+    },
+    {
+      "part_number": "C-725",
+      "quantity": 6,
+      "unit": "boxes",
+      "unit_price": 66.76,
+      "line_amount": 400.56
+    }
+  ]
+}

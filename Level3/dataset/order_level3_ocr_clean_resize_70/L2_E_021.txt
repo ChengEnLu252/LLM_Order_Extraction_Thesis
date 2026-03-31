@@ -1,0 +1,20 @@
+Purchase Order
+Document ID: L2_E_021
+Category: E
+Supplier: CedarStone Imports 雪松石進出口
+Buyer： Summit Valley Electronics峰谷電子
+Please process the following materials based on our current procurement request.
+P.O.N0.:PO-2024-9806
+Please note that the requested items are presented in different line formats below.
+1.JQ-512 / ordered quantity 31EA / rate 96.19 / line total 2981.89
+2.Part:HM-512|Qty:2 units Price:7.90 | Amount:15.80
+Additional Information:
+Date:2026-05-17
+Payment for this order shall follow 30% advance,70% before shipment(30 预付，70出貨前付清).
+Shipping arrangement willfollow EXw Warehouse(工廠交货）.
+All prices are quoted in JPY.
+Subtotal:2997.69
+Discount:17.61
+Handling Fee: 6.38
+FinalAmount:2986.46
+Remark: Partial shipment is not allowed unless approved.未经同意不得分批出貨。

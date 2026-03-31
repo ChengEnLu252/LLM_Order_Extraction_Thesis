@@ -1,0 +1,17 @@
+Purchase Order
+Document ID: L2_B_004
+Category: B
+Kindly process the following order items for our current purchasing request.
+Supplier information:NovaCircuit Solutions新曜電路方案
+The official reference for this order is PO-2025-8585.
+Requested by:GrandRiver Devices大河装置
+Ordered Materials:
+1. EV-410,quantity 31 pcs,unit price 35.92, amount 1113.52
+2.Part GX-100 / Qty 4 EA / Unit Price 81.33 / Amount 325.32
+3.Part:JQ-100 |Qty:15 sets | Price:8.59 | Amount: 128.85
+Payment Terms:Net30days(30天付款）
+This order was issued on May 18, 2026.
+Shipping arrangement follows CIF Destination(成本保險加運費）.
+Please process all item prices in JPY.
+Settlement total:1567.69
+Additional note: Please include inspection report with shipment.出貨時请附檢驗報告。

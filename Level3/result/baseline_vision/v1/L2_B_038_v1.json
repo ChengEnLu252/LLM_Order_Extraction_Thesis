@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-8779",
+  "po_date": "2025-04-27",
+  "currency": null,
+  "total_amount": 2036.19,
+  "items": [
+    {
+      "part_number": "Part IR-30",
+      "quantity": 3,
+      "unit": "EA",
+      "unit_price": 51.41,
+      "line_amount": 204.84
+    },
+    {
+      "part_number": "Part CN-410",
+      "quantity": 30,
+      "unit": "EA",
+      "unit_price": 18.94,
+      "line_amount": 568.2
+    },
+    {
+      "part_number": "Part BK-725",
+      "quantity": 1,
+      "unit": "EA",
+      "unit_price": 61.8,
+      "line_amount": 61.8
+    },
+    {
+      "part_number": "Part EV-816",
+      "quantity": 2,
+      "unit": "EA",
+      "unit_price": 30.74,
+      "line_amount": 60.21
+    },
+    {
+      "part_number": "5x-94",
+      "quantity": 1,
+      "unit": "pcs",
+      "unit_price": 60.03,
+      "line_amount": 280.21
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+Purchase Order
+Document ID: L2_B_029
+Category: B
+Supplier:CedarStoneImports雪松石進出口
+Buyer: PolarEdge Manufacturing 極鋒製造
+Please arrange the following materials for our upcoming production schedule.
+The official reference for this order is PO-2024-9780.
+Item List:
+1.Part:BK-305|Qty:18 boxes |Price:85.54 |Amount:1539.2
+2.Part FT-305 /Qty 40 pcs / Unit Price 5.95 / Amount 238.00
+3.Part:GX-940 |Qty:17pcs |Price:96.90 | Amount:1647.30
+4.Part:CN-100Qty:21sets|Price:27.50|Amount:577.50
+5. IR-410,quantity 30 pcs, unit price 56.48,amount 1694.40
+Please note that the order date is 01/03/2026.
+Please process all item prices in USD.
+PaymentTerms:Net30days（30天付款）
+ShippingTerms：CIFDestination（成本保險加運費）
+Amount due upon confirmation: 5696.92
+Remark：Allgoods must match approved specifications.所有货品须符合核准规格。

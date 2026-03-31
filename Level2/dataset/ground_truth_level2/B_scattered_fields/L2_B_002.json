@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-2341",
+  "po_date": "2026-12-12",
+  "currency": "EUR",
+  "total_amount": "2568.42",
+  "items": [
+    {
+      "part_number": "IR-940",
+      "quantity": 38,
+      "unit": "EA",
+      "unit_price": "13.00",
+      "line_amount": "494.00"
+    },
+    {
+      "part_number": "CN-618",
+      "quantity": 38,
+      "unit": "units",
+      "unit_price": "54.59",
+      "line_amount": "2074.42"
+    }
+  ]
+}

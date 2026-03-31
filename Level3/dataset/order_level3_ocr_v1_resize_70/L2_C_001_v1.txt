@@ -1,0 +1,17 @@
+Purchase Order
+Document ID: L2_C_001
+Category: C
+PO Number:PO-2025-9973
+PO Date: December 05,2026
+Currency:EUR
+Supplier:BluePeakIndustrial Supply藍峰工業供應
+Ordered Items:
+1)Part No: GX-220
+Qty: 33 boxes
+UnitPrice:15.76
+Amount:520.08
+2)Part:GX-410|Qty:14 sets|Price:20.38 |Amount:285.32
+3)BK-725 / 14pcs / 72.25 / 1011.50
+GrandTotal:1816.90
+Remark: Please include inspection report with shipment.出貨時请附檢驗報告。
+[Ta]

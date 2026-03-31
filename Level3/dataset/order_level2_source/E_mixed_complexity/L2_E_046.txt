@@ -1,0 +1,24 @@
+Supplier: Silver Oak Procurement 銀橡採購股份有限公司
+Buyer: Stonepath Industrial 石徑工業
+
+Kindly proceed with the following mixed-format order details.
+Order Ref: PO-2025-7074
+
+The requested items are listed below.
+
+1. Qty 26 pcs of FT-618 at 61.86 each, total 1608.36
+2. Qty 2 pcs of GX-305 at 46.78 each, total 93.56
+3. IR-512 / ordered quantity 40EA / rate 14.04 / line total 561.60
+4. Qty 25 sets of HM-940 at 46.29 each, total 1157.25
+5. Part: FT-100 | Qty: 14 boxes | Price: 2.31 | Amount: 32.34
+
+Additional Information:
+Issued On: December 03, 2025
+Payment Terms: Payment due upon receipt（收貨後付款）
+Shipping Terms: DAP Customer Site（目的地交貨）
+All prices are quoted in EUR.
+Subtotal: 3453.11
+Discount: 16.09
+Handling Fee: 12.53
+Final Amount: 3449.55
+Remark: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

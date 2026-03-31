@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-7895",
+  "po_date": "2016-01-18",
+  "currency": "JPY",
+  "total_amount": 548.32,
+  "items": [
+    {
+      "part_number": "AX-512",
+      "quantity": 3,
+      "unit": "EA",
+      "unit_price": 59.56,
+      "line_amount": 178.68
+    },
+    {
+      "part_number": "GK-940",
+      "quantity": 4,
+      "unit": "boxes",
+      "unit_price": 92.41,
+      "line_amount": 369.64
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-4731",
+  "po_date": "2024-01-19",
+  "currency": null,
+  "total_amount": 2317.37,
+  "items": [
+    {
+      "part_number": "J0-830",
+      "quantity": 16,
+      "unit": "pcs",
+      "unit_price": 16.2,
+      "line_amount": 259.2
+    },
+    {
+      "part_number": "M0-610",
+      "quantity": 29,
+      "unit": "EA",
+      "unit_price": 36.8,
+      "line_amount": 1067.2
+    },
+    {
+      "part_number": "C0-130",
+      "quantity": 19,
+      "unit": "units",
+      "unit_price": 21.2,
+      "line_amount": 403.8
+    },
+    {
+      "part_number": "B0-830",
+      "quantity": 8,
+      "unit": "sets",
+      "unit_price": 25.0,
+      "line_amount": 200.0
+    }
+  ]
+}

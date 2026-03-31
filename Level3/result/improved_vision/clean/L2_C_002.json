@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-8912",
+  "po_date": "2026-11-07",
+  "currency": "USD",
+  "total_amount": 4042.15,
+  "items": [
+    {
+      "part_number": "JO-616",
+      "quantity": 8,
+      "unit": "EA",
+      "unit_price": 39.97,
+      "line_amount": 319.76
+    },
+    {
+      "part_number": "JO-410",
+      "quantity": 27,
+      "unit": "EA",
+      "unit_price": 96.43,
+      "line_amount": 2603.61
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Purchase Order
+Document ID: L2_C_039
+Category: C
+PONumber:PO-2025-2015
+PO Date: 11/06/2025
+Currency: EUR
+Supplier: Northstar Components Ltd.北辰元件有限公司
+Ordered Items:
+1) Item GX-305, ordered quantity 11 pcs, unit price 35.50, total 390.50
+2) Item JQ-410,ordered quantity 26 sets, unit price 53.03, total 1378.78
+3) Item GX-512, ordered quantity 17 units, unit price 58.14, total 988.38
+GrandTotal：2757.66
+Remark: Partial shipment is not allowed unless approved.未经同意不得分批出货。

@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-4282",
+  "po_date": "2025-02-16",
+  "currency": "USD",
+  "total_amount": "5518.64",
+  "items": [
+    {
+      "part_number": "FT-618",
+      "quantity": 31,
+      "unit": "units",
+      "unit_price": "60.78",
+      "line_amount": "1884.18"
+    },
+    {
+      "part_number": "CN-220",
+      "quantity": 21,
+      "unit": "sets",
+      "unit_price": "43.03",
+      "line_amount": "903.63"
+    },
+    {
+      "part_number": "AX-410",
+      "quantity": 4,
+      "unit": "EA",
+      "unit_price": "50.60",
+      "line_amount": "202.40"
+    },
+    {
+      "part_number": "DX-830",
+      "quantity": 31,
+      "unit": "boxes",
+      "unit_price": "63.14",
+      "line_amount": "1957.34"
+    },
+    {
+      "part_number": "CN-100",
+      "quantity": 26,
+      "unit": "boxes",
+      "unit_price": "22.12",
+      "line_amount": "575.12"
+    }
+  ]
+}

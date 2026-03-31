@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-7843",
+  "po_date": "2023-05-03",
+  "currency": null,
+  "total_amount": 5080.14,
+  "items": [
+    {
+      "part_number": "CH-512",
+      "quantity": 1,
+      "unit": "pcs",
+      "unit_price": 56,
+      "line_amount": 56
+    },
+    {
+      "part_number": "FR-618",
+      "quantity": 33,
+      "unit": "EA",
+      "unit_price": 81.42,
+      "line_amount": 2686.86
+    },
+    {
+      "part_number": "QT-29",
+      "quantity": 26,
+      "unit": "boxes",
+      "unit_price": 73.72,
+      "line_amount": 1921.16
+    },
+    {
+      "part_number": "Part-JO-100",
+      "quantity": 2,
+      "unit": "EA",
+      "unit_price": 659.12,
+      "line_amount": 1319.44
+    }
+  ]
+}

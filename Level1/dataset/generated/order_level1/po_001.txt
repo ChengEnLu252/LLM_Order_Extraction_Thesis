@@ -1,0 +1,17 @@
+
+Subject: PO-2026-0001
+
+Hi,
+
+Please process this order.
+
+Buyer: 鼎新材料股份有限公司
+Supplier: 華宇半導體
+Date: May 21, 2024
+
+Items:
+1. Type-C 連接器 24Pin (TC-24P-001) 數量: 960 個 單價: 152.66 小計: 146553.6
+2. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 667 個 單價: 123.12 小計: 82121.04
+
+
+Total Amount: 228674.64 TWD

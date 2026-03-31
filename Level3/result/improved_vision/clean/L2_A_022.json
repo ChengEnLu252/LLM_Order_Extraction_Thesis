@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-20226-3369",
+  "po_date": "2020-02-24",
+  "currency": "USD",
+  "total_amount": 3042.47,
+  "items": [
+    {
+      "part_number": "GX-618",
+      "quantity": 19,
+      "unit": "units",
+      "unit_price": 77.72,
+      "line_amount": 1476.68
+    },
+    {
+      "part_number": "EV-512",
+      "quantity": 19,
+      "unit": "units",
+      "unit_price": 82.41,
+      "line_amount": 1565.79
+    }
+  ]
+}

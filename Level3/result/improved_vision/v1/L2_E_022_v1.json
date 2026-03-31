@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-3041",
+  "po_date": "2024-10-13",
+  "currency": "JPY",
+  "total_amount": 627.42,
+  "items": [
+    {
+      "part_number": "F-618",
+      "quantity": 15,
+      "unit": "boxes",
+      "unit_price": 61.82,
+      "line_amount": 927.3
+    },
+    {
+      "part_number": "F-618",
+      "quantity": 30,
+      "unit": "boxes",
+      "unit_price": 28.76,
+      "line_amount": 862.8
+    },
+    {
+      "part_number": "F-100",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 99.89,
+      "line_amount": 99.89
+    },
+    {
+      "part_number": "AX-100",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 61.66,
+      "line_amount": 123.32
+    },
+    {
+      "part_number": "HM-725",
+      "quantity": 2,
+      "unit": "units",
+      "unit_price": 5.47,
+      "line_amount": 11.94
+    }
+  ]
+}

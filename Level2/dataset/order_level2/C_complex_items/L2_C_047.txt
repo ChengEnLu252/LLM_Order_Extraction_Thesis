@@ -1,0 +1,19 @@
+PO Number: PO-2025-2063
+PO Date: 22/08/2025
+Currency: EUR
+Supplier: Vertex Axis Trading 維泰軸心貿易
+
+Ordered Items:
+1) Part No: IR-410
+   Qty: 23 EA
+   Unit Price: 53.65
+   Amount: 1233.95
+2) Item IR-220, ordered quantity 5 sets, unit price 12.71, total 63.55
+3) Part No: EV-725
+   Qty: 40 units
+   Unit Price: 93.52
+   Amount: 3740.80
+4) JQ-618 / 22EA / 27.45 / 603.90
+
+Grand Total: 5642.20
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-3345",
+  "po_date": "2026-12-01",
+  "currency": "JPY",
+  "total_amount": "4149.77",
+  "items": [
+    {
+      "part_number": "EV-940",
+      "quantity": 33,
+      "unit": "sets",
+      "unit_price": "80.09",
+      "line_amount": "2642.97"
+    },
+    {
+      "part_number": "BK-830",
+      "quantity": 12,
+      "unit": "units",
+      "unit_price": "89.85",
+      "line_amount": "1078.20"
+    },
+    {
+      "part_number": "CN-220",
+      "quantity": 17,
+      "unit": "pcs",
+      "unit_price": "25.85",
+      "line_amount": "439.45"
+    }
+  ]
+}

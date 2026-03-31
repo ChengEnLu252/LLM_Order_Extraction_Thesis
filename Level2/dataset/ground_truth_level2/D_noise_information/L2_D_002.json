@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-5011",
+  "po_date": "2024-12-16",
+  "currency": "USD",
+  "total_amount": "6633.09",
+  "items": [
+    {
+      "part_number": "HM-100",
+      "quantity": 5,
+      "unit": "pcs",
+      "unit_price": "14.75",
+      "line_amount": "73.75"
+    },
+    {
+      "part_number": "GX-725",
+      "quantity": 26,
+      "unit": "EA",
+      "unit_price": "7.27",
+      "line_amount": "189.02"
+    },
+    {
+      "part_number": "HM-618",
+      "quantity": 40,
+      "unit": "boxes",
+      "unit_price": "89.35",
+      "line_amount": "3574.00"
+    },
+    {
+      "part_number": "IR-220",
+      "quantity": 23,
+      "unit": "sets",
+      "unit_price": "82.11",
+      "line_amount": "1888.53"
+    },
+    {
+      "part_number": "HM-220",
+      "quantity": 38,
+      "unit": "sets",
+      "unit_price": "14.92",
+      "line_amount": "566.96"
+    }
+  ]
+}

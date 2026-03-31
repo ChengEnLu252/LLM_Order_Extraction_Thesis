@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-5934",
+  "po_date": "2026-10-01",
+  "currency": "JPY",
+  "total_amount": 1775.86,
+  "items": [
+    {
+      "part_number": "CN-940",
+      "quantity": 22,
+      "unit": "pcs",
+      "unit_price": 53.49,
+      "line_amount": 1176.78
+    },
+    {
+      "part_number": "IR-940",
+      "quantity": 34,
+      "unit": "sets",
+      "unit_price": 17.62,
+      "line_amount": 599.08
+    }
+  ]
+}

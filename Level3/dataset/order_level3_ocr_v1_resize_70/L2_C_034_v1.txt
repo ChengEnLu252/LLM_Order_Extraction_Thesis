@@ -1,0 +1,16 @@
+Purchase Order
+Document ID: L2_C_034
+Category: C
+PONumber:PO-2025-2562
+PODate:2025-09-07
+Currency: USD
+Supplier：OrbitLine Distribution軌域配銷有限公司
+Ordered Items:
+1) Item FT-618,ordered quantity 5 sets, unit price 92.34, total 461.70
+2)PartNo:BK-410
+Qty:28 units
+Unit Price:93.16
+Amount:2608.48
+Grand Total：3070.18
+Remark: Please confirm delivery schedule before shipment.出貨前请先確認交期。
+l

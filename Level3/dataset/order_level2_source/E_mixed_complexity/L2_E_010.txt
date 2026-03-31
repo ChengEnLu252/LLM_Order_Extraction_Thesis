@@ -1,0 +1,21 @@
+Supplier: Ironcrest Materials 鐵冠材料有限公司
+Buyer: Summit Valley Electronics 峰谷電子
+
+Please process the following materials based on our current procurement request.
+Order ID: PO-2024-5830
+
+Please note that the requested items are presented in different line formats below.
+
+1. Part: HM-940 | Qty: 29 boxes | Price: 97.99 | Amount: 2841.71
+2. Qty 4 units of HM-940 at 49.77 each, total 199.08
+
+Additional Information:
+PO Date: 13 Mar 2026
+Payment for this order shall follow 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）.
+Shipping arrangement will follow CIF Destination（成本保險加運費）.
+All prices are quoted in USD.
+Subtotal: 3040.79
+Discount: 11.33
+Handling Fee: 6.79
+Final Amount: 3036.25
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

@@ -1,0 +1,19 @@
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: LumenTrail Procurement 光徑採購
+
+Please prepare the materials listed below for the next production batch.
+This request should be recorded under reference number PO-2025-8277.
+
+Item List:
+1. Part AX-220 / Qty 9 sets / Unit Price 98.11 / Amount 882.99
+2. Part IR-100 / Qty 28 pcs / Unit Price 5.51 / Amount 154.28
+3. EV-940, quantity 40 units, unit price 96.39, amount 3855.60
+4. HM-618, quantity 15 boxes, unit price 66.15, amount 992.25
+
+This order was issued on 07/06/2026.
+Please process all item prices in USD.
+Payment Terms: Net 45 days（45天付款）
+Shipping Terms: DAP Customer Site（目的地交貨）
+
+Settlement total: 5885.12
+Remark: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

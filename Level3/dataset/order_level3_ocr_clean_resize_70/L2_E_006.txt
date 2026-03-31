@@ -1,0 +1,21 @@
+Purchase Order
+Document ID: L2_E_006
+Category: E
+Supplier:OrbitLine Distribution軌域配銷有限公司
+Buyer:BrightCore Assemblies亮核组装
+Please process the following materials based on our current procurement request.
+Order Ref:PO-2026-8423
+The requested materials are summarized below in mixed item formats.
+1. EV-618 / ordered quantity 5pcs / rate 80.55 / line total 402.75
+2.Part:JQ-725 |Qty:6 pcs  Price:55.62 | Amount: 333.72
+3.Qty 27 pcs of DX-725 at 27.01 each, total 729.27
+Additional Information:
+Date Issued:27 Oct 2025
+The agreedpayment condition is Net45 days(45天付款）.
+Delivery arrangementfollowsCIFDestination（成本保險加運费）
+All prices are quoted in JPY.
+Subtotal:1465.74
+Discount:14.71
+Handling Fee: 14.45
+Final Amount:1465.48
+Remark: Please confirm delivery schedule before shipment.出貨前請先確認交期。

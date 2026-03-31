@@ -1,0 +1,18 @@
+Purchase Order
+Document ID: L2_B_011
+Category: B
+Supplier: BluePeak Industrial Supply藍峰工業供應
+Buyer：Allied Nexus Purchasing聯合採購中心
+Please prepare the materials listed below for the next production batch.
+This request should be recorded under reference number Po-2025-2404.
+Item List:
+1. CN-725, quantity 11 boxes, unit price 39.24, amount 431.64
+2.Part AX-512 / Qty 25 sets / Unit Price 12.44 / Amount 311.00
+3.Part: BK-305|Qty:25 pcs  Price:76.61  Amount: 1915.25
+4.Part: IR-940|Qty:13 units  Price:44.24  Amount: 575.12
+The issuance date for this order is 27 Aug 2025.
+The transaction currency for this order is USD.
+PaymentTerms:Net30days（3o天付款）
+Shipping Terms:FOBOrigin（離岸交貨）
+Amount due upon confirmation: 3233.01
+Remark：Allgoodsmust matchapprovedspecifications.所有货品须符合核准规格。

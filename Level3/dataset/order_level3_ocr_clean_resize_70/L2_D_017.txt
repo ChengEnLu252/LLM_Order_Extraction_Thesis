@@ -1,0 +1,25 @@
+Purchase Order
+Document ID: L2_D_017
+Category: D
+PurchaseOrderNo.:PO-2024-7060
+Date:12/03/2024
+Billing Currency: EUR
+Supplier: Silver Oak Procurement 銀橡採購股份有限公司
+Buyer: Summit Valley Electronics峰谷電子
+Ship To: 18 North Avenue, West District
+Contact Person:Ivy Chen/陈怡君
+Telephone: +1-555-0179
+Email:orders@procurement-mail.test
+Items:
+- JQ-725 | Qty 8 EA  Price 79.52 | Amount 636.16
+-BK-100
+)
+Qty 3 pcs | Price 88.20 | Amount 264.60
+- JQ-512 | Qty 13 sets | Price 92.76 | Amount 1205.88
+Subtotal:2106.64
+Tax:105.33
+Shipping Fee: 20.02
+Final Payable Amount: 2231.99
+PaymentTerms:Net45days（45天付款）
+Shipping Terms:CIF Destination（成本保險加運費）
+Remark: All goods must match approved specifications.所有货品须符合核准规格。

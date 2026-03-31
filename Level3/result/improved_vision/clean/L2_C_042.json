@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-4323",
+  "po_date": "2025-02-22",
+  "currency": "USD",
+  "total_amount": 6284.02,
+  "items": [
+    {
+      "part_number": "MOT-725",
+      "quantity": 2,
+      "unit": "sets",
+      "unit_price": 68.94,
+      "line_amount": 137.88
+    },
+    {
+      "part_number": "MOT-618",
+      "quantity": 6,
+      "unit": "sets",
+      "unit_price": 61.58,
+      "line_amount": 369.48
+    },
+    {
+      "part_number": "MOT-100",
+      "quantity": 38,
+      "unit": "sets",
+      "unit_price": 60.19,
+      "line_amount": 2287.22
+    },
+    {
+      "part_number": "AX-410",
+      "quantity": 36,
+      "unit": "sets",
+      "unit_price": 40.77,
+      "line_amount": 1467.72
+    }
+  ]
+}

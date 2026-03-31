@@ -1,0 +1,20 @@
+Please arrange the following materials for our upcoming production schedule.
+
+Supplier information: Ironcrest Materials 鐵冠材料有限公司
+For tracking purposes, please use order reference PO-2026-9759.
+
+Requested by: PolarEdge Manufacturing 極鋒製造
+
+Ordered Materials:
+1. BK-830, quantity 37 EA, unit price 19.75, amount 730.75
+2. Part IR-305 / Qty 18 boxes / Unit Price 73.07 / Amount 1315.26
+3. Part: DX-512 | Qty: 7 sets | Price: 23.78 | Amount: 166.46
+
+Payment Terms: Payment due upon receipt（收貨後付款）
+Please note that the order date is September 01, 2026.
+
+Shipping arrangement follows EXW Warehouse（工廠交貨）.
+All prices are stated in JPY.
+
+Settlement total: 2212.47
+Additional note: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

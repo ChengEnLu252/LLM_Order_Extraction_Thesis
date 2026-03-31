@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-3572",
+  "po_date": "2025-08-21",
+  "currency": "JPY",
+  "total_amount": 1351.51,
+  "items": [
+    {
+      "part_number": "IT-305",
+      "quantity": 11,
+      "unit": "pcs",
+      "unit_price": 19.62,
+      "line_amount": 216.82
+    },
+    {
+      "part_number": "GK-100",
+      "quantity": 14,
+      "unit": "EA",
+      "unit_price": 45.03,
+      "line_amount": 630.42
+    }
+  ]
+}

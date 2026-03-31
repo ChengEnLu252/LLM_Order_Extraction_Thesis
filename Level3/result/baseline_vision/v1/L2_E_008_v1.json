@@ -1,0 +1,22 @@
+{
+  "po_number": "L2-2_008",
+  "po_date": "2024-09-18",
+  "currency": "JPY",
+  "total_amount": 531.1,
+  "items": [
+    {
+      "part_number": "IR-220",
+      "quantity": 70,
+      "unit": "pcs",
+      "unit_price": 12.35,
+      "line_amount": 865.0
+    },
+    {
+      "part_number": "IR-725",
+      "quantity": 34,
+      "unit": "pcs",
+      "unit_price": 39.39,
+      "line_amount": 1069.02
+    }
+  ]
+}

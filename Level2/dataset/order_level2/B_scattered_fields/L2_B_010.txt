@@ -1,0 +1,18 @@
+Supplier: AuroraLink Systems 極光連結系統
+Buyer: BrightCore Assemblies 亮核組裝
+
+Kindly process the following order items for our current purchasing request.
+For tracking purposes, please use order reference PO-2024-3362.
+
+Item List:
+1. Part GX-940 / Qty 38 boxes / Unit Price 83.80 / Amount 3184.40
+2. Part: CN-220 | Qty: 26 units | Price: 76.05 | Amount: 1977.30
+3. Part: GX-410 | Qty: 24 pcs | Price: 7.26 | Amount: 174.24
+
+The issuance date for this order is 03/26/2026.
+The transaction currency for this order is USD.
+Payment Terms: 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）
+Shipping Terms: EXW Warehouse（工廠交貨）
+
+Total amount for this order: 5335.94
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

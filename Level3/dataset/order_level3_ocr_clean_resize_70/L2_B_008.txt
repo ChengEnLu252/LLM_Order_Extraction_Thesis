@@ -1,0 +1,17 @@
+Purchase Order
+Document ID: L2_B_008
+Category: B
+Please arrange the following materials for our upcoming production schedule.
+Supplier information: Silver Oak Procurement銀橡採購股份有限公司
+The official reference for this order is PO-2024-7756.
+Requested by:Allied Nexus Purchasing聯合採購中心
+Ordered Materials:
+1. Part: HM-618 Qty:2 pcs  Price:23.43 | Amount: 46.86
+2.Part: AX-100 |Qty: 32 units Price:66.61 | Amount: 2131.52
+3.AX-940,quantity 37 boxes, unit price 42.31, amount 1565.47
+Payment Terms:Payment dueupon receipt（收貨後付款）
+This order was issued on 2024-10-08.
+Shipping arrangement follows FoB Origin（離岸交貨）
+All prices are stated in JPY.
+Settlement total:3743.85
+Additional note:Please include inspection report with shipment.出貨時請附檢驗報告。

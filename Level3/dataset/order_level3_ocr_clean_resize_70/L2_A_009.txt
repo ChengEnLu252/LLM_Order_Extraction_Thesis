@@ -1,0 +1,35 @@
+Purchase Order
+Document ID: L2_A_009
+Category: A
+Supplier: Silver Oak Procurement銀橡採購股份有限公司
+Buyer: Allied Nexus Purchasing 聯合採購中心
+Purchase Order No.: PO-2024-6862
+Date Issued: 03/06/2025
+Curr.:JPY
+Item Code
+Qty
+UOM
+Rate
+Extended Price
+GX-305
+37
+EA
+88.65
+3280.05
+CN-725
+12
+pcs
+97.67
+1172.04
+FT-725
+13
+EA
+74.18
+964.34
+BK-725
+19
+pcs
+17.60
+334.40
+Total Amount: 5750.83
+Remarks:All goods must match approved specifications.所有货品须符合核准规格。

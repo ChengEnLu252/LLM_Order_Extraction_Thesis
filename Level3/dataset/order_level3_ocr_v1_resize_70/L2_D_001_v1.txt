@@ -1,0 +1,28 @@
+Purchase Order
+Document ID: L2_D_001
+Category: D
+Purchase Order No.:PO-2024-2426
+Date:11/13/2025
+Billing Currency: EUR
+Supplier:NorthstarComponentsLtd.北辰元件有限公司
+Buyer：Allied Nexus Purchasing聯合採購中心
+Ship To: 18 North Avenue, West District
+Contact Person:Daniel Brooks／陳志宏
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-EV-410
+Qty 3 boxes | Price 58.60 | Amount 175.80
+-EV-940
+Qty 14 boxes | Price 20.87 | Amount 292.18
+-EV-305
+Qty 30 EA | Price 67.77 | Amount 2033.10
+-JQ-940
+Qty19 units | Price 13.22 | Amount 251.18
+Subtotal:2752.26
+Tax:137.61
+Shipping Fee:48.46
+Final Payable Amount:2938.33
+PaymentTerms：Net45days（45天付款）
+Shipping Terms:EXwWarehouse（工廠交货）
+Remark: Please confirm delivery schedule before shipment.出貨前请先確認交期。

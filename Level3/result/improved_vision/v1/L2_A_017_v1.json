@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-7625",
+  "po_date": "2025-05-13",
+  "currency": "EUR",
+  "total_amount": 8279.39,
+  "items": [
+    {
+      "part_number": "GX-940",
+      "quantity": 37,
+      "unit": "boxes",
+      "unit_price": 54.03,
+      "line_amount": 1999.11
+    },
+    {
+      "part_number": "EV-512",
+      "quantity": 24,
+      "unit": "boxes",
+      "unit_price": 70.83,
+      "line_amount": 1701.12
+    },
+    {
+      "part_number": "GX-516",
+      "quantity": 16,
+      "unit": "pcs",
+      "unit_price": 13.82,
+      "line_amount": 221.12
+    },
+    {
+      "part_number": "CN-410",
+      "quantity": 36,
+      "unit": "EA",
+      "unit_price": 95.19,
+      "line_amount": 3426.84
+    },
+    {
+      "part_number": "JQ-940",
+      "quantity": 32,
+      "unit": "units",
+      "unit_price": 29.1,
+      "line_amount": 931.2
+    }
+  ]
+}

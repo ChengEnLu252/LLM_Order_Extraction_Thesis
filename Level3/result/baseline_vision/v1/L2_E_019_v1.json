@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-5018",
+  "po_date": "2026-08-26",
+  "currency": "USD",
+  "total_amount": 3233.27,
+  "items": [
+    {
+      "part_number": "X-618",
+      "quantity": 13,
+      "unit": "pcs",
+      "unit_price": 49.99,
+      "line_amount": 649.87
+    },
+    {
+      "part_number": "X-920",
+      "quantity": 18,
+      "unit": "EA",
+      "unit_price": 10.92,
+      "line_amount": 196.56
+    },
+    {
+      "part_number": "C-100",
+      "quantity": 20,
+      "unit": "units",
+      "unit_price": 16.12,
+      "line_amount": 322.4
+    }
+  ]
+}

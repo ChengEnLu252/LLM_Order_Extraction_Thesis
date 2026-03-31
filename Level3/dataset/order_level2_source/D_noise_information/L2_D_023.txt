@@ -1,0 +1,22 @@
+Purchase Order No.: PO-2026-9887
+Date: 28/02/2025
+Billing Currency: JPY
+Supplier: BluePeak Industrial Supply 藍峰工業供應
+Buyer: Stonepath Industrial 石徑工業
+
+Ship To: 18 North Avenue, West District
+Contact Person: Daniel Brooks / 陳志宏
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- FT-100 | Qty 34 pcs | Price 94.64 | Amount 3217.76
+- JQ-100 | Qty 26 boxes | Price 37.83 | Amount 983.58
+
+Subtotal: 4201.34
+Tax: 210.07
+Shipping Fee: 49.25
+Final Payable Amount: 4460.66
+Payment Terms: Net 45 days（45天付款）
+Shipping Terms: FOB Origin（離岸交貨）
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

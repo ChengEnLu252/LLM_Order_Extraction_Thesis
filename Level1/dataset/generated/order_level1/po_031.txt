@@ -1,0 +1,19 @@
+
+Subject: PO-2026-0031
+
+Hi,
+
+Please process this order.
+
+Buyer: 鼎新材料股份有限公司
+Supplier: 宏達電子有限公司
+Date: January 02, 2024
+
+Items:
+1. 電源管理IC (PMIC-A88) 數量: 285 個 單價: 91.28 小計: 26014.8
+2. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 716 個 單價: 57.78 小計: 41370.48
+3. 電源管理IC (PMIC-A88) 數量: 836 個 單價: 62.72 小計: 52433.92
+4. Type-C 連接器 24Pin (TC-24P-001) 數量: 304 條 單價: 153.16 小計: 46560.64
+
+
+Total Amount: 166379.84 TWD

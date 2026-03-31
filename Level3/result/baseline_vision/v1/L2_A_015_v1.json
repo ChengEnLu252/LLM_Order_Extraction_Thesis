@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-4908",
+  "po_date": "2024-09-15",
+  "currency": "EUR",
+  "total_amount": 3634.84,
+  "items": [
+    {
+      "part_number": "CN-220",
+      "quantity": 18,
+      "unit": "EA",
+      "unit_price": 17.16,
+      "line_amount": 388.88
+    },
+    {
+      "part_number": "AX-512",
+      "quantity": 21,
+      "unit": null,
+      "unit_price": 12.56,
+      "line_amount": 263.79
+    },
+    {
+      "part_number": "DV-220",
+      "quantity": 26,
+      "unit": null,
+      "unit_price": 40.87,
+      "line_amount": 1062.62
+    },
+    {
+      "part_number": "EV-220",
+      "quantity": 17,
+      "unit": null,
+      "unit_price": 11.99,
+      "line_amount": 203.83
+    },
+    {
+      "part_number": "GX-618",
+      "quantity": 4,
+      "unit": "pcs",
+      "unit_price": 36.03,
+      "line_amount": 144.12
+    }
+  ]
+}

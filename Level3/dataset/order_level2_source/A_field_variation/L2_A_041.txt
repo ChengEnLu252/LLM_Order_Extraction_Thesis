@@ -1,0 +1,12 @@
+Supplier: Ironcrest Materials 鐵冠材料有限公司
+Buyer: LumenTrail Procurement 光徑採購
+P.O. No.: PO-2024-3513
+PO Date: 10 Jul 2026
+Billing Currency: EUR
+
+Item Code       Quantity     Unit       Unit Price      Line Total     
+FT-725          38           boxes      15.49           588.62         
+BK-100          19           EA         26.46           502.74         
+
+Total Amount: 1091.36
+Remarks: All goods must match approved specifications. 所有貨品須符合核准規格。

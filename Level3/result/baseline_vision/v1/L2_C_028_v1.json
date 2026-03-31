@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-2539",
+  "po_date": "2026-12-03",
+  "currency": "JPY",
+  "total_amount": 6029.51,
+  "items": [
+    {
+      "part_number": "CM-100",
+      "quantity": 21,
+      "unit": "units",
+      "unit_price": 93.75,
+      "line_amount": 1968.75
+    },
+    {
+      "part_number": "EM-512",
+      "quantity": 35,
+      "unit": "EA",
+      "unit_price": 13.97,
+      "line_amount": 488.95
+    },
+    {
+      "part_number": "DA-220",
+      "quantity": 25,
+      "unit": "EA",
+      "unit_price": 88.98,
+      "line_amount": 2224.5
+    },
+    {
+      "part_number": "CA-512",
+      "quantity": 33,
+      "unit": null,
+      "unit_price": 30.8,
+      "line_amount": 980.2
+    },
+    {
+      "part_number": "DX-100",
+      "quantity": 7,
+      "unit": null,
+      "unit_price": 49.7,
+      "line_amount": 367.11
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+PO Number: PO-2026-3521
+PO Date: August 07, 2024
+Currency: USD
+Supplier: CedarStone Imports 雪松石進出口
+
+Ordered Items:
+1) Item FT-830, ordered quantity 37 EA, unit price 79.28, total 2933.36
+2) FT-305 / 3boxes / 69.55 / 208.65
+3) Item HM-940, ordered quantity 4 boxes, unit price 49.56, total 198.24
+4) DX-305 / 36 units / 70.31 / 2531.16
+
+Grand Total: 5871.41
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

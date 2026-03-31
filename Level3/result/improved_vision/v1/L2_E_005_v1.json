@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-8233",
+  "po_date": "2025-12-31",
+  "currency": "JPY",
+  "total_amount": 3463.31,
+  "items": [
+    {
+      "part_number": "CH-202",
+      "quantity": 3,
+      "unit": "each",
+      "unit_price": 13.02,
+      "line_amount": 39.06
+    },
+    {
+      "part_number": "EX-305",
+      "quantity": 2,
+      "unit": "EA",
+      "unit_price": 21.97,
+      "line_amount": 43.79
+    },
+    {
+      "part_number": "JY-241",
+      "quantity": 34,
+      "unit": "units",
+      "unit_price": 21.61,
+      "line_amount": 734.74
+    },
+    {
+      "part_number": "JY-202",
+      "quantity": 2,
+      "unit": "sets",
+      "unit_price": 53.15,
+      "line_amount": 107.1
+    },
+    {
+      "part_number": "EX-202",
+      "quantity": 5,
+      "unit": "sets",
+      "unit_price": 31.52,
+      "line_amount": 156.72
+    }
+  ]
+}

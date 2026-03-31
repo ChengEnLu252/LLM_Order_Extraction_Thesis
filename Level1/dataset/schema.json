@@ -1,0 +1,15 @@
+{
+  "po_number": "string",
+  "po_date": "YYYY-MM-DD",
+  "currency": "string",
+  "total_amount": "float",
+  "items": [
+    {
+      "part_number": "string",
+      "quantity": "int",
+      "unit": "string",
+      "unit_price": "float",
+      "line_amount": "float"
+    }
+  ]
+}

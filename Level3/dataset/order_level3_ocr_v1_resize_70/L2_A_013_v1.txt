@@ -1,0 +1,26 @@
+Purchase Order
+Document ID: L2_A_013
+Category: A
+Supplier:IroncrestMaterials鐵冠材料有限公司
+Buyer：Stonepath Industrial石徑工業
+OrderID:PO-2026-5681
+PODate: 25 Apr 2025
+Billing Currency: EUR
+SKU
+Qty
+Measure
+Item Price
+Total Price
+GX-305
+10
+EA
+16.78
+167.80
+FT-940
+6
+sets
+42.66
+255.96
+Total Amount: 423.76
+Remarks:Allgoodsmust matchapprovedspecifications.所有货品须符合核准规格。
+al

@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-4476",
+  "po_date": "2026-02-24",
+  "currency": "JPY",
+  "total_amount": 3355.23,
+  "items": [
+    {
+      "part_number": "AX-618",
+      "quantity": 8,
+      "unit": "EA",
+      "unit_price": 56.59,
+      "line_amount": 452.72
+    },
+    {
+      "part_number": "AX-100",
+      "quantity": 32,
+      "unit": "pcs",
+      "unit_price": 91.01,
+      "line_amount": 2912.32
+    }
+  ]
+}

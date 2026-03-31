@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-9128",
+  "po_date": "2026-07-21",
+  "currency": "JPY",
+  "total_amount": 7487.93,
+  "items": [
+    {
+      "part_number": "C-512",
+      "quantity": 38,
+      "unit": "pcs",
+      "unit_price": 18.35,
+      "line_amount": 697.3
+    },
+    {
+      "part_number": "B-410",
+      "quantity": 38,
+      "unit": "pcs",
+      "unit_price": 66.66,
+      "line_amount": 2568.28
+    },
+    {
+      "part_number": "A-XL",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 32.32,
+      "line_amount": 64.64
+    },
+    {
+      "part_number": "C-305",
+      "quantity": 21,
+      "unit": "pcs",
+      "unit_price": 37.67,
+      "line_amount": 1205.44
+    },
+    {
+      "part_number": "G-410",
+      "quantity": 37,
+      "unit": "boxes",
+      "unit_price": 80.71,
+      "line_amount": 2986.27
+    }
+  ]
+}

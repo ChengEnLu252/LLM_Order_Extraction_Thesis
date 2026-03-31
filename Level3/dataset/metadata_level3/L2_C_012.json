@@ -1,0 +1,49 @@
+{
+  "source_id": "L2_C_012",
+  "category": "C",
+  "image_versions": [
+    {
+      "version": "clean",
+      "visual_style": "rendered_clean",
+      "blur_level": 0,
+      "skew_level": 0,
+      "resolution_level": "original",
+      "noise_level": 0,
+      "shadow_level": 0
+    },
+    {
+      "version": "v1",
+      "visual_style": "lightly_degraded",
+      "blur_level": 1,
+      "skew_level": 0,
+      "resolution_level": "high",
+      "noise_level": 0,
+      "shadow_level": 1,
+      "params": {
+        "resolution_scale": 0.88,
+        "blur_kernel": 3,
+        "shadow": true,
+        "shadow_x_start": 0.96,
+        "shadow_y_start": 0.97
+      }
+    },
+    {
+      "version": "v2",
+      "visual_style": "scanned_degraded",
+      "blur_level": 2,
+      "skew_level": 1,
+      "resolution_level": "medium",
+      "noise_level": 1,
+      "shadow_level": 1,
+      "params": {
+        "resolution_scale": 0.55,
+        "blur_kernel": 3,
+        "rotation_angle": -3.0,
+        "noise_sigma": 8.0,
+        "shadow": true,
+        "shadow_x_start": 0.88,
+        "shadow_y_start": 0.92
+      }
+    }
+  ]
+}

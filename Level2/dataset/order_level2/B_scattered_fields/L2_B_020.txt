@@ -1,0 +1,17 @@
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: Allied Nexus Purchasing 聯合採購中心
+
+Please arrange the following materials for our upcoming production schedule.
+For tracking purposes, please use order reference PO-2026-5402.
+
+Item List:
+1. Part: EV-618 | Qty: 27 sets | Price: 52.53 | Amount: 1418.31
+2. Part AX-220 / Qty 33 sets / Unit Price 34.07 / Amount 1124.31
+
+The issuance date for this order is 04/28/2026.
+Please process all item prices in EUR.
+Payment Terms: Net 30 days（30天付款）
+Shipping Terms: DAP Customer Site（目的地交貨）
+
+Settlement total: 2542.62
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

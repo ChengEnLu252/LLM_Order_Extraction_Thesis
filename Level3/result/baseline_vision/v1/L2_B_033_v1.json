@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-3876",
+  "po_date": "2026-10-01",
+  "currency": "USD",
+  "total_amount": 428.97,
+  "items": [
+    {
+      "part_number": "L2_B_033",
+      "quantity": 40,
+      "unit": "pcs",
+      "unit_price": 23.41,
+      "line_amount": 937.6
+    },
+    {
+      "part_number": "TX-305",
+      "quantity": 23,
+      "unit": "boxes",
+      "unit_price": 91.95,
+      "line_amount": 2114.85
+    },
+    {
+      "part_number": "PF-100",
+      "quantity": 1,
+      "unit": "pcs",
+      "unit_price": 92.04,
+      "line_amount": 1196.52
+    }
+  ]
+}

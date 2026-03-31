@@ -1,0 +1,17 @@
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: Summit Valley Electronics 峰谷電子
+
+Kindly process the following order items for our current purchasing request.
+For tracking purposes, please use order reference PO-2025-9173.
+
+Item List:
+1. Part GX-410 / Qty 19 units / Unit Price 39.54 / Amount 751.26
+2. IR-100, quantity 17 sets, unit price 63.81, amount 1084.77
+
+Please note that the order date is 04/23/2026.
+All prices are stated in JPY.
+Payment Terms: 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）
+Shipping Terms: DAP Customer Site（目的地交貨）
+
+Total amount for this order: 1836.03
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

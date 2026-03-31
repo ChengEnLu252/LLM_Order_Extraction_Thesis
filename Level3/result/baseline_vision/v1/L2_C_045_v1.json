@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-8311",
+  "po_date": "2025-08-14",
+  "currency": "JPY",
+  "total_amount": 7300.52,
+  "items": [
+    {
+      "part_number": "SW-100",
+      "quantity": 14,
+      "unit": null,
+      "unit_price": 2.35,
+      "line_amount": 32.9
+    },
+    {
+      "part_number": "100-300",
+      "quantity": 33,
+      "unit": null,
+      "unit_price": 85.83,
+      "line_amount": 2832.39
+    },
+    {
+      "part_number": "100-301",
+      "quantity": 25,
+      "unit": null,
+      "unit_price": 25.31,
+      "line_amount": 635.23
+    }
+  ]
+}

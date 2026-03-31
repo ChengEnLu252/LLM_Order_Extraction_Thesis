@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-5105",
+  "po_date": "2024-08-22",
+  "currency": "JPY",
+  "total_amount": 522.23,
+  "items": [
+    {
+      "part_number": "BK-940",
+      "quantity": 33,
+      "unit": "EA",
+      "unit_price": 47.1,
+      "line_amount": 1557.93
+    },
+    {
+      "part_number": "EX-305",
+      "quantity": 30,
+      "unit": "EA",
+      "unit_price": 15.75,
+      "line_amount": 472.5
+    },
+    {
+      "part_number": "CN-220",
+      "quantity": 36,
+      "unit": "EA",
+      "unit_price": 61.68,
+      "line_amount": 184.44
+    }
+  ]
+}

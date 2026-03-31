@@ -1,0 +1,23 @@
+Purchase Order
+Document ID: L2_E_027
+Category: E
+Supplier：Vertex Axis Trading維泰轴心贸易
+Buyer: Summit Valley Electronics峰谷電子
+Please process the following materials based on our current procurement request.
+PO Number: PO-2026-8284
+The requested materials are summarized below in mixed item formats.
+1.ProductCode:GX-940
+Units Ordered: 10 boxes
+Item Price: 32.54
+Amount:325.40
+2.IR-305 / ordered quantity 21EA / rate 59.20 / line total 1243.20
+Additional Information:
+Date:15Jan 2025
+The agreed payment condition is Payment due upon receipt(收貨後付款).
+Delivery arrangement follows EXw Warehouse(工廠交货）.
+All prices are quoted in USD.
+Subtotal:1568.60
+Discount: 13.80
+Handling Fee: 11.14
+Final Amount: 1565.94
+Remark:Allgoods mustmatchapprovedspecifications.所有货品须符合核准规格。

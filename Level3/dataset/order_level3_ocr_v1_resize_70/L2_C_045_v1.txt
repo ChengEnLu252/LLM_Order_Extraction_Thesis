@@ -1,0 +1,21 @@
+Purchase Order
+Document ID: L2_C_045
+Category: C
+PONumber：PO-2026-8311
+PO Date:2025-08-14
+Currency:JPY
+Supplier：Vertex Axis Trading維泰轴心貿易
+Ordered Items:
+1)Part No:EV-100
+Qty:14 sets
+Unit Price:2.35
+Amount:32.90
+2)Item IR-100,ordered quantity 33 units, unit price 85.83,total 2832.39
+3)
+PartNo:JQ-830
+Qty:33sets
+Unit Price:25.31
+Amount：835.23
+GrandTotal：3700.52
+Remark：All goodsmustmatchapprovedspecifications.所有货品须符合核准规格。
+al

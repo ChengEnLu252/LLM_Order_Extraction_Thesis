@@ -1,0 +1,43 @@
+{
+  "po_number": "Po-2025-9743",
+  "po_date": "2026-05-01",
+  "currency": "EUR",
+  "total_amount": 2360.23,
+  "items": [
+    {
+      "part_number": "HM-618",
+      "quantity": 31,
+      "unit": "EA",
+      "unit_price": 11.66,
+      "line_amount": 361.46
+    },
+    {
+      "part_number": "AX-410",
+      "quantity": 25,
+      "unit": "EA",
+      "unit_price": 32.67,
+      "line_amount": 816.75
+    },
+    {
+      "part_number": "JQ-725",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 27.56,
+      "line_amount": 82.68
+    },
+    {
+      "part_number": "DX-725",
+      "quantity": 11,
+      "unit": "units",
+      "unit_price": 21.23,
+      "line_amount": 233.53
+    },
+    {
+      "part_number": "FT-512",
+      "quantity": 17,
+      "unit": "sets",
+      "unit_price": 50.93,
+      "line_amount": 865.81
+    }
+  ]
+}

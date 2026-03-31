@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-3521",
+  "po_date": "2024-08-07",
+  "currency": "USD",
+  "total_amount": 871.41,
+  "items": [
+    {
+      "part_number": "Item F-830",
+      "quantity": 37,
+      "unit": "EA",
+      "unit_price": 79.28,
+      "line_amount": 2933.36
+    },
+    {
+      "part_number": "Item F-905 / 3 boxes",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 69.65,
+      "line_amount": 208.65
+    },
+    {
+      "part_number": "Item M-340",
+      "quantity": 4,
+      "unit": "boxes",
+      "unit_price": 49.56,
+      "line_amount": 198.24
+    },
+    {
+      "part_number": "J-04",
+      "quantity": 5,
+      "unit": "unit",
+      "unit_price": 7.1,
+      "line_amount": 35.5
+    }
+  ]
+}

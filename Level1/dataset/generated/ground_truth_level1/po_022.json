@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-0022",
+  "po_date": "2024-12-09",
+  "currency": "USD",
+  "total_amount": 104617.22,
+  "items": [
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 248,
+      "unit": "PCS",
+      "unit_price": 123.28,
+      "line_amount": 30573.44
+    },
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 409,
+      "unit": "PCS",
+      "unit_price": 42.61,
+      "line_amount": 17427.49
+    },
+    {
+      "part_number": "HDMI-21-2M",
+      "quantity": 629,
+      "unit": "PCS",
+      "unit_price": 90.01,
+      "line_amount": 56616.29
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+Purchase Order
+Document ID: L2_B_033
+Category: B
+Procurement Note:
+Please arrange the following materials for our upcoming production schedule.
+Requested by purchasing team: Summit Valley Electronics 峰谷電子
+Supplier Details:
+BluePeak Industrial Supply藍峰工業供應
+For tracking purposes, please use order reference PO-2025-3876.
+Materials Requested:
+1. IR-830, quantity 40 pcs, unit price 23.44,amount 937.60
+2.Part DX-305 / Qty 23 boxes / Unit Price 91.95 / Amount 2114.85
+3.Part FT-100 / Qty 13 pcs / Unit Price 92.04 / Amount 1196.52
+The issuance date for this order is October 01, 2026.
+The agreed payment condition is Net45 days(45天付款）.
+Delivery willfollowFOB Origin（離岸交货）.
+The transaction currency for this order is USD.
+Total amount for this order: 4248.97
+Please note: Packaging must comply with export standards.包装需符合出口標準。

@@ -1,0 +1,15 @@
+{
+  "po_number": "PO-2026-0041",
+  "po_date": "2025-07-18",
+  "currency": "TWD",
+  "total_amount": 36480.9,
+  "items": [
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 831,
+      "unit": "條",
+      "unit_price": 43.9,
+      "line_amount": 36480.9
+    }
+  ]
+}

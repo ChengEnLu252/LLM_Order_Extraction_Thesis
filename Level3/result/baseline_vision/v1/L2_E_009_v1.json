@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-7470",
+  "po_date": "2024-08-26",
+  "currency": "USD",
+  "total_amount": 6211.11,
+  "items": [
+    {
+      "part_number": "J30-830",
+      "quantity": 2,
+      "unit": "EA",
+      "unit_price": 87.14,
+      "line_amount": 174.28
+    },
+    {
+      "part_number": "GX-512",
+      "quantity": 2,
+      "unit": "EA",
+      "unit_price": 69.68,
+      "line_amount": 139.36
+    },
+    {
+      "part_number": "DK-220",
+      "quantity": 10,
+      "unit": "EA",
+      "unit_price": 15.24,
+      "line_amount": 152.4
+    },
+    {
+      "part_number": "J30-830",
+      "quantity": 4,
+      "unit": "EA",
+      "unit_price": 276.86,
+      "line_amount": 1107.44
+    },
+    {
+      "part_number": "R410A",
+      "quantity": 17,
+      "unit": "EA",
+      "unit_price": 44.71,
+      "line_amount": 760.07
+    }
+  ]
+}

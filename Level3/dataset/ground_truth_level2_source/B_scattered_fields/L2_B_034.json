@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-8982",
+  "po_date": "2025-10-11",
+  "currency": "USD",
+  "total_amount": "3464.54",
+  "items": [
+    {
+      "part_number": "GX-512",
+      "quantity": 39,
+      "unit": "boxes",
+      "unit_price": "81.82",
+      "line_amount": "3190.98"
+    },
+    {
+      "part_number": "AX-725",
+      "quantity": 10,
+      "unit": "units",
+      "unit_price": "19.42",
+      "line_amount": "194.20"
+    },
+    {
+      "part_number": "FT-410",
+      "quantity": 4,
+      "unit": "units",
+      "unit_price": "19.84",
+      "line_amount": "79.36"
+    }
+  ]
+}

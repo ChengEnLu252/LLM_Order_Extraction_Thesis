@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-8233",
+  "po_date": "2025-12-31",
+  "currency": "JPY",
+  "total_amount": 3463.31,
+  "items": [
+    {
+      "part_number": "CN-202",
+      "quantity": 13,
+      "unit": "each",
+      "unit_price": 13.02,
+      "line_amount": 429.66
+    },
+    {
+      "part_number": "EV-305",
+      "quantity": 2,
+      "unit": "EA",
+      "unit_price": 21.97,
+      "line_amount": 153.79
+    },
+    {
+      "part_number": "JQ-410",
+      "quantity": 34,
+      "unit": "units",
+      "unit_price": 2.61,
+      "line_amount": 280.74
+    },
+    {
+      "part_number": "JQ-305",
+      "quantity": 2,
+      "unit": "pieces",
+      "unit_price": 53.75,
+      "line_amount": 107.1
+    },
+    {
+      "part_number": "Z-207",
+      "quantity": 1,
+      "unit": "box",
+      "unit_price": 156.72,
+      "line_amount": 156.72
+    }
+  ]
+}

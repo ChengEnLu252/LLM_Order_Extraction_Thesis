@@ -1,0 +1,43 @@
+{
+  "po_number": "L2_E_050",
+  "po_date": "2025-11-22",
+  "currency": "EUR",
+  "total_amount": 3096.51,
+  "items": [
+    {
+      "part_number": "V-512",
+      "quantity": 27,
+      "unit": "EA",
+      "unit_price": 9.04,
+      "line_amount": 244.08
+    },
+    {
+      "part_number": "CN-616",
+      "quantity": 3,
+      "unit": "EA",
+      "unit_price": 40.59,
+      "line_amount": 1217.47
+    },
+    {
+      "part_number": "V-630",
+      "quantity": 5,
+      "unit": "EA",
+      "unit_price": 85.28,
+      "line_amount": 426.4
+    },
+    {
+      "part_number": "H-512",
+      "quantity": 38,
+      "unit": "EA",
+      "unit_price": 15.48,
+      "line_amount": 588.24
+    },
+    {
+      "part_number": "DX-100",
+      "quantity": 5,
+      "unit": "EA",
+      "unit_price": 23.88,
+      "line_amount": 119.4
+    }
+  ]
+}

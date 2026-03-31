@@ -1,0 +1,18 @@
+
+Subject: PO-2026-0022
+
+Hi,
+
+Please process this order.
+
+Buyer: 承恩科技股份有限公司
+Supplier: 華宇半導體
+Date: December 09, 2024
+
+Items:
+1. Type-C 連接器 24Pin (TC-24P-001) 數量: 248 PCS 單價: 123.28 小計: 30573.44
+2. 電源管理IC (PMIC-A88) 數量: 409 PCS 單價: 42.61 小計: 17427.49
+3. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 629 PCS 單價: 90.01 小計: 56616.29
+
+
+Total Amount: 104617.22 USD

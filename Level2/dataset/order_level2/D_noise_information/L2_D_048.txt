@@ -1,0 +1,24 @@
+Purchase Order No.: PO-2024-4867
+Date: 17 Aug 2024
+Billing Currency: JPY
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Buyer: Allied Nexus Purchasing 聯合採購中心
+
+Ship To: 18 North Avenue, West District
+Contact Person: Kevin Huang / 黃建凱
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- DX-220 | Qty 33 boxes | Price 88.69 | Amount 2926.77
+- GX-410 | Qty 23 sets | Price 83.57 | Amount 1922.11
+- CN-410 | Qty 15 boxes | Price 16.14 | Amount 242.10
+- JQ-100 | Qty 30 sets | Price 42.02 | Amount 1260.60
+
+Subtotal: 6351.58
+Tax: 317.58
+Shipping Fee: 32.15
+Final Payable Amount: 6701.31
+Payment Terms: Payment due upon receipt（收貨後付款）
+Shipping Terms: FOB Origin（離岸交貨）
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

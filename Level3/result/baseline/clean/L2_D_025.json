@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-2313",
+  "po_date": "2026-03-11",
+  "currency": "USD",
+  "total_amount": 1235.4,
+  "items": [
+    {
+      "part_number": "CN-830",
+      "quantity": 12,
+      "unit": "EA",
+      "unit_price": 29.04,
+      "line_amount": 348.48
+    },
+    {
+      "part_number": "AX-512",
+      "quantity": 15,
+      "unit": "sets",
+      "unit_price": 53.03,
+      "line_amount": 795.45
+    }
+  ]
+}

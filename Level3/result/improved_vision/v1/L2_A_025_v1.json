@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-5847",
+  "po_date": "2025-08-27",
+  "currency": "USD",
+  "total_amount": 4281.48,
+  "items": [
+    {
+      "part_number": "AX-330",
+      "quantity": 38,
+      "unit": "boxes",
+      "unit_price": 86.78,
+      "line_amount": 3279.64
+    },
+    {
+      "part_number": "FI-010",
+      "quantity": 16,
+      "unit": "EA",
+      "unit_price": 61.49,
+      "line_amount": 983.84
+    }
+  ]
+}

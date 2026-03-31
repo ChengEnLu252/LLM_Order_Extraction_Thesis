@@ -1,0 +1,25 @@
+Purchase Order No.: PO-2025-3915
+Date: 2026-06-21
+Billing Currency: USD
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: GrandRiver Devices 大河裝置
+
+Ship To: 18 North Avenue, West District
+Contact Person: Ivy Chen / 陳怡君
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- BK-305 | Qty 13 units | Price 65.26 | Amount 848.38
+- BK-830 | Qty 29 boxes | Price 23.40 | Amount 678.60
+- BK-512 | Qty 8 sets | Price 5.42 | Amount 43.36
+- CN-100 | Qty 3 pcs | Price 89.86 | Amount 269.58
+- FT-725 | Qty 26 units | Price 28.11 | Amount 730.86
+
+Subtotal: 2570.78
+Tax: 128.54
+Shipping Fee: 40.52
+Final Payable Amount: 2739.84
+Payment Terms: 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）
+Shipping Terms: DAP Customer Site（目的地交貨）
+Remark: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

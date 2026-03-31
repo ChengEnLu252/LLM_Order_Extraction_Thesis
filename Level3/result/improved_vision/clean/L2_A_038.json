@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-9647",
+  "po_date": "2022-06-15",
+  "currency": "USD",
+  "total_amount": 2924.52,
+  "items": [
+    {
+      "part_number": "GX-330",
+      "quantity": 9,
+      "unit": "pcs",
+      "unit_price": 6.68,
+      "line_amount": 60.12
+    },
+    {
+      "part_number": "EM-940",
+      "quantity": 9,
+      "unit": "pcs",
+      "unit_price": 84.0,
+      "line_amount": 756.0
+    },
+    {
+      "part_number": "CN-512",
+      "quantity": 34,
+      "unit": "sets",
+      "unit_price": 58.35,
+      "line_amount": 1983.9
+    },
+    {
+      "part_number": "DX-725",
+      "quantity": 2,
+      "unit": "EA",
+      "unit_price": 62.25,
+      "line_amount": 124.5
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+Purchase Order No.: PO-2025-6940
+Date: 2024-10-11
+Billing Currency: EUR
+Supplier: OrbitLine Distribution 軌域配銷有限公司
+Buyer: Stonepath Industrial 石徑工業
+
+Ship To: 18 North Avenue, West District
+Contact Person: Melissa Turner / 王美玲
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- BK-410 | Qty 21 EA | Price 4.82 | Amount 101.22
+- EV-305 | Qty 11 EA | Price 69.43 | Amount 763.73
+- GX-220 | Qty 10 pcs | Price 98.15 | Amount 981.50
+
+Subtotal: 1846.45
+Tax: 92.32
+Shipping Fee: 12.98
+Final Payable Amount: 1951.75
+Payment Terms: 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）
+Shipping Terms: DAP Customer Site（目的地交貨）
+Remark: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

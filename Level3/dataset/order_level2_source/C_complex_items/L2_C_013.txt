@@ -1,0 +1,20 @@
+PO Number: PO-2026-2938
+PO Date: 16/04/2025
+Currency: EUR
+Supplier: Ironcrest Materials 鐵冠材料有限公司
+
+Ordered Items:
+1) Part No: JQ-305
+   Qty: 32 sets
+   Unit Price: 48.94
+   Amount: 1566.08
+2) Qty 3 EA of CN-305 at 25.88 each, total 77.64
+3) Part No: JQ-305
+   Qty: 34 pcs
+   Unit Price: 5.84
+   Amount: 198.56
+4) Item CN-940, ordered quantity 12 sets, unit price 27.31, total 327.72
+5) Part: AX-512 | Qty: 40 pcs | Price: 96.99 | Amount: 3879.60
+
+Grand Total: 6049.60
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

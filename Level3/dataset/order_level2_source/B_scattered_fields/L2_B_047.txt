@@ -1,0 +1,25 @@
+Procurement Note:
+Please arrange the following materials for our upcoming production schedule.
+
+Requested by purchasing team: BrightCore Assemblies 亮核組裝
+
+Supplier Details:
+OrbitLine Distribution 軌域配銷有限公司
+
+The official reference for this order is PO-2025-2654.
+
+Materials Requested:
+1. Part JQ-220 / Qty 8 boxes / Unit Price 52.14 / Amount 417.12
+2. HM-410, quantity 9 units, unit price 78.91, amount 710.19
+3. IR-410, quantity 14 boxes, unit price 78.24, amount 1095.36
+4. AX-940, quantity 28 sets, unit price 30.94, amount 866.32
+5. HM-618, quantity 15 EA, unit price 69.44, amount 1041.60
+
+The issuance date for this order is 2026-12-01.
+
+The agreed payment condition is Net 30 days（30天付款）.
+Delivery will follow FOB Origin（離岸交貨）.
+Please process all item prices in EUR.
+
+Settlement total: 4130.59
+Please note: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

@@ -1,0 +1,23 @@
+Purchase Order
+Document ID: L2_E_003
+Category: E
+Supplier：NovaCircuit Solutions新曜電路方案
+Buyer：PolarEdge Manufacturing極鋒製造
+Please review and process the following procurement request.
+Purchase Order No.:PO-2026-4476
+Please note that the requested items are presented in different line formats below.
+1.ProductCode:AX-618
+Units Ordered:8EA
+Item Price: 56.59
+Amount:452.72
+2.Part: JQ-100 |Qty:32 pcs | Price:91.01 | Amount: 2912.32
+Additional Information:
+Order Date:24/02/2026
+Paymentforthisordershallfollow 30%advance，70%beforeshipment(30%预付，70出货前付清）.
+Shipping arrangement will follow EXw Warehouse(工廠交貨）.
+All prices are quoted in JPY.
+Subtotal:3365.04
+Discount: 19.52
+Handling Fee:9.71
+Final Amount:3355.23
+Remark:Partial shipment is not allowed unless approved.未经同意不得分批出货。

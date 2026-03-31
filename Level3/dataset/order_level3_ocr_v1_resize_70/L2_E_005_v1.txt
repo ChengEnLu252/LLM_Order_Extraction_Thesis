@@ -1,0 +1,23 @@
+Purchase Order
+Document ID: L2_E_005
+Category: E
+Supplier: Prime Harbor Manufacturing鼎港製造
+Buyer： LumenTrailProcurement光徑採購
+Please process the following materials based on our current procurement request.
+Order ID:PO-2024-8233
+The requested materials are summarized below in mixed item formats.
+1.Qty 33 boxes of CN-220 at 13.02 each, total 429.66
+2.Qty  7 EA  of EV-305 at 21.97 each, total 153.79
+3.Qty 34 units of JQ-410 at 82.61 each, total 2808.74
+4.Part:JQ-305|Qty:2 sets |Price:53.55 | Amount:107.10
+5.HM-220 / ordered quantity 6boxes / rate 26.12 / line total 156.72
+Additional Information:
+PODate:12/31/2025
+The agreed payment condition is Payment due upon receipt(收貨後付款)
+Delivery arrangement follows FOB Origin（離岸交貨）.
+All prices are quoted in JPY.
+Subtotal:3656.01
+Discount:17.55
+Handling Fee:4.85
+Final Amount: 3643.31
+Remark:Pleaseconfirmdeliveryschedulebeforeshipment.出貨前请先確認交期。

@@ -1,0 +1,43 @@
+{
+  "po_number": "L2_D_011",
+  "po_date": "2024-03-25",
+  "currency": "USD",
+  "total_amount": 4602.98,
+  "items": [
+    {
+      "part_number": "EV-220",
+      "quantity": 19,
+      "unit": "boxes",
+      "unit_price": 34.83,
+      "line_amount": 661.77
+    },
+    {
+      "part_number": "DX-410",
+      "quantity": 30,
+      "unit": null,
+      "unit_price": 0.43,
+      "line_amount": 1278.87
+    },
+    {
+      "part_number": "DX-618",
+      "quantity": 23,
+      "unit": null,
+      "unit_price": 67.91,
+      "line_amount": 1573.66
+    },
+    {
+      "part_number": "DK-610",
+      "quantity": 2,
+      "unit": "sets",
+      "unit_price": 7.93,
+      "line_amount": 15.86
+    },
+    {
+      "part_number": "HK-618",
+      "quantity": 8,
+      "unit": "EA",
+      "unit_price": 53.48,
+      "line_amount": 427.84
+    }
+  ]
+}

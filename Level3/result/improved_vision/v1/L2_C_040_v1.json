@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-6062",
+  "po_date": "2026-12-08",
+  "currency": "USD",
+  "total_amount": 4737.84,
+  "items": [
+    {
+      "part_number": "Item IR-220",
+      "quantity": 22,
+      "unit": "EA",
+      "unit_price": 8.65,
+      "line_amount": 190.3
+    },
+    {
+      "part_number": "Item CN-100",
+      "quantity": 20,
+      "unit": "boxes",
+      "unit_price": 84.27,
+      "line_amount": 1853.94
+    }
+  ]
+}

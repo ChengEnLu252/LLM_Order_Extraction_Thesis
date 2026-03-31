@@ -1,0 +1,35 @@
+Purchase Order
+Document ID: L2_A_008
+Category: A
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Buyer： BrightCore Assemblies亮核组装
+P.O.No.:PO-2025-2891
+Date:08/07/2024
+Currency: JPY
+Product Code
+Quantity
+Unit Type
+Price/Unit
+Amount
+FT-410
+20
+boxes
+61.27
+1225.40
+AX-220
+34
+sets
+49.88
+1695.92
+FT-305
+19
+boxes
+6.32
+120.08
+IR-725
+12
+units
+74.64
+895.68
+Grand Total:3937.08
+Remarks: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

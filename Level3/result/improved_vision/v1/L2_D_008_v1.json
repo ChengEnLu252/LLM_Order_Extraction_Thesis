@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-8687",
+  "po_date": "2023-09-11",
+  "currency": "EUR",
+  "total_amount": 947.44,
+  "items": [
+    {
+      "part_number": "JO-512",
+      "quantity": 12,
+      "unit": "units",
+      "unit_price": 6.5,
+      "line_amount": 78.0
+    },
+    {
+      "part_number": "JO-305",
+      "quantity": 18,
+      "unit": "units",
+      "unit_price": 8.06,
+      "line_amount": 145.08
+    },
+    {
+      "part_number": "EW-100",
+      "quantity": 5,
+      "unit": "boxes",
+      "unit_price": 66.2,
+      "line_amount": 331.0
+    },
+    {
+      "part_number": "IR-220",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 10.09,
+      "line_amount": 30.27
+    }
+  ]
+}

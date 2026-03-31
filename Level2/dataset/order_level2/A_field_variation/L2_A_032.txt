@@ -1,0 +1,14 @@
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Buyer: Allied Nexus Purchasing 聯合採購中心
+Order Ref: PO-2025-7785
+PO Date: 13 Jul 2025
+Billing Currency: USD
+
+Part No.        Quantity     Measure    Rate            Total Price    
+JQ-830          29           units      12.87           373.23         
+GX-100          21           pcs        6.45            135.45         
+DX-305          15           boxes      31.54           473.10         
+AX-830          20           sets       34.16           683.20         
+
+Total: 1664.98
+Remarks: Packaging must comply with export standards. 包裝需符合出口標準。

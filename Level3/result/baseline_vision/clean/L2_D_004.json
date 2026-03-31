@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-8063",
+  "po_date": "2022-06-10",
+  "currency": "JPY",
+  "total_amount": 3594.9,
+  "items": [
+    {
+      "part_number": "JO-831",
+      "quantity": 6,
+      "unit": "pcs",
+      "unit_price": 74.46,
+      "line_amount": 446.76
+    },
+    {
+      "part_number": "PT-240",
+      "quantity": 39,
+      "unit": "pcs",
+      "unit_price": 60.42,
+      "line_amount": 2358.38
+    },
+    {
+      "part_number": "GX-240",
+      "quantity": 30,
+      "unit": "pcs",
+      "unit_price": 19.27,
+      "line_amount": 578.1
+    }
+  ]
+}

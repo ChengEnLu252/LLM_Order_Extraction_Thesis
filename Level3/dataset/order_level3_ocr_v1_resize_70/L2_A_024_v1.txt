@@ -1,0 +1,31 @@
+Purchase Order
+Document ID: L2_A_024
+Category: A
+Supplier：Silver Oak Procurement銀橡採購股份有限公司
+Buyer：Skyforge Systems天鑄系统
+OrderRef:PO-2025-7141
+Issued On: June 01, 2026
+Currency:USD
+Part No.
+Quantity
+Unit Type
+Unit Price
+Line Total
+JQ-725
+12
+units
+19.16
+229.92
+JQ-305
+17
+EA
+50.77
+863.09
+HM-512
+31
+pcs
+64.51
+1999.81
+Total Amount:3092.82
+Remarks:All goods must match approved specifications.所有货品须符合核准规格。
+al

@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-4327",
+  "po_date": "2024-04-20",
+  "currency": "JPY",
+  "total_amount": 3435.63,
+  "items": [
+    {
+      "part_number": "HM-100",
+      "quantity": 35,
+      "unit": "pcs",
+      "unit_price": 33.52,
+      "line_amount": 1173.2
+    },
+    {
+      "part_number": "DX-100",
+      "quantity": 33,
+      "unit": null,
+      "unit_price": 8.86,
+      "line_amount": 292.38
+    },
+    {
+      "part_number": "C-940",
+      "quantity": 15,
+      "unit": null,
+      "unit_price": 14.3,
+      "line_amount": 214.5
+    },
+    {
+      "part_number": "C-830",
+      "quantity": 17,
+      "unit": "boxes",
+      "unit_price": 51.73,
+      "line_amount": 879.41
+    },
+    {
+      "part_number": "DX-725",
+      "quantity": 12,
+      "unit": null,
+      "unit_price": 72.72,
+      "line_amount": 872.64
+    }
+  ]
+}

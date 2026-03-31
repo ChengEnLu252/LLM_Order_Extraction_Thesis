@@ -1,0 +1,22 @@
+Kindly process the following order items for our current purchasing request.
+
+Supplier information: CedarStone Imports 雪松石進出口
+The official reference for this order is PO-2026-9281.
+
+Requested by: Skyforge Systems 天鑄系統
+
+Ordered Materials:
+1. Part JQ-100 / Qty 33 EA / Unit Price 18.39 / Amount 606.87
+2. Part DX-940 / Qty 20 boxes / Unit Price 5.20 / Amount 104.00
+3. Part JQ-830 / Qty 12 units / Unit Price 78.51 / Amount 942.12
+4. Part: BK-512 | Qty: 34 units | Price: 13.09 | Amount: 445.06
+5. Part: AX-830 | Qty: 25 units | Price: 55.12 | Amount: 1378.00
+
+Payment Terms: 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）
+This order was issued on 10 Oct 2026.
+
+Shipping arrangement follows FOB Origin（離岸交貨）.
+The transaction currency for this order is EUR.
+
+Final payable amount: 3476.05
+Additional note: Packaging must comply with export standards. 包裝需符合出口標準。

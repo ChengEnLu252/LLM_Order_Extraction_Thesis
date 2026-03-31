@@ -1,0 +1,16 @@
+Purchase Order
+Document ID:L2_B_021
+Category: B
+Supplier:BluePeak Industrial Supply藍峰工業供應
+Buyer:LumenTrailProcurement光徑採購
+Kindly process the following order items for our current purchasing request.
+The official reference for this order is PO-2025-6631.
+Item List:
+1. CN-830,quantity 9 sets,unit price 93.08, amount 837.72
+2.Part:GX-410|Qty:2EA| Price:99.20 |Amount:198.40
+The issuance date for this order is 09/04/2024.
+Please process all item prices in USD.
+PaymentTerms:Net45days（45天付款）
+Shipping Terms: EXw Warehouse（工廠交貨）
+Total amount for this order: 1036.12
+Remark: Partial shipment is not allowed unless approved.未经同意不得分批出貨。

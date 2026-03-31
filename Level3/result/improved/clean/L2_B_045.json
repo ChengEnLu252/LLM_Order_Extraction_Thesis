@@ -1,0 +1,36 @@
+{
+  "po_number": "Po-2025-728o",
+  "po_date": "2024-10-01",
+  "currency": "USD",
+  "total_amount": 998.89,
+  "items": [
+    {
+      "part_number": "IR-410",
+      "quantity": 2,
+      "unit": "pcs",
+      "unit_price": 89.42,
+      "line_amount": 178.84
+    },
+    {
+      "part_number": "DX-410",
+      "quantity": 2,
+      "unit": "boxes",
+      "unit_price": 63.42,
+      "line_amount": 126.84
+    },
+    {
+      "part_number": "GX-940",
+      "quantity": 21,
+      "unit": "units",
+      "unit_price": 14.64,
+      "line_amount": 307.44
+    },
+    {
+      "part_number": "AX-512",
+      "quantity": 21,
+      "unit": "boxes",
+      "unit_price": 18.37,
+      "line_amount": 385.77
+    }
+  ]
+}

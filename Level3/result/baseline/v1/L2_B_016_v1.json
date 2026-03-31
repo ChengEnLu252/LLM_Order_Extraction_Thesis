@@ -1,0 +1,36 @@
+{
+  "po_number": "Po-2026-4996",
+  "po_date": "2026-11-22",
+  "currency": "USD",
+  "total_amount": 2860.76,
+  "items": [
+    {
+      "part_number": "HM-410",
+      "quantity": 37,
+      "unit": "sets",
+      "unit_price": 43.78,
+      "line_amount": 1619.86
+    },
+    {
+      "part_number": "GX-725",
+      "quantity": 13,
+      "unit": "pcs",
+      "unit_price": 20.27,
+      "line_amount": 263.51
+    },
+    {
+      "part_number": "GX-725",
+      "quantity": 14,
+      "unit": "pcs",
+      "unit_price": 46.06,
+      "line_amount": 644.84
+    },
+    {
+      "part_number": "BK-220",
+      "quantity": 15,
+      "unit": "units",
+      "unit_price": 22.17,
+      "line_amount": 332.55
+    }
+  ]
+}

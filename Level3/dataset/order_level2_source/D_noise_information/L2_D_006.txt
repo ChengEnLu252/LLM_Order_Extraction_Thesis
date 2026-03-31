@@ -1,0 +1,25 @@
+Purchase Order No.: PO-2025-7459
+Date: October 13, 2025
+Billing Currency: JPY
+Supplier: NovaCircuit Solutions 新曜電路方案
+Buyer: Skyforge Systems 天鑄系統
+
+Ship To: 18 North Avenue, West District
+Contact Person: Kevin Huang / 黃建凱
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- CN-830 | Qty 29 EA | Price 55.42 | Amount 1607.18
+- FT-725 | Qty 14 EA | Price 56.43 | Amount 790.02
+- CN-305 | Qty 20 pcs | Price 99.75 | Amount 1995.00
+- CN-830 | Qty 6 sets | Price 65.54 | Amount 393.24
+- GX-830 | Qty 10 units | Price 10.30 | Amount 103.00
+
+Subtotal: 4888.44
+Tax: 244.42
+Shipping Fee: 45.66
+Final Payable Amount: 5178.52
+Payment Terms: Net 45 days（45天付款）
+Shipping Terms: DAP Customer Site（目的地交貨）
+Remark: All goods must match approved specifications. 所有貨品須符合核准規格。

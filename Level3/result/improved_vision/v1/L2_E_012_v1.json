@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-4845",
+  "po_date": "2023-04-05",
+  "currency": "JPY",
+  "total_amount": 3019.17,
+  "items": [
+    {
+      "part_number": "CH-105",
+      "quantity": 1,
+      "unit": "units",
+      "unit_price": 36.99,
+      "line_amount": 36.99
+    },
+    {
+      "part_number": "PT-725",
+      "quantity": 6,
+      "unit": "pcs",
+      "unit_price": 81.07,
+      "line_amount": 486.42
+    },
+    {
+      "part_number": "DX-830",
+      "quantity": 1,
+      "unit": "boxes",
+      "unit_price": 83.13,
+      "line_amount": 83.13
+    },
+    {
+      "part_number": "AX-940",
+      "quantity": 23,
+      "unit": "units",
+      "unit_price": 78.92,
+      "line_amount": 1814.16
+    }
+  ]
+}

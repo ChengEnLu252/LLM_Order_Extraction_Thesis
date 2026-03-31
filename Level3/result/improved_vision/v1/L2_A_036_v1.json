@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-3538",
+  "po_date": "2024-06-07",
+  "currency": "EUR",
+  "total_amount": 3996.08,
+  "items": [
+    {
+      "part_number": "CN-305",
+      "quantity": 10,
+      "unit": "EA",
+      "unit_price": 60.53,
+      "line_amount": 605.3
+    },
+    {
+      "part_number": "AK-725",
+      "quantity": 12,
+      "unit": "boxes",
+      "unit_price": 72.68,
+      "line_amount": 872.16
+    },
+    {
+      "part_number": "JY-512",
+      "quantity": 17,
+      "unit": "sets",
+      "unit_price": 97.02,
+      "line_amount": 1649.34
+    },
+    {
+      "part_number": "EV-830",
+      "quantity": 16,
+      "unit": "EA",
+      "unit_price": 54.33,
+      "line_amount": 869.28
+    }
+  ]
+}

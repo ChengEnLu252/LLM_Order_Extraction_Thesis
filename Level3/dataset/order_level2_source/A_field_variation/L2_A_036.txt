@@ -1,0 +1,14 @@
+Supplier: BluePeak Industrial Supply 藍峰工業供應
+Buyer: Summit Valley Electronics 峰谷電子
+Purchase Order No.: PO-2024-3538
+PO Date: 2024-06-07
+Billing Currency: EUR
+
+Product Code    Qty          Unit       Unit Price      Extended Price 
+CN-305          10           EA         60.53           605.30         
+AX-725          12           boxes      72.68           872.16         
+JQ-512          17           sets       97.02           1649.34        
+EV-830          16           EA         54.33           869.28         
+
+Total Amount: 3996.08
+Remarks: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

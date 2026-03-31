@@ -1,0 +1,21 @@
+Purchase Order
+Document ID: L2_C_049
+Category: C
+PO Number:PO-2026-1477
+PODate：25Dec2024
+Currency:USD
+Supplier:IroncrestMaterials鐵冠材料有限公司
+Ordered Items:
+1)Part No:CN-830
+Qty:32EA
+Unit Price:80.13
+Amount:2564.16
+2)Part:IR-618|Qty:31 sets|Price:89.42| Amount:2772.02
+3)Part No:AX-940
+Qty:28 boxes
+Unit Price:92.92
+Amount:2601.76
+4)FT-940 / 38 units / 73.05 / 2775.90
+5)Item FT-618,ordered quantity 3 pcs, unit price 22.41, total 67.23
+Grand Total:10781.07
+Remark:Packagingmustcomplywithexportstandards.包装需符合出口標準。

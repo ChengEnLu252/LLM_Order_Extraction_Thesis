@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-5940",
+  "po_date": "2024-06-21",
+  "currency": "USD",
+  "total_amount": 3166.13,
+  "items": [
+    {
+      "part_number": "IR-512",
+      "quantity": 10,
+      "unit": "EA",
+      "unit_price": 53.01,
+      "line_amount": 530.1
+    },
+    {
+      "part_number": "EV-940",
+      "quantity": 7,
+      "unit": "boxes",
+      "unit_price": 52.14,
+      "line_amount": 364.98
+    },
+    {
+      "part_number": "IR-512",
+      "quantity": 12,
+      "unit": "EA",
+      "unit_price": 4.3,
+      "line_amount": 51.6
+    },
+    {
+      "part_number": "IR-220",
+      "quantity": 21,
+      "unit": "pcs",
+      "unit_price": 73.2,
+      "line_amount": 1537.2
+    },
+    {
+      "part_number": "IR-618",
+      "quantity": 25,
+      "unit": "pcs",
+      "unit_price": 27.46,
+      "line_amount": 686.5
+    }
+  ]
+}

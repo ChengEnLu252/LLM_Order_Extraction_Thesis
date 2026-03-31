@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-4965",
+  "po_date": "2025-06-27",
+  "currency": "USD",
+  "total_amount": 4036.96,
+  "items": [
+    {
+      "part_number": "BK-220",
+      "quantity": 4,
+      "unit": "pcs",
+      "unit_price": 17.29,
+      "line_amount": 414.96
+    },
+    {
+      "part_number": "IR-100",
+      "quantity": 33,
+      "unit": "sets",
+      "unit_price": 62.16,
+      "line_amount": 2051.28
+    },
+    {
+      "part_number": "MS-1",
+      "quantity": 25,
+      "unit": "sets",
+      "unit_price": 62.83,
+      "line_amount": 1570.75
+    }
+  ]
+}

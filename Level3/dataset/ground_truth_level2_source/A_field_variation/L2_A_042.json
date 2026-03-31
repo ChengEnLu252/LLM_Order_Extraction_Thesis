@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-6236",
+  "po_date": "2025-12-12",
+  "currency": "JPY",
+  "total_amount": "1779.14",
+  "items": [
+    {
+      "part_number": "CN-618",
+      "quantity": 12,
+      "unit": "units",
+      "unit_price": "71.76",
+      "line_amount": "861.12"
+    },
+    {
+      "part_number": "DX-305",
+      "quantity": 16,
+      "unit": "EA",
+      "unit_price": "13.89",
+      "line_amount": "222.24"
+    },
+    {
+      "part_number": "IR-618",
+      "quantity": 33,
+      "unit": "sets",
+      "unit_price": "4.58",
+      "line_amount": "151.14"
+    },
+    {
+      "part_number": "BK-220",
+      "quantity": 37,
+      "unit": "boxes",
+      "unit_price": "14.72",
+      "line_amount": "544.64"
+    }
+  ]
+}

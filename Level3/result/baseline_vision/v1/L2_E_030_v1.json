@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-5819",
+  "po_date": "2024-10-31",
+  "currency": "EUR",
+  "total_amount": 421.4,
+  "items": [
+    {
+      "part_number": "J0-30",
+      "quantity": 7,
+      "unit": "EA",
+      "unit_price": 85.45,
+      "line_amount": 854.5
+    },
+    {
+      "part_number": "J0-220",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 52.3,
+      "line_amount": 52.3
+    },
+    {
+      "part_number": "F1-618",
+      "quantity": 35,
+      "unit": null,
+      "unit_price": 47.5,
+      "line_amount": 1662.5
+    }
+  ]
+}

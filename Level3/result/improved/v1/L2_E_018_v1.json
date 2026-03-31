@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-1732",
+  "po_date": "2026-05-05",
+  "currency": "EUR",
+  "total_amount": 7889.48,
+  "items": [
+    {
+      "part_number": "HM-305",
+      "quantity": 23,
+      "unit": "EA",
+      "unit_price": 78.57,
+      "line_amount": 1807.11
+    },
+    {
+      "part_number": "HM-830",
+      "quantity": 34,
+      "unit": "EA",
+      "unit_price": 64.37,
+      "line_amount": 2188.58
+    },
+    {
+      "part_number": "JQ-725",
+      "quantity": 22,
+      "unit": "sets",
+      "unit_price": 10.75,
+      "line_amount": 236.5
+    },
+    {
+      "part_number": "FT-940",
+      "quantity": 16,
+      "unit": "pcs",
+      "unit_price": 90.22,
+      "line_amount": 1443.52
+    },
+    {
+      "part_number": "BK-305",
+      "quantity": 30,
+      "unit": "pcs",
+      "unit_price": 74.12,
+      "line_amount": 2223.6
+    }
+  ]
+}

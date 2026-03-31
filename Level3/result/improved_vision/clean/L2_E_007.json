@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-3151",
+  "po_date": "2026-04-05",
+  "currency": "JPY",
+  "total_amount": 4394.87,
+  "items": [
+    {
+      "part_number": "GX-830",
+      "quantity": 33,
+      "unit": "boxes",
+      "unit_price": 45.65,
+      "line_amount": 1506.45
+    },
+    {
+      "part_number": "GX-725",
+      "quantity": 38,
+      "unit": null,
+      "unit_price": 63.68,
+      "line_amount": 2311.54
+    },
+    {
+      "part_number": "GX-220",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 44.54,
+      "line_amount": 579.02
+    }
+  ]
+}

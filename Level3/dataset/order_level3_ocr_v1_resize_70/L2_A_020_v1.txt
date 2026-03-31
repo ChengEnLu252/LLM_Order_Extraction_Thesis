@@ -1,0 +1,30 @@
+Purchase Order
+Document ID: L2_A_020
+Category: A
+Supplier：CedarStone Imports雪松石進出口
+Buyer：PolarEdgeManufacturing極鋒製造
+P.O.No.:PO-2024-3870
+Date:21 Aug 2026
+Settlement Currency:JPY
+Model No.
+Quantity
+Unit
+Rate
+Line Total
+HM-220
+39
+sets
+44.72
+1744.08
+FT-220
+24
+EA
+42.02
+1008.48
+HM-512
+23
+sets
+42.34
+973.82
+Total Amount：3726.38
+Remarks: Please include inspection report with shipment.出貨時请附檢驗報告。

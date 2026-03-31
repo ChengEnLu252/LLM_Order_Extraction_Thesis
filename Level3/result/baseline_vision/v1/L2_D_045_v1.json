@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2022-8786",
+  "po_date": "2022-05-24",
+  "currency": "USD",
+  "total_amount": 6354.39,
+  "items": [
+    {
+      "part_number": "GX-940",
+      "quantity": 34,
+      "unit": "boxes",
+      "unit_price": 80.0,
+      "line_amount": 2747.2
+    },
+    {
+      "part_number": "AX-940",
+      "quantity": 14,
+      "unit": "sets",
+      "unit_price": 42.6,
+      "line_amount": 596.4
+    },
+    {
+      "part_number": "AX-940",
+      "quantity": 37,
+      "unit": "EA",
+      "unit_price": 1.7,
+      "line_amount": 628.0
+    },
+    {
+      "part_number": "EM-512",
+      "quantity": 32,
+      "unit": "units",
+      "unit_price": 59.92,
+      "line_amount": 1913.96
+    }
+  ]
+}

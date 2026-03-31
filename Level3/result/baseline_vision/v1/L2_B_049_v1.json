@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-2850",
+  "po_date": "2022-04-22",
+  "currency": null,
+  "total_amount": 2787.33,
+  "items": [
+    {
+      "part_number": "IR-110",
+      "quantity": 22,
+      "unit": "boxes",
+      "unit_price": 3.21,
+      "line_amount": 70.62
+    },
+    {
+      "part_number": "20-220",
+      "quantity": 35,
+      "unit": "sets",
+      "unit_price": 53.26,
+      "line_amount": 1864.1
+    },
+    {
+      "part_number": "G3-305",
+      "quantity": 17,
+      "unit": "units",
+      "unit_price": 49.23,
+      "line_amount": 836.91
+    },
+    {
+      "part_number": "CN-940",
+      "quantity": 5,
+      "unit": null,
+      "unit_price": 3.14,
+      "line_amount": 15.7
+    }
+  ]
+}

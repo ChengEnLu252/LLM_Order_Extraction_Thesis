@@ -1,0 +1,35 @@
+Purchase Order
+Document ID: L2_A_005
+Category: A
+Supplier: Silver Oak Procurement銀橡採購股份有限公司
+Buyer: Allied Nexus Purchasing 聯合採購中心
+Order Ref:PO-2026-8397
+DateIssued:2024-09-04
+Billing Currency:USD
+SKU
+Quantity
+Unit Type
+Unit Price
+Amount
+DX-410
+3
+pcs
+59.65
+178.95
+AX-410
+6
+pcs
+71.37
+428.22
+BK-940
+4
+EA
+86.24
+344.96
+DX-940
+19
+EA
+67.56
+1283.64
+Total Amount: 2235.77
+Remarks: Please include inspection report with shipment.出貨時請附檢驗報告。

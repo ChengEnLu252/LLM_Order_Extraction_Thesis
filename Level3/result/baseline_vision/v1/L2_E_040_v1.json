@@ -1,0 +1,15 @@
+{
+  "po_number": "PO-2026-3032",
+  "po_date": "2024-09-24",
+  "currency": "USD",
+  "total_amount": 95.52,
+  "items": [
+    {
+      "part_number": "AX-410",
+      "quantity": 11,
+      "unit": "EA",
+      "unit_price": 15.48,
+      "line_amount": 77.4
+    }
+  ]
+}

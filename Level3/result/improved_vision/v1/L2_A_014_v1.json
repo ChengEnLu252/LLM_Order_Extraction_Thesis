@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-9947",
+  "po_date": "2023-03-27",
+  "currency": "EUR",
+  "total_amount": 631.29,
+  "items": [
+    {
+      "part_number": "PT-725",
+      "quantity": 33,
+      "unit": "EA",
+      "unit_price": 4.84,
+      "line_amount": 159.72
+    },
+    {
+      "part_number": "JY-930",
+      "quantity": 31,
+      "unit": "pcs",
+      "unit_price": 62.12,
+      "line_amount": 1855.72
+    },
+    {
+      "part_number": "AA-220",
+      "quantity": 27,
+      "unit": "sets",
+      "unit_price": 60.01,
+      "line_amount": 1620.27
+    },
+    {
+      "part_number": "CM-10",
+      "quantity": 10,
+      "unit": "boxes",
+      "unit_price": 86.95,
+      "line_amount": 869.5
+    },
+    {
+      "part_number": "HM-610",
+      "quantity": 16,
+      "unit": "boxes",
+      "unit_price": 34.08,
+      "line_amount": 886.08
+    }
+  ]
+}

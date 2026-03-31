@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-0019",
+  "po_date": "2024-09-23",
+  "currency": "TWD",
+  "total_amount": 77203.69,
+  "items": [
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 665,
+      "unit": "個",
+      "unit_price": 85.97,
+      "line_amount": 57170.05
+    },
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 396,
+      "unit": "個",
+      "unit_price": 50.59,
+      "line_amount": 20033.64
+    }
+  ]
+}

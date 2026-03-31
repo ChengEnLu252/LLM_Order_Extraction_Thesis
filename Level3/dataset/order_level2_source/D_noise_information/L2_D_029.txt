@@ -1,0 +1,22 @@
+Purchase Order No.: PO-2024-5553
+Date: 2025-02-04
+Billing Currency: USD
+Supplier: BluePeak Industrial Supply 藍峰工業供應
+Buyer: LumenTrail Procurement 光徑採購
+
+Ship To: 18 North Avenue, West District
+Contact Person: Sophia Lin / 林雅婷
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- HM-618 | Qty 34 units | Price 40.65 | Amount 1382.10
+- AX-618 | Qty 40 sets | Price 52.13 | Amount 2085.20
+
+Subtotal: 3467.30
+Tax: 173.37
+Shipping Fee: 37.03
+Final Payable Amount: 3677.70
+Payment Terms: 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）
+Shipping Terms: EXW Warehouse（工廠交貨）
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

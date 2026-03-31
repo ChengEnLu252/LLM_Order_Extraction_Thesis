@@ -1,0 +1,30 @@
+Purchase Order
+Document ID: L2_A_043
+Category: A
+Supplier: Vertex Axis Trading 維泰軸心貿易
+Buyer: PolarEdge Manufacturing 極鋒製造
+Order ID:PO-2026-1907
+Date Issued: 11 Sep 2024
+Curr.:JPY
+Model No.
+Quantity
+Unit
+Unit Price
+Line Total
+DX-618
+12
+units
+33.62
+403.44
+EV-410
+20
+units
+84.90
+1698.00
+EV-940
+19
+pcs
+14.27
+271.13
+GrandTotal:2372.57
+Remarks: Please include inspection report with shipment. 出貨時請附檢驗報告。

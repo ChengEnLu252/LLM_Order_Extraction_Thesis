@@ -1,0 +1,25 @@
+Purchase Order
+Document ID: L2_D_016
+Category: D
+PurchaseOrder No.:PO-2024-2870
+Date:10/15/2026
+Billing Currency: JPY
+Supplier:OrbitLine Distribution軌域配銷有限公司
+Buyer:GrandRiver Devices大河装置
+Ship To: 18 North Avenue, West District
+Contact Person:Daniel Brooks/陳志宏
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-GX-618
+Qty14 pcs | Price 43.77
+Amount 612.78
+-FT-410|Qty 38 pcs | Price 55.50
+Amount 2109.00
+Subtotal:2721.78
+Tax:136.09
+Shipping Fee:14.43
+Final Payable Amount: 2872.30
+PaymentTerms:Net45days（45天付款）
+ShippingTerms:EXwWarehouse（工廠交货）
+Remark: Please include inspection report with shipment.出貨時請附檢驗報告。

@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-5249",
+  "po_date": "2026-04-17",
+  "currency": "EUR",
+  "total_amount": 2668.59,
+  "items": [
+    {
+      "part_number": "GX-220",
+      "quantity": 7,
+      "unit": "boxes",
+      "unit_price": 30.73,
+      "line_amount": 215.11
+    },
+    {
+      "part_number": "JQ-410",
+      "quantity": 6,
+      "unit": "sets",
+      "unit_price": 35.53,
+      "line_amount": 213.18
+    },
+    {
+      "part_number": "BK-100",
+      "quantity": 33,
+      "unit": "pcs",
+      "unit_price": 67.93,
+      "line_amount": 2241.69
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+Procurement Note:
+Please prepare the materials listed below for the next production batch.
+
+Requested by purchasing team: GrandRiver Devices 大河裝置
+
+Supplier Details:
+Vertex Axis Trading 維泰軸心貿易
+
+The official reference for this order is PO-2025-8015.
+
+Materials Requested:
+1. IR-512, quantity 5 units, unit price 57.87, amount 289.35
+2. EV-512, quantity 36 units, unit price 18.50, amount 666.00
+3. Part IR-220 / Qty 19 EA / Unit Price 95.33 / Amount 1811.27
+
+This order was issued on 05/12/2024.
+
+The agreed payment condition is Net 30 days（30天付款）.
+Delivery will follow EXW Warehouse（工廠交貨）.
+Please process all item prices in JPY.
+
+Final payable amount: 2766.62
+Please note: All goods must match approved specifications. 所有貨品須符合核准規格。

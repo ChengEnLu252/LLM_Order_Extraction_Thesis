@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-2562",
+  "po_date": "2025-09-07",
+  "currency": "USD",
+  "total_amount": 3070.18,
+  "items": [
+    {
+      "part_number": "F-618",
+      "quantity": 5,
+      "unit": "sets",
+      "unit_price": 92.34,
+      "line_amount": 461.7
+    },
+    {
+      "part_number": "MK-410",
+      "quantity": 28,
+      "unit": null,
+      "unit_price": 93.16,
+      "line_amount": 2608.48
+    }
+  ]
+}

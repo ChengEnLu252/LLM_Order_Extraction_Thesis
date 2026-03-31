@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-2103",
+  "po_date": "2025-03-23",
+  "currency": "EUR",
+  "total_amount": 3339.47,
+  "items": [
+    {
+      "part_number": "JQ-305",
+      "quantity": 36,
+      "unit": "boxes",
+      "unit_price": 79.54,
+      "line_amount": 2863.44
+    },
+    {
+      "part_number": "GX-305",
+      "quantity": 8,
+      "unit": "boxes",
+      "unit_price": 60.79,
+      "line_amount": 486.32
+    }
+  ]
+}

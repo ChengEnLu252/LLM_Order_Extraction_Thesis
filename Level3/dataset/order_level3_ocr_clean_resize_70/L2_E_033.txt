@@ -1,0 +1,22 @@
+Purchase Order
+Document ID: L2_E_033
+Category: E
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: Summit Valley Electronics峰谷電子
+Kindly proceed with the following mixed-format order details.
+P.O.No.:PO-2025-7843
+Please note that the requested items are presented in different line formats below.
+1. CN-512 / ordered quantity 10pcs / rate 58.60 / line total 586.00
+2.Part: FT-618Qty: 33 EA  Price:81.42 | Amount:2686.86
+3.Qty 28 boxes of GX-940 at 43.72 each, total 1224.16
+4.Part: JQ-100  Qty: 22 EA  Price: 59.52  Amount: 1309.44
+Additional Information:
+Issued On:2025-03-05
+Payment for this order shall follow Payment due upon receipt(收货後付款）
+Shipping arrangement will follow DAP Customer Site(目的地交货）.
+All prices are quoted in EUR.
+Subtotal:5806.46
+Discount: 5.96
+Handling Fee: 7.64
+Final Amount:5808.14
+Remark: Packaging must comply with export standards.包装需符合出口標準。

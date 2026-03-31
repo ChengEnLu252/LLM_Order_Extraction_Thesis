@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-5375",
+  "po_date": "2024-09-25",
+  "currency": "EUR",
+  "total_amount": "1467.69",
+  "items": [
+    {
+      "part_number": "JQ-410",
+      "quantity": 3,
+      "unit": "EA",
+      "unit_price": "97.37",
+      "line_amount": "292.11"
+    },
+    {
+      "part_number": "IR-725",
+      "quantity": 21,
+      "unit": "pcs",
+      "unit_price": "55.98",
+      "line_amount": "1175.58"
+    }
+  ]
+}

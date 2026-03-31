@@ -1,0 +1,15 @@
+{
+  "po_number": "PO-2026-0050",
+  "po_date": "2024-01-09",
+  "currency": "TWD",
+  "total_amount": 51272.16,
+  "items": [
+    {
+      "part_number": "SSD-1TB-X",
+      "quantity": 892,
+      "unit": "條",
+      "unit_price": 57.48,
+      "line_amount": 51272.16
+    }
+  ]
+}

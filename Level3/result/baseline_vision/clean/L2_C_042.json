@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-4323",
+  "po_date": "2025-02-22",
+  "currency": "USD",
+  "total_amount": 6284.02,
+  "items": [
+    {
+      "part_number": "L2_C_042",
+      "quantity": 2,
+      "unit": "sets",
+      "unit_price": 68.94,
+      "line_amount": 191.68
+    },
+    {
+      "part_number": "GX-618",
+      "quantity": 6,
+      "unit": "sets",
+      "unit_price": 61.58,
+      "line_amount": 369.48
+    },
+    {
+      "part_number": "MR-100",
+      "quantity": 38,
+      "unit": "units",
+      "unit_price": 60.19,
+      "line_amount": 2287.22
+    },
+    {
+      "part_number": "AX-410",
+      "quantity": 48,
+      "unit": "units",
+      "unit_price": 46.26,
+      "line_amount": 370.08
+    },
+    {
+      "part_number": "MX-930",
+      "quantity": 36,
+      "unit": "sets",
+      "unit_price": 40.77,
+      "line_amount": 1467.72
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-6371",
+  "po_date": "2026-11-23",
+  "currency": "JPY",
+  "total_amount": 456.68,
+  "items": [
+    {
+      "part_number": "TR-725",
+      "quantity": 8,
+      "unit": "EA",
+      "unit_price": 9.65,
+      "line_amount": 289.5
+    },
+    {
+      "part_number": "GX-52",
+      "quantity": 37,
+      "unit": null,
+      "unit_price": 32.86,
+      "line_amount": 1955.82
+    },
+    {
+      "part_number": "GX-830",
+      "quantity": 3,
+      "unit": "sets",
+      "unit_price": 64.37,
+      "line_amount": 193.11
+    }
+  ]
+}

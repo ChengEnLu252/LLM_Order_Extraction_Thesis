@@ -1,0 +1,24 @@
+Purchase Order
+Document ID: L2_E_047
+Category: E
+Supplier: Prime Harbor Manufacturing鼎港製造
+Buyer:Summit Valley Electronics峰谷電子
+Kindly proceed with the following mixed-format order details.
+Purchase Order No.: PO-2026-3345
+Please note that the requested items are presented in different line formats below.
+1.Qty 33 sets of EV-940 at 80.09 each, total 2642.97
+2.BK-830 / ordered quantity 12units / rate 89.85 / line total 1078.20
+3.Product Code:CN-220
+Units Ordered:17pcs
+Item Price:25.85
+Amount:439.45
+Additional Information:
+Issued On: December 01, 2026
+Payment for this order shall follow Net 30 days(3o天付款）.
+Shipping arrangement will followCIF Destination（成本保險加運费）.
+All prices are quoted in JPY.
+Subtotal:4160.62
+Discount:16.49
+Handling Fee: 5.64
+Final Amount:4149.77
+Remark:Allgoodsmustmatchapprovedspecifications.所有货品须符合核准规格。

@@ -1,0 +1,29 @@
+{
+  "po_number": "Po-2025-8015",
+  "po_date": "2024-05-12",
+  "currency": "JPY",
+  "total_amount": 2766.62,
+  "items": [
+    {
+      "part_number": "IR-512",
+      "quantity": 5,
+      "unit": "units",
+      "unit_price": 57.87,
+      "line_amount": 289.35
+    },
+    {
+      "part_number": "EV-512",
+      "quantity": 36,
+      "unit": "units",
+      "unit_price": 18.5,
+      "line_amount": 666.0
+    },
+    {
+      "part_number": "IR-220",
+      "quantity": 19,
+      "unit": "EA",
+      "unit_price": 95.33,
+      "line_amount": 1811.27
+    }
+  ]
+}

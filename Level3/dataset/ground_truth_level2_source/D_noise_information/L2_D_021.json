@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-3784",
+  "po_date": "2025-04-15",
+  "currency": "USD",
+  "total_amount": "6042.80",
+  "items": [
+    {
+      "part_number": "HM-512",
+      "quantity": 39,
+      "unit": "pcs",
+      "unit_price": "48.40",
+      "line_amount": "1887.60"
+    },
+    {
+      "part_number": "DX-410",
+      "quantity": 29,
+      "unit": "boxes",
+      "unit_price": "74.15",
+      "line_amount": "2150.35"
+    },
+    {
+      "part_number": "JQ-305",
+      "quantity": 29,
+      "unit": "units",
+      "unit_price": "58.79",
+      "line_amount": "1704.91"
+    }
+  ]
+}

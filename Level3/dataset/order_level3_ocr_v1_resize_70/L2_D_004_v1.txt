@@ -1,0 +1,24 @@
+Purchase Order
+Document ID: L2_D_004
+Category: D
+Purchase Order No.:PO-2026-8063
+Date:2026-06-10
+Billing Currency:JPY
+Supplier：Ironcrest Materials鐵冠材料有限公司
+Buyer:GrandRiver Devices大河装置
+Ship To: 18 North Avenue, West District
+Contact Person:Melissa Turner/王美玲
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+- JQ-830 | Qty  pcs | Price 74.46 | Amount 446.76
+-FT-940
+0|Qty39pcs|Price60.42|Amount2356.38
+-GX-220 | Qty 30 units | Price 19.27 | Amount 578.10
+Subtotal:3381.24
+Tax:169.06
+ShippingFee:44.60
+Final Payable Amount: 3594.90
+PaymentTerms:30%advance，70%beforeshipment(30%预付，70出货前付清）
+Shipping Terms:EXW Warehouse（工廠交貨）
+Remark: Please confirm delivery schedule before shipment.出貨前请先確認交期。

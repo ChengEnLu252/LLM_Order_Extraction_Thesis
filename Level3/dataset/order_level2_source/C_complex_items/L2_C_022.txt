@@ -1,0 +1,23 @@
+PO Number: PO-2024-3389
+PO Date: November 02, 2024
+Currency: EUR
+Supplier: Northstar Components Ltd. 北辰元件有限公司
+
+Ordered Items:
+1) IR-940 / 33boxes / 15.18 / 500.94
+2) Part No: IR-100
+   Qty: 33 sets
+   Unit Price: 31.40
+   Amount: 1036.20
+3) Part No: AX-410
+   Qty: 8 boxes
+   Unit Price: 69.67
+   Amount: 557.36
+4) Part No: BK-830
+   Qty: 32 boxes
+   Unit Price: 84.22
+   Amount: 2695.04
+5) Item IR-940, ordered quantity 18 boxes, unit price 37.37, total 672.66
+
+Grand Total: 5462.20
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

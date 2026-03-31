@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-1496",
+  "po_date": "2026-10-16",
+  "currency": "JPY",
+  "total_amount": 4396.42,
+  "items": [
+    {
+      "part_number": "GX-512",
+      "quantity": 32,
+      "unit": "sets",
+      "unit_price": 26,
+      "line_amount": 832
+    },
+    {
+      "part_number": "CN-830",
+      "quantity": 62,
+      "unit": null,
+      "unit_price": 69.68,
+      "line_amount": 416.88
+    },
+    {
+      "part_number": "FT-305",
+      "quantity": 32,
+      "unit": "boxes",
+      "unit_price": 47.52,
+      "line_amount": 1520.64
+    },
+    {
+      "part_number": "FT-725",
+      "quantity": 22,
+      "unit": "EA",
+      "unit_price": 73.95,
+      "line_amount": 1626.9
+    }
+  ]
+}

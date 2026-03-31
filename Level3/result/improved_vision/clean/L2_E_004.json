@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-8669",
+  "po_date": "2024-09-27",
+  "currency": "USD",
+  "total_amount": 2615.47,
+  "items": [
+    {
+      "part_number": "AX-305",
+      "quantity": 18,
+      "unit": "EA",
+      "unit_price": 13.45,
+      "line_amount": 242.1
+    },
+    {
+      "part_number": "GK-512",
+      "quantity": 2,
+      "unit": "boxes",
+      "unit_price": 75.29,
+      "line_amount": 150.51
+    },
+    {
+      "part_number": "GX-305",
+      "quantity": 8,
+      "unit": "boxes",
+      "unit_price": 52.66,
+      "line_amount": 421.28
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+Purchase Order No.: PO-2025-6282
+Date: 07/19/2024
+Billing Currency: EUR
+Supplier: BluePeak Industrial Supply 藍峰工業供應
+Buyer: GrandRiver Devices 大河裝置
+
+Ship To: 18 North Avenue, West District
+Contact Person: Melissa Turner / 王美玲
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- FT-305 | Qty 33 units | Price 51.27 | Amount 1691.91
+- GX-410 | Qty 21 sets | Price 37.61 | Amount 789.81
+- IR-410 | Qty 6 boxes | Price 84.36 | Amount 506.16
+- JQ-725 | Qty 18 EA | Price 6.66 | Amount 119.88
+
+Subtotal: 3107.76
+Tax: 155.39
+Shipping Fee: 51.43
+Final Payable Amount: 3314.58
+Payment Terms: Net 30 days（30天付款）
+Shipping Terms: FOB Origin（離岸交貨）
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

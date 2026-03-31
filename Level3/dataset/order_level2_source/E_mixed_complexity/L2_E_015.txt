@@ -1,0 +1,30 @@
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Buyer: Stonepath Industrial 石徑工業
+
+Please review and process the following procurement request.
+PO Number: PO-2024-5940
+
+The requested materials are summarized below in mixed item formats.
+
+1. Product Code: IR-512
+   Units Ordered: 10 EA
+   Item Price: 53.01
+   Amount: 530.10
+2. Part: EV-940 | Qty: 7 boxes | Price: 52.14 | Amount: 364.98
+3. Part: IR-512 | Qty: 12 EA | Price: 4.30 | Amount: 51.60
+4. Part: IR-220 | Qty: 21 pcs | Price: 73.20 | Amount: 1537.20
+5. Product Code: IR-618
+   Units Ordered: 25 pcs
+   Item Price: 27.46
+   Amount: 686.50
+
+Additional Information:
+Issued On: 21 Jun 2024
+The agreed payment condition is Net 30 days（30天付款）.
+Delivery arrangement follows DAP Customer Site（目的地交貨）.
+All prices are quoted in USD.
+Subtotal: 3170.38
+Discount: 10.08
+Handling Fee: 5.83
+Final Amount: 3166.13
+Remark: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

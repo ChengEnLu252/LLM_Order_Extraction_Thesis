@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-6371",
+  "po_date": "2026-11-23",
+  "currency": "JPY",
+  "total_amount": 456.68,
+  "items": [
+    {
+      "part_number": "GK-725",
+      "quantity": 8,
+      "unit": "EA",
+      "unit_price": 16.36,
+      "line_amount": 130.88
+    },
+    {
+      "part_number": "GK-830",
+      "quantity": 7,
+      "unit": "EA",
+      "unit_price": 9.65,
+      "line_amount": 67.55
+    },
+    {
+      "part_number": "TR-725",
+      "quantity": 30,
+      "unit": "EA",
+      "unit_price": 9.65,
+      "line_amount": 289.5
+    },
+    {
+      "part_number": "GK-512",
+      "quantity": 30,
+      "unit": "EA",
+      "unit_price": 52.86,
+      "line_amount": 1585.8
+    },
+    {
+      "part_number": "GK-830",
+      "quantity": 33,
+      "unit": "EA",
+      "unit_price": 64.37,
+      "line_amount": 2124.21
+    }
+  ]
+}

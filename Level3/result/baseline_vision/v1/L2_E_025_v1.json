@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-6496",
+  "po_date": "2025-06-15",
+  "currency": null,
+  "total_amount": 3308.82,
+  "items": [
+    {
+      "part_number": "L2_E_025",
+      "quantity": 23,
+      "unit": "sets",
+      "unit_price": 32.46,
+      "line_amount": 746.58
+    },
+    {
+      "part_number": "DX-618",
+      "quantity": 29,
+      "unit": "units",
+      "unit_price": 81.19,
+      "line_amount": 2354.51
+    },
+    {
+      "part_number": "DX-618",
+      "quantity": 17,
+      "unit": "units",
+      "unit_price": 12.57,
+      "line_amount": 213.69
+    }
+  ]
+}

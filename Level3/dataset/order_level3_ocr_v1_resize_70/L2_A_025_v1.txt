@@ -1,0 +1,26 @@
+Purchase Order
+Document ID: L2_A_025
+Category: A
+Supplier：NovaCircuit Solutions新曜電路方案
+Buyer：PolarEdge Manufacturing極鋒製造
+OrderID：PO-2026-5847
+Date Issued:27 Aug 2025
+Curr.:USD
+Part No.
+Quantity
+Measure
+Item Price
+Line Total
+AX-830
+38
+boxes
+86.78
+3297.64
+FT-410
+16
+EA
+61.49
+983.84
+Grand Total:4281.48
+Remarks:Please include inspectionreport withshipment.出货時請附檢驗報告。
+al

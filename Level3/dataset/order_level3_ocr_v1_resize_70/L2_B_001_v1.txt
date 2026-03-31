@@ -1,0 +1,17 @@
+Purchase Order
+Document ID: L2_B_001
+Category: B
+Please prepare the materials listed below for the next production batch.
+Supplier information: Ironcrest Materials鐵冠材料有限公司
+This request should be recorded under reference number PO-2025-1187.
+Requested by:GrandRiver Devices大河装置
+Ordered Materials:
+1.Part:CN-725|Qty:9 units |Price:47.61 | Amount:428.49
+2.Part EV-618 / Qty 21 units / Unit Price 69.65 / Amount 1462.65
+Payment Terms:Net45days (45付款）
+The issuance date for this order is 19 Jun 2025.
+Shipping arrangement follows CIF Destination(成本保險加運費).
+Please process all item prices in JPY.
+Settlement total: 1891.14
+Additional note: Packaging must comply with export standards.包装需符合出口標準。
+]

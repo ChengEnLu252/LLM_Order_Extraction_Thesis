@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-8066",
+  "po_date": "2024-12-03",
+  "currency": "JPY",
+  "total_amount": "1283.60",
+  "items": [
+    {
+      "part_number": "DX-725",
+      "quantity": 8,
+      "unit": "units",
+      "unit_price": "34.45",
+      "line_amount": "275.60"
+    },
+    {
+      "part_number": "EV-512",
+      "quantity": 36,
+      "unit": "EA",
+      "unit_price": "28.00",
+      "line_amount": "1008.00"
+    }
+  ]
+}

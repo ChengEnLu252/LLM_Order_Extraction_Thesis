@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-1359",
+  "po_date": "2026-10-30",
+  "currency": "USD",
+  "total_amount": "2586.40",
+  "items": [
+    {
+      "part_number": "EV-940",
+      "quantity": 26,
+      "unit": "units",
+      "unit_price": "87.90",
+      "line_amount": "2285.40"
+    },
+    {
+      "part_number": "AX-220",
+      "quantity": 5,
+      "unit": "pcs",
+      "unit_price": "60.20",
+      "line_amount": "301.00"
+    }
+  ]
+}

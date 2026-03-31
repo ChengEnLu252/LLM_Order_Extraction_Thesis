@@ -1,0 +1,6 @@
+﻿category_code,category_name,correct_docs,total_docs,document_accuracy
+A,A_field_variation,49,50,0.9800
+B,B_scattered_fields,45,50,0.9000
+C,C_complex_items,49,50,0.9800
+D,D_noise_information,46,50,0.9200
+E,E_mixed_complexity,49,50,0.9800

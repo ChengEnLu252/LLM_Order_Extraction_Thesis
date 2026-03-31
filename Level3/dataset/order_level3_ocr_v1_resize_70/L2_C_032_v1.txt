@@ -1,0 +1,15 @@
+Purchase Order
+Document ID: L2_C_032
+Category: C
+PO Number:PO-2026-7802
+PODate:04Aug 2024
+Currency:JPY
+Supplier:OrbitLine Distribution軌域配銷有限公司
+Ordered Items:
+1) CN-305 / 29units / 88.52 / 2567.08
+2) Item CN-940,ordered quantity 27 units, unit price 51.46, total 1389.42
+3)FT-940 / 30boxes / 93.48 / 2804.40
+4) Item GX-618,ordered quantity 25 units, unit price 42.41, total 1060.25
+5) DX-725 / 17 units / 57.19 / 972.23
+GrandTotal:8793.38
+Remark: Partial shipment is not allowed unless approved.未經同意不得分批出貨。

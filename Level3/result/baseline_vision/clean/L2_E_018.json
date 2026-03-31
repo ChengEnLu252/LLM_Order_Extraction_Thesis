@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-1732",
+  "po_date": "2026-05-05",
+  "currency": "EUR",
+  "total_amount": 7889.48,
+  "items": [
+    {
+      "part_number": "M-305",
+      "quantity": 23,
+      "unit": "EA",
+      "unit_price": 78.57,
+      "line_amount": 1807.11
+    },
+    {
+      "part_number": "M-830",
+      "quantity": 34,
+      "unit": "EA",
+      "unit_price": 64.37,
+      "line_amount": 2188.58
+    },
+    {
+      "part_number": "Z-245",
+      "quantity": 2,
+      "unit": "sets",
+      "unit_price": 10.75,
+      "line_amount": 21.5
+    },
+    {
+      "part_number": "P-740",
+      "quantity": 6,
+      "unit": "units",
+      "unit_price": 90.27,
+      "line_amount": 543.12
+    },
+    {
+      "part_number": "BK-305",
+      "quantity": 10,
+      "unit": "EA",
+      "unit_price": 74.12,
+      "line_amount": 741.2
+    }
+  ]
+}

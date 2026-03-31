@@ -1,0 +1,35 @@
+Purchase Order
+Document ID: L2_A_031
+Category: A
+Supplier：OrbitLine Distribution軌域配銷有限公司
+Buyer： Summit Valley Electronics峰谷電子
+OrderID：PO-2026-4705
+PO Date: 28 May 2026
+Currency:JPY
+Product Code
+Units Ordered Unit
+Unit Price
+Total Price
+EV-618
+3
+boxes
+19.68
+59.04
+CN-725
+2
+pcs
+19.78
+39.56
+AX-220
+11
+units
+74.61
+820.71
+HM-618
+15
+EA
+38.87
+583.05
+Grand Total:1502.36
+Remarks: Partial shipment is not allowed unless approved.未經同意不得分批出貨。
+a]

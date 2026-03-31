@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-6432",
+  "po_date": "2026-09-09",
+  "currency": "EUR",
+  "total_amount": "4906.36",
+  "items": [
+    {
+      "part_number": "CN-220",
+      "quantity": 33,
+      "unit": "boxes",
+      "unit_price": "56.06",
+      "line_amount": "1849.98"
+    },
+    {
+      "part_number": "DX-512",
+      "quantity": 10,
+      "unit": "pcs",
+      "unit_price": "89.35",
+      "line_amount": "893.50"
+    },
+    {
+      "part_number": "IR-100",
+      "quantity": 6,
+      "unit": "units",
+      "unit_price": "89.43",
+      "line_amount": "536.58"
+    },
+    {
+      "part_number": "JQ-410",
+      "quantity": 39,
+      "unit": "pcs",
+      "unit_price": "41.70",
+      "line_amount": "1626.30"
+    }
+  ]
+}

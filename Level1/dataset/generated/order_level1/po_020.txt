@@ -1,0 +1,16 @@
+
+Subject: PO-2026-0020
+
+Hi,
+
+Please process this order.
+
+Buyer: 宏達電子有限公司
+Supplier: 鼎新材料股份有限公司
+Date: January 29, 2024
+
+Items:
+1. 電源管理IC (PMIC-A88) 數量: 804 PCS 單價: 115.93 小計: 93207.72
+
+
+Total Amount: 93207.72 TWD

@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-9973",
+  "po_date": "2026-12-05",
+  "currency": "EUR",
+  "total_amount": 1816.9,
+  "items": [
+    {
+      "part_number": "Gx-220",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 20.38,
+      "line_amount": 285.32
+    },
+    {
+      "part_number": "Gx-410",
+      "quantity": 14,
+      "unit": null,
+      "unit_price": 20.38,
+      "line_amount": 285.32
+    },
+    {
+      "part_number": "Kx-725",
+      "quantity": 7,
+      "unit": "packs",
+      "unit_price": 72.15,
+      "line_amount": 1011.5
+    }
+  ]
+}

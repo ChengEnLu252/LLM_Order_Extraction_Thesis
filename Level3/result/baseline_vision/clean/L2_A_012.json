@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-1757",
+  "po_date": "2025-05-16",
+  "currency": "EUR",
+  "total_amount": 7593.74,
+  "items": [
+    {
+      "part_number": "JQ-410",
+      "quantity": 28,
+      "unit": "sets",
+      "unit_price": 88.84,
+      "line_amount": 24837.52
+    },
+    {
+      "part_number": "CN-100",
+      "quantity": 30,
+      "unit": "pcs",
+      "unit_price": 41.17,
+      "line_amount": 1235.1
+    },
+    {
+      "part_number": "IR-830",
+      "quantity": 29,
+      "unit": "pcs",
+      "unit_price": 23.45,
+      "line_amount": 680.05
+    },
+    {
+      "part_number": "BK-230",
+      "quantity": 37,
+      "unit": "EA",
+      "unit_price": 26.42,
+      "line_amount": 977.54
+    },
+    {
+      "part_number": "IR-618",
+      "quantity": 31,
+      "unit": "sets",
+      "unit_price": 67.42,
+      "line_amount": 2090.02
+    }
+  ]
+}

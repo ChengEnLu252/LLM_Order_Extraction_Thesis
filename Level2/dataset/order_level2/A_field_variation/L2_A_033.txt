@@ -1,0 +1,14 @@
+Supplier: Vertex Axis Trading 維泰軸心貿易
+Buyer: LumenTrail Procurement 光徑採購
+Order Ref: PO-2024-7636
+PO Date: February 12, 2024
+Billing Currency: EUR
+
+Part No.        Units Ordered Unit       Unit Price      Line Total     
+BK-410          7            sets       44.80           313.60         
+BK-725          39           boxes      41.24           1608.36        
+CN-220          23           units      23.71           545.33         
+DX-618          9            boxes      54.00           486.00         
+
+Total: 2953.29
+Remarks: Packaging must comply with export standards. 包裝需符合出口標準。

@@ -1,0 +1,22 @@
+{
+  "po_number": "PO No: 2024-5292",
+  "po_date": "2024-12-24",
+  "currency": "EUR",
+  "total_amount": 1429.41,
+  "items": [
+    {
+      "part_number": "EV-20",
+      "quantity": 14,
+      "unit": "EA",
+      "unit_price": 57.54,
+      "line_amount": 805.54
+    },
+    {
+      "part_number": "FR-618",
+      "quantity": 20,
+      "unit": "EA",
+      "unit_price": 39.13,
+      "line_amount": 782.6
+    }
+  ]
+}

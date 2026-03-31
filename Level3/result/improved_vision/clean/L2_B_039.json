@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-7732",
+  "po_date": "2025-06-24",
+  "currency": null,
+  "total_amount": 2783,
+  "items": [
+    {
+      "part_number": "C-725",
+      "quantity": 13,
+      "unit": "pcs",
+      "unit_price": 29.99,
+      "line_amount": 376.87
+    },
+    {
+      "part_number": "PF-410",
+      "quantity": 27,
+      "unit": "pcs",
+      "unit_price": 89.18,
+      "line_amount": 2407.86
+    }
+  ]
+}

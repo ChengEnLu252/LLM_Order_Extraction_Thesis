@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-2938",
+  "po_date": "2025-04-16",
+  "currency": "EUR",
+  "total_amount": "6049.60",
+  "items": [
+    {
+      "part_number": "JQ-305",
+      "quantity": 32,
+      "unit": "sets",
+      "unit_price": "48.94",
+      "line_amount": "1566.08"
+    },
+    {
+      "part_number": "CN-305",
+      "quantity": 3,
+      "unit": "EA",
+      "unit_price": "25.88",
+      "line_amount": "77.64"
+    },
+    {
+      "part_number": "JQ-305",
+      "quantity": 34,
+      "unit": "pcs",
+      "unit_price": "5.84",
+      "line_amount": "198.56"
+    },
+    {
+      "part_number": "CN-940",
+      "quantity": 12,
+      "unit": "sets",
+      "unit_price": "27.31",
+      "line_amount": "327.72"
+    },
+    {
+      "part_number": "AX-512",
+      "quantity": 40,
+      "unit": "pcs",
+      "unit_price": "96.99",
+      "line_amount": "3879.60"
+    }
+  ]
+}

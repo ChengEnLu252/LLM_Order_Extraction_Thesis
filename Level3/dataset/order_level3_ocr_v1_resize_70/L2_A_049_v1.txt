@@ -1,0 +1,31 @@
+Purchase Order
+Document ID: L2_A_049
+Category: A
+Supplier：BluePeak Industrial Supply藍峰工業供應
+Buyer：GrandRiverDevices大河装置
+OrderID:PO-2026-5442
+PO Date: 10 Jul 2025
+Curr.:USD
+SKU
+Quantity
+UOM
+Unit Price
+Total Price
+IR-410
+5
+EA
+67.64
+338.20
+FT-830
+5
+pcs
+11.82
+59.10
+IR-305
+10
+sets
+2.51
+25.10
+Total Amount:422.40
+Remarks：Allgoodsmust matchapprovedspecifications.所有货品须符合核准规格。
+al

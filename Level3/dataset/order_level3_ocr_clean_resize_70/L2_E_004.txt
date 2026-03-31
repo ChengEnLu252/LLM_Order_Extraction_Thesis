@@ -1,0 +1,24 @@
+Purchase Order
+Document ID: L2_E_004
+Category: E
+Supplier: Ironcrest Materials鐵冠材料有限公司
+Buyer：Skyforge Systems天鑄系統
+Kindly proceed with the following mixed-format order details.
+P.O.NO.:PO-2025-8669
+The requested items are listed below.
+1.Product Code:AX-305
+Units Ordered: 18 sets
+Item Price:13.45
+Amount:242.10
+2.Qty 19 boxes of GX-512 at 75.29 each, total 1430.51
+3.Qty 18 boxes of GX-305 at 52.66 each, total 947.88
+Additional Information:
+PODate:2024-09-27
+PaymentTerms:Net45days（45天付款）
+Shipping Terms:DAPCustomer Site（目的地交货）
+All prices are quoted in USD.
+Subtotal:2620.49
+Discount: 8.45
+Handling Fee: 3.43
+Final Amount: 2615.47
+Remark：Allgoodsmust matchapprovedspecifications.所有货品须符合核准规格。

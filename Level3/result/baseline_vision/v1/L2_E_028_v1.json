@@ -1,0 +1,43 @@
+{
+  "po_number": "PO Number: 20224-4282",
+  "po_date": "2025-02-16",
+  "currency": "USD",
+  "total_amount": 518.64,
+  "items": [
+    {
+      "part_number": "L-2",
+      "quantity": 1,
+      "unit": "units",
+      "unit_price": 60.78,
+      "line_amount": 60.78
+    },
+    {
+      "part_number": "CN-220",
+      "quantity": 2,
+      "unit": "EA",
+      "unit_price": 303.63,
+      "line_amount": 607.26
+    },
+    {
+      "part_number": "3A-X410",
+      "quantity": 4,
+      "unit": "EA",
+      "unit_price": 50.6,
+      "line_amount": 202.4
+    },
+    {
+      "part_number": "DB-830",
+      "quantity": 1,
+      "unit": "boxes",
+      "unit_price": 63.14,
+      "line_amount": 63.14
+    },
+    {
+      "part_number": "CD-100",
+      "quantity": 26,
+      "unit": null,
+      "unit_price": 22.12,
+      "line_amount": 575.12
+    }
+  ]
+}

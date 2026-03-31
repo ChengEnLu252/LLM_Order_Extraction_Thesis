@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-3630",
+  "po_date": "2022-10-22",
+  "currency": "JPY",
+  "total_amount": 1351,
+  "items": [
+    {
+      "part_number": "AX-940",
+      "quantity": 8,
+      "unit": "EA",
+      "unit_price": 82.32,
+      "line_amount": 658.56
+    },
+    {
+      "part_number": "CN-940",
+      "quantity": 14,
+      "unit": "EA",
+      "unit_price": 96.5,
+      "line_amount": 1351
+    }
+  ]
+}

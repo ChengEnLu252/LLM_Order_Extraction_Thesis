@@ -1,0 +1,15 @@
+PO Number: PO-2024-6062
+PO Date: 2026-12-08
+Currency: USD
+Supplier: NovaCircuit Solutions 新曜電路方案
+
+Ordered Items:
+1) Item IR-220, ordered quantity 22 EA, unit price 8.65, total 190.30
+2) Item CN-100, ordered quantity 22 boxes, unit price 84.27, total 1853.94
+3) Part No: EV-830
+   Qty: 28 boxes
+   Unit Price: 96.20
+   Amount: 2693.60
+
+Grand Total: 4737.84
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

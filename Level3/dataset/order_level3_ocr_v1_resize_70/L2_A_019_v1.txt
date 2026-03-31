@@ -1,0 +1,35 @@
+Purchase Order
+Document ID: L2_A_019
+Category: A
+Supplier：CedarStone Imports雪松石進出口
+Buyer：LumenTrailProcurement光徑採購
+Order Ref:PO-2024-3564
+DateIssued:01/06/2024
+Settlement Currency:EUR
+Part No.
+Quantity
+Unit
+Price/Unit
+Amount
+EV-830
+4
+pcs
+24.68
+98.72
+JQ-410
+16
+sets
+92.54
+1480.64
+CN-512
+9
+EA
+55.37
+498.33
+EV-512
+6
+sets
+7.84
+47.04
+Total Amount:2124.73
+Remarks: Please confirm delivery schedule before shipment.出貨前請先確認交期。

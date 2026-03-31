@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-4483",
+  "po_date": "2026-10-19",
+  "currency": "EUR",
+  "total_amount": 4105.64,
+  "items": [
+    {
+      "part_number": "JR-940",
+      "quantity": 10,
+      "unit": "boxes",
+      "unit_price": 26.17,
+      "line_amount": 261.7
+    },
+    {
+      "part_number": "JR-925",
+      "quantity": 39,
+      "unit": null,
+      "unit_price": 43.99,
+      "line_amount": 1715.61
+    },
+    {
+      "part_number": "CN-210",
+      "quantity": 16,
+      "unit": "sets",
+      "unit_price": 99.74,
+      "line_amount": 1595.84
+    },
+    {
+      "part_number": "BK-305",
+      "quantity": 7,
+      "unit": "EA",
+      "unit_price": 76.07,
+      "line_amount": 532.49
+    }
+  ]
+}

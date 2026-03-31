@@ -1,0 +1,23 @@
+PO Number: PO-2025-2917
+PO Date: 17/11/2026
+Currency: EUR
+Supplier: Prime Harbor Manufacturing 鼎港製造
+
+Ordered Items:
+1) Item DX-618, ordered quantity 26 sets, unit price 57.19, total 1486.94
+2) Part No: AX-830
+   Qty: 31 pcs
+   Unit Price: 89.86
+   Amount: 2785.66
+3) Part No: DX-410
+   Qty: 18 boxes
+   Unit Price: 8.62
+   Amount: 155.16
+4) Part: IR-940 | Qty: 28 pcs | Price: 95.63 | Amount: 2677.64
+5) Part No: BK-725
+   Qty: 18 boxes
+   Unit Price: 26.33
+   Amount: 473.94
+
+Grand Total: 7579.34
+Remark: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

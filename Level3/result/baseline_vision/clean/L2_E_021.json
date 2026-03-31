@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-9806",
+  "po_date": "2022-05-17",
+  "currency": "JPY",
+  "total_amount": 2986.46,
+  "items": [
+    {
+      "part_number": "J1A",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 96.9,
+      "line_amount": 2981.89
+    },
+    {
+      "part_number": "M1-512",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 7.9,
+      "line_amount": 15.8
+    }
+  ]
+}

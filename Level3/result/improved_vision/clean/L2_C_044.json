@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-3024",
+  "po_date": "2024-07-05",
+  "currency": "USD",
+  "total_amount": 3499.95,
+  "items": [
+    {
+      "part_number": "IR-305",
+      "quantity": 35,
+      "unit": "sets",
+      "unit_price": 71.31,
+      "line_amount": 2495.85
+    },
+    {
+      "part_number": "CN-618",
+      "quantity": 37,
+      "unit": "units",
+      "unit_price": 39.3,
+      "line_amount": 1454.1
+    }
+  ]
+}

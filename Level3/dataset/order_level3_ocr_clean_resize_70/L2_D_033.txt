@@ -1,0 +1,28 @@
+Purchase Order
+Document ID: L2_D_033
+Category: D
+PurchaseOrder No.:PO-2025-6180
+Date:2025-09-08
+Billing Currency: EUR
+Supplier: Ironcrest Materials鐵冠材料有限公司
+Buyer:Allied Nexus Purchasing聯合採購中心
+Ship To: 18 North Avenue, West District
+Contact Person: Kevin Huang /黄建凱
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-IR-512
+Qty 11 boxes  Price 3.26 | Amount 35.86
+-CN-220
+Qty 33 EA | Price 42.38 | Amount 1398.54
+-DX-940
+Qty11 units | Price 51.33 | Amount 564.63
+-IR-220
+Qty 35 sets | Price 84.91 | Amount 2971.85
+Subtotal:4970.88
+Tax:248.54
+Shipping Fee: 67.32
+Final Payable Amount: 5286.74
+Payment Terms:Net30days(30天付款）
+Shipping Terms: FOB Origin(離岸交貨）
+Remark:Allgoods must match approved specifications.所有貨品须符合核准规格。

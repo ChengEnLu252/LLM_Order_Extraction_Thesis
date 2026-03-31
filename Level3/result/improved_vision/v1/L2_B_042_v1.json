@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-9530",
+  "po_date": "2024-03-24",
+  "currency": "JPY",
+  "total_amount": 6034.87,
+  "items": [
+    {
+      "part_number": "Part-012",
+      "quantity": 37,
+      "unit": "boxes",
+      "unit_price": 65.45,
+      "line_amount": 2421.28
+    },
+    {
+      "part_number": "Part-912",
+      "quantity": 8,
+      "unit": "boxes",
+      "unit_price": 49.21,
+      "line_amount": 393.68
+    },
+    {
+      "part_number": "Part-EV-010",
+      "quantity": 39,
+      "unit": "EA",
+      "unit_price": 27.59,
+      "line_amount": 524.21
+    },
+    {
+      "part_number": "Part-AX-725",
+      "quantity": 5,
+      "unit": "pieces",
+      "unit_price": 77.02,
+      "line_amount": 2695.7
+    }
+  ]
+}

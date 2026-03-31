@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-6559",
+  "po_date": "2022-08-11",
+  "currency": "USD",
+  "total_amount": 5585.66,
+  "items": [
+    {
+      "part_number": "EV-830",
+      "quantity": 10,
+      "unit": "EA",
+      "unit_price": 43.34,
+      "line_amount": 433.4
+    },
+    {
+      "part_number": "ER-20",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": 43.34,
+      "line_amount": 272.08
+    },
+    {
+      "part_number": "IR-210",
+      "quantity": 36,
+      "unit": "EA",
+      "unit_price": 83.93,
+      "line_amount": 3021.48
+    },
+    {
+      "part_number": "DX-725",
+      "quantity": 28,
+      "unit": "pcs",
+      "unit_price": 49.59,
+      "line_amount": 1388.52
+    },
+    {
+      "part_number": "GX-512",
+      "quantity": 12,
+      "unit": "sets",
+      "unit_price": 39.14,
+      "line_amount": 469.68
+    }
+  ]
+}

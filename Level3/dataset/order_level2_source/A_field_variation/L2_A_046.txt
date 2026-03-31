@@ -1,0 +1,12 @@
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Buyer: Skyforge Systems 天鑄系統
+Purchase Order No.: PO-2025-3363
+Date Issued: 2025-02-11
+Currency: JPY
+
+SKU             Quantity     Unit       Item Price      Line Total     
+FT-830          4            units      5.81            23.24          
+IR-305          31           boxes      16.60           514.60         
+
+Grand Total: 537.84
+Remarks: Please include inspection report with shipment. 出貨時請附檢驗報告。

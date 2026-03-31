@@ -1,0 +1,26 @@
+Purchase Order
+Document ID: L2_D_024
+Category: D
+Purchase Order No.:PO-2024-9841
+Date:2024-08-20
+Billing Currency: JPY
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: GrandRiver Devices大河装置
+Ship To: 18 North Avenue, West District
+Contact Person: Daniel Brooks /陈志宏
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-EV-940
+Qty 22 sets  Price 36.57  Amount 804.54
+-FT-618
+Qty 19 sets | Price 7.34 | Amount 139.46
+-BK-830
+|Qty 33 units | Price 51.14 | Amount 1687.62
+Subtotal:2631.62
+Tax:131.58
+Shipping Fee: 53.47
+Final Payable Amount: 2816.67
+Payment Terms:Payment dueupon receipt（收貨後付款）
+Shipping Terms: DAP Customer Site(目的地交貨)
+Remark: Please include inspection report with shipment.出貨時請附檢驗報告。

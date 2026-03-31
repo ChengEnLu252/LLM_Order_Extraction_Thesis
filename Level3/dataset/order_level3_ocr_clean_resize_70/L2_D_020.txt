@@ -1,0 +1,31 @@
+Purchase Order
+Document ID: L2_D_020
+Category: D
+Purchase Order No.:PO-2025-4731
+Date:07/19/2024
+Billing Currency: USD
+Supplier: NovaCircuit Solutions 新曜電路方案
+Buyer: GrandRiver Devices大河装置
+Ship To: 18 North Avenue, West District
+Contact Person: Ivy Chen /陳怡君
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-JQ-830
+Qty 16 pcs  Price 9.21 | Amount 147.36
+-JQ-830
+Qty 29 EA | Price 16.20 | Amount 469.80
+-HM-410
+Qty 26 boxes | Price 38.60
+Amount 1003.60
+-CN-100
+Qty 19 units| Price 21.82
+Amount 414.58
+-BK-830  Qty 5 sets  Price 29.50  Amount 147.50
+Subtotal:2182.84
+Tax:109.14
+Shipping Fee: 25.39
+Final Payable Amount: 2317.37
+Payment Terms:Net45days（45天付款）
+Shipping Terms:EXwWarehouse（工廠交貨）
+Remark:Allgoods must match approved specifications.所有貨品须符合核准规格。

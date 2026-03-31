@@ -1,0 +1,21 @@
+Supplier: AuroraLink Systems 極光連結系統
+Buyer: LumenTrail Procurement 光徑採購
+
+Please process the following materials based on our current procurement request.
+Order Ref: PO-2024-1378
+
+The requested items are listed below.
+
+1. Part: AX-618 | Qty: 29 sets | Price: 64.81 | Amount: 1879.49
+2. IR-830 / ordered quantity 28sets / rate 28.86 / line total 808.08
+
+Additional Information:
+Date: December 27, 2026
+Payment Terms: Net 30 days（30天付款）
+Shipping Terms: CIF Destination（成本保險加運費）
+All prices are quoted in JPY.
+Subtotal: 2687.57
+Discount: 11.73
+Handling Fee: 3.06
+Final Amount: 2678.90
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

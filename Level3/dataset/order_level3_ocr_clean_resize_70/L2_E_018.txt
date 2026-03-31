@@ -1,0 +1,29 @@
+Purchase Order
+Document ID: L2_E_018
+Category: E
+Supplier：OrbitLine Distribution軌域配销有限公司
+Buyer： PolarEdge Manufacturing極鋒製造
+Please process the following materials based on our current procurement request.
+PO Number:PO-2024-1732
+The requested materials are summarized below in mixed item formats.
+1.Product Code: HM-305
+UnitsOrdered:23EA
+Item Price:78.57
+Amount:1807.11
+2.Qty 34 EA of HM-830 at 64.37 each, total 2188.58
+3.JQ-725 / ordered quantity 22sets / rate 10.75 / line total 236.50
+4. FT-940 / ordered quantity 16pcs / rate 90.22 / line total 1443.52
+5.ProductCode：BK-305
+Units Ordered: 30 pcs
+Item Price:74.12
+Amount:2223.60
+Additional Information:
+Order Date:2026-05-05
+The agreed payment condition is Payment due upon receipt(收貨後付款）
+Delivery arrangement follows FOB Origin（離岸交貨）.
+All prices are quoted in EUR.
+Subtotal:7899.31
+Discount:19.33
+Handling Fee: 9.50
+Final Amount: 7889.48
+Remark:Please include inspection report with shipment.出貨時請附檢驗報告。

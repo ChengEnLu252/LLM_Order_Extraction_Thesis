@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-5550",
+  "po_date": "2024-10-23",
+  "currency": "EUR",
+  "total_amount": 1414.17,
+  "items": [
+    {
+      "part_number": "JO-1010",
+      "quantity": 3,
+      "unit": "pcs",
+      "unit_price": 65.75,
+      "line_amount": 197.25
+    },
+    {
+      "part_number": "GX-312",
+      "quantity": 17,
+      "unit": "pcs",
+      "unit_price": 26.79,
+      "line_amount": 455.43
+    },
+    {
+      "part_number": "GX-370",
+      "quantity": 9,
+      "unit": "pcs",
+      "unit_price": 76.56,
+      "line_amount": 689.78
+    },
+    {
+      "part_number": "GX-512",
+      "quantity": 2,
+      "unit": "boxes",
+      "unit_price": 91.16,
+      "line_amount": 182.32
+    }
+  ]
+}

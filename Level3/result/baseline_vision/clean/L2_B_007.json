@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-9743",
+  "po_date": "2022-06-05",
+  "currency": "EUR",
+  "total_amount": 2360.23,
+  "items": [
+    {
+      "part_number": "Part EH-618",
+      "quantity": 31,
+      "unit": "EA",
+      "unit_price": 11.66,
+      "line_amount": 361.46
+    },
+    {
+      "part_number": "Part AW-410",
+      "quantity": 25,
+      "unit": null,
+      "unit_price": 32.67,
+      "line_amount": 816.75
+    },
+    {
+      "part_number": "Part DX-725",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 21.756,
+      "line_amount": 82.68
+    },
+    {
+      "part_number": "Part DX-725",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 21.23,
+      "line_amount": 233.53
+    },
+    {
+      "part_number": "Part FT-751",
+      "quantity": 1,
+      "unit": "sets",
+      "unit_price": 50.91,
+      "line_amount": 65.81
+    }
+  ]
+}

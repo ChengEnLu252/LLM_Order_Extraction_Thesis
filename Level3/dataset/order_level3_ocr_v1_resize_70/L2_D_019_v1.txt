@@ -1,0 +1,23 @@
+Purchase Order
+Document ID: L2_D_019
+Category: D
+Purchase Order No.:PO-2025-5118
+Date:11/15/2025
+Billing Currency: JPY
+Supplier:CedarStone Imports雪松石進出口
+Buyer: Summit Valley Electronics峰谷电子
+Ship To: 18 North Avenue, West District
+Contact Person:Daniel Brooks ／陳志宏
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+- CN-305 | Qty 5 pcs | Price 92.64 | Amount 463.20
+- BK-410 | Qty 33 sets | Price 52.46 | Amount 1731.18
+Subtotal:2194.38
+Tax:109.72
+Shipping Fee:23.91
+Final Payable Amount: 2328.01
+Payment Terms:Payment due upon receipt （收貨後付款）
+Shipping Terms:DAPCustomerSite（目的地交货）
+Remark: Please include inspection report with shipment.出貨時請附檢驗報告。
+al

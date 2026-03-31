@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-7325",
+  "po_date": "2024-11-07",
+  "currency": "EUR",
+  "total_amount": 2871.28,
+  "items": [
+    {
+      "part_number": "HM-220",
+      "quantity": 8,
+      "unit": "units",
+      "unit_price": 87.67,
+      "line_amount": 701.36
+    },
+    {
+      "part_number": "CM-231",
+      "quantity": 3,
+      "unit": "EA",
+      "unit_price": 36.5,
+      "line_amount": 108.5
+    },
+    {
+      "part_number": "EV-518",
+      "quantity": 6,
+      "unit": "units",
+      "unit_price": 48.01,
+      "line_amount": 288.06
+    },
+    {
+      "part_number": "PF-940",
+      "quantity": 27,
+      "unit": "sets",
+      "unit_price": 65.68,
+      "line_amount": 1773.36
+    }
+  ]
+}

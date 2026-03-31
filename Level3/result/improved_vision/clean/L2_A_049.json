@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-5442",
+  "po_date": "2025-07-10",
+  "currency": "USD",
+  "total_amount": 422.0,
+  "items": [
+    {
+      "part_number": "IR-410",
+      "quantity": 5,
+      "unit": "EA",
+      "unit_price": 67.64,
+      "line_amount": 338.2
+    },
+    {
+      "part_number": "IR-330",
+      "quantity": 5,
+      "unit": "pcs",
+      "unit_price": 11.82,
+      "line_amount": 59.1
+    },
+    {
+      "part_number": "IR-305",
+      "quantity": 1,
+      "unit": "sets",
+      "unit_price": 2.51,
+      "line_amount": 2.51
+    }
+  ]
+}

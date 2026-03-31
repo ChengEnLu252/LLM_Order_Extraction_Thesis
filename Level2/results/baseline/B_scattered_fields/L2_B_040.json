@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-7828",
+  "po_date": "2024-07-01",
+  "currency": "USD",
+  "total_amount": 7345.43,
+  "items": [
+    {
+      "part_number": "FT-100",
+      "quantity": 33,
+      "unit": "units",
+      "unit_price": 76.43,
+      "line_amount": 2522.19
+    },
+    {
+      "part_number": "IR-725",
+      "quantity": 12,
+      "unit": "EA",
+      "unit_price": 8.43,
+      "line_amount": 101.16
+    },
+    {
+      "part_number": "AX-305",
+      "quantity": 35,
+      "unit": "EA",
+      "unit_price": 88.17,
+      "line_amount": 3085.95
+    },
+    {
+      "part_number": "DX-100",
+      "quantity": 14,
+      "unit": "sets",
+      "unit_price": 84.02,
+      "line_amount": 1176.28
+    },
+    {
+      "part_number": "DX-512",
+      "quantity": 5,
+      "unit": "boxes",
+      "unit_price": 91.97,
+      "line_amount": 459.85
+    }
+  ]
+}

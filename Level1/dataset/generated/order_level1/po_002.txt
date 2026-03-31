@@ -1,0 +1,19 @@
+
+Subject: PO-2026-0002
+
+Hi,
+
+Please process this order.
+
+Buyer: 承恩科技股份有限公司
+Supplier: 鼎新材料股份有限公司
+Date: April 13, 2024
+
+Items:
+1. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 104 顆 單價: 9.66 小計: 1004.64
+2. 固態硬碟 1TB (SSD-1TB-X) 數量: 162 PCS 單價: 128.74 小計: 20855.88
+3. 電源管理IC (PMIC-A88) 數量: 51 顆 單價: 158.42 小計: 8079.42
+4. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 967 個 單價: 116.34 小計: 112500.78
+
+
+Total Amount: 142440.72 USD

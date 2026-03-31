@@ -1,0 +1,40 @@
+Purchase Order
+Document ID: L2_A_030
+Category: A
+Supplier: BluePeak Industrial Supply 藍峰工業供應
+Buyer: Stonepath Industrial石徑工業
+Purchase Order No.: PO-2025-7532
+Date:2026-05-01
+Currency: JPY
+Product Code
+Quantity
+Unit
+Unit Price
+Line Total
+FT-305
+22
+sets
+67.18
+1477.96
+BK-220
+6
+sets
+10.94
+65.64
+FT-305
+8
+units
+74.97
+599.76
+IR-940
+5
+boxes
+59.47
+297.35
+GX-100
+9
+boxes
+42.26
+380.34
+Grand Total: 2821.05
+Remarks: Please include inspection report with shipment.出貨時請附檢驗報告。

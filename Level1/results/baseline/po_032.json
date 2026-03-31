@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-0032",
+  "po_date": "2024-11-25",
+  "currency": "TWD",
+  "total_amount": 171375.98,
+  "items": [
+    {
+      "part_number": "SSD-1TB-X",
+      "quantity": 991,
+      "unit": "顆",
+      "unit_price": 98.23,
+      "line_amount": 97345.93
+    },
+    {
+      "part_number": "HDMI-21-2M",
+      "quantity": 352,
+      "unit": "PCS",
+      "unit_price": 132.1,
+      "line_amount": 46499.2
+    },
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 199,
+      "unit": "條",
+      "unit_price": 59.43,
+      "line_amount": 11826.57
+    },
+    {
+      "part_number": "HDMI-21-2M",
+      "quantity": 131,
+      "unit": "條",
+      "unit_price": 119.88,
+      "line_amount": 15704.28
+    }
+  ]
+}

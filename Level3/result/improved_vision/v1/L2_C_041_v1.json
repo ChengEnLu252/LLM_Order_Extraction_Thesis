@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-4783",
+  "po_date": "2025-04-20",
+  "currency": "USD",
+  "total_amount": 1596.11,
+  "items": [
+    {
+      "part_number": "JT-830",
+      "quantity": 32,
+      "unit": "boxes",
+      "unit_price": 15.14,
+      "line_amount": 484.48
+    },
+    {
+      "part_number": "EM-830",
+      "quantity": 13,
+      "unit": null,
+      "unit_price": 85.51,
+      "line_amount": 1111.63
+    }
+  ]
+}

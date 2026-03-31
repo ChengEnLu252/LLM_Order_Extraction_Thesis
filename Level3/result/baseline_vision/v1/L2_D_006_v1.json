@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-7459",
+  "po_date": "2025-10-13",
+  "currency": "JPY",
+  "total_amount": 5178.52,
+  "items": [
+    {
+      "part_number": "CN-830",
+      "quantity": 29,
+      "unit": "EA",
+      "unit_price": 55.42,
+      "line_amount": 1607.18
+    },
+    {
+      "part_number": "CN-705",
+      "quantity": 74,
+      "unit": "EA",
+      "unit_price": 56.31,
+      "line_amount": 4166.0
+    },
+    {
+      "part_number": "CN-305",
+      "quantity": 3,
+      "unit": "EA",
+      "unit_price": 79.95,
+      "line_amount": 239.85
+    },
+    {
+      "part_number": "CN-830",
+      "quantity": 6,
+      "unit": "sets",
+      "unit_price": 56.54,
+      "line_amount": 393.24
+    },
+    {
+      "part_number": "GK-830",
+      "quantity": 80,
+      "unit": "units",
+      "unit_price": 1.3,
+      "line_amount": 103.0
+    }
+  ]
+}

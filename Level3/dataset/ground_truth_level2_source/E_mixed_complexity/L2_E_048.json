@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-6452",
+  "po_date": "2025-04-03",
+  "currency": "JPY",
+  "total_amount": "4283.08",
+  "items": [
+    {
+      "part_number": "GX-940",
+      "quantity": 26,
+      "unit": "sets",
+      "unit_price": "91.20",
+      "line_amount": "2371.20"
+    },
+    {
+      "part_number": "BK-512",
+      "quantity": 16,
+      "unit": "pcs",
+      "unit_price": "23.91",
+      "line_amount": "382.56"
+    },
+    {
+      "part_number": "JQ-410",
+      "quantity": 9,
+      "unit": "pcs",
+      "unit_price": "10.74",
+      "line_amount": "96.66"
+    },
+    {
+      "part_number": "FT-725",
+      "quantity": 38,
+      "unit": "units",
+      "unit_price": "38.04",
+      "line_amount": "1445.52"
+    }
+  ]
+}

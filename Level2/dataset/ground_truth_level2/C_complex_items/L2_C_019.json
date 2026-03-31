@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-2917",
+  "po_date": "2026-11-17",
+  "currency": "EUR",
+  "total_amount": "7579.34",
+  "items": [
+    {
+      "part_number": "DX-618",
+      "quantity": 26,
+      "unit": "sets",
+      "unit_price": "57.19",
+      "line_amount": "1486.94"
+    },
+    {
+      "part_number": "AX-830",
+      "quantity": 31,
+      "unit": "pcs",
+      "unit_price": "89.86",
+      "line_amount": "2785.66"
+    },
+    {
+      "part_number": "DX-410",
+      "quantity": 18,
+      "unit": "boxes",
+      "unit_price": "8.62",
+      "line_amount": "155.16"
+    },
+    {
+      "part_number": "IR-940",
+      "quantity": 28,
+      "unit": "pcs",
+      "unit_price": "95.63",
+      "line_amount": "2677.64"
+    },
+    {
+      "part_number": "BK-725",
+      "quantity": 18,
+      "unit": "boxes",
+      "unit_price": "26.33",
+      "line_amount": "473.94"
+    }
+  ]
+}

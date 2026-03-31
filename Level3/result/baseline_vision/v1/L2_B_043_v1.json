@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-9759",
+  "po_date": "2026-09-01",
+  "currency": "JPY",
+  "total_amount": 2212.47,
+  "items": [
+    {
+      "part_number": "BK-330",
+      "quantity": 37,
+      "unit": "EA",
+      "unit_price": 19.75,
+      "line_amount": 730.75
+    },
+    {
+      "part_number": "RTK-305",
+      "quantity": 15,
+      "unit": "EA",
+      "unit_price": 73.07,
+      "line_amount": 1096.05
+    },
+    {
+      "part_number": "PTK-D512",
+      "quantity": 7,
+      "unit": "sets",
+      "unit_price": 23.78,
+      "line_amount": 166.46
+    }
+  ]
+}

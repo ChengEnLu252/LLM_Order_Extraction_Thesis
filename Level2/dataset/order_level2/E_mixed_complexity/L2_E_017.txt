@@ -1,0 +1,21 @@
+Supplier: Ironcrest Materials 鐵冠材料有限公司
+Buyer: PolarEdge Manufacturing 極鋒製造
+
+Kindly proceed with the following mixed-format order details.
+Purchase Order No.: PO-2024-7694
+
+Please note that the requested items are presented in different line formats below.
+
+1. FT-512 / ordered quantity 35boxes / rate 17.02 / line total 595.70
+2. AX-305 / ordered quantity 21EA / rate 30.81 / line total 647.01
+
+Additional Information:
+Date Issued: August 13, 2024
+Payment for this order shall follow 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）.
+Shipping arrangement will follow FOB Origin（離岸交貨）.
+All prices are quoted in USD.
+Subtotal: 1242.71
+Discount: 8.23
+Handling Fee: 12.83
+Final Amount: 1247.31
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

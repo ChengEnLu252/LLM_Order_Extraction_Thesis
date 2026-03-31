@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-0045",
+  "po_date": "2025-03-04",
+  "currency": "USD",
+  "total_amount": 167772.33,
+  "items": [
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 722,
+      "unit": "條",
+      "unit_price": 44.82,
+      "line_amount": 32360.04
+    },
+    {
+      "part_number": "HDMI-21-2M",
+      "quantity": 700,
+      "unit": "PCS",
+      "unit_price": 28.98,
+      "line_amount": 20286.0
+    },
+    {
+      "part_number": "HDMI-21-2M",
+      "quantity": 409,
+      "unit": "顆",
+      "unit_price": 85.81,
+      "line_amount": 35096.29
+    },
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 1000,
+      "unit": "個",
+      "unit_price": 80.03,
+      "line_amount": 80030.0
+    }
+  ]
+}

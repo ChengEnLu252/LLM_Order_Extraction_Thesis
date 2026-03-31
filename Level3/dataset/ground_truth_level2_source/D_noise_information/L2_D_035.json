@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-1971",
+  "po_date": "2026-08-18",
+  "currency": "USD",
+  "total_amount": "2494.36",
+  "items": [
+    {
+      "part_number": "BK-220",
+      "quantity": 21,
+      "unit": "units",
+      "unit_price": "67.42",
+      "line_amount": "1415.82"
+    },
+    {
+      "part_number": "DX-305",
+      "quantity": 15,
+      "unit": "boxes",
+      "unit_price": "59.59",
+      "line_amount": "893.85"
+    }
+  ]
+}

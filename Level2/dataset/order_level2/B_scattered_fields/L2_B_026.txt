@@ -1,0 +1,20 @@
+Supplier: Ironcrest Materials 鐵冠材料有限公司
+Buyer: Summit Valley Electronics 峰谷電子
+
+Please prepare the materials listed below for the next production batch.
+For tracking purposes, please use order reference PO-2024-9128.
+
+Item List:
+1. Part: CN-512 | Qty: 38 pcs | Price: 18.35 | Amount: 697.30
+2. Part BK-410 / Qty 38 units / Unit Price 68.06 / Amount 2586.28
+3. AX-410, quantity 2 pcs, unit price 6.32, amount 12.64
+4. Part CN-305 / Qty 32 pcs / Unit Price 37.67 / Amount 1205.44
+5. GX-410, quantity 37 boxes, unit price 80.71, amount 2986.27
+
+This order was issued on 2026-07-21.
+All prices are stated in JPY.
+Payment Terms: 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）
+Shipping Terms: EXW Warehouse（工廠交貨）
+
+Amount due upon confirmation: 7487.93
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

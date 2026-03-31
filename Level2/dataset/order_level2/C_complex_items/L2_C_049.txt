@@ -1,0 +1,20 @@
+PO Number: PO-2026-1477
+PO Date: 25 Dec 2024
+Currency: USD
+Supplier: Ironcrest Materials 鐵冠材料有限公司
+
+Ordered Items:
+1) Part No: CN-830
+   Qty: 32 EA
+   Unit Price: 80.13
+   Amount: 2564.16
+2) Part: IR-618 | Qty: 31 sets | Price: 89.42 | Amount: 2772.02
+3) Part No: AX-940
+   Qty: 28 boxes
+   Unit Price: 92.92
+   Amount: 2601.76
+4) FT-940 / 38 units / 73.05 / 2775.90
+5) Item FT-618, ordered quantity 3 pcs, unit price 22.41, total 67.23
+
+Grand Total: 10781.07
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

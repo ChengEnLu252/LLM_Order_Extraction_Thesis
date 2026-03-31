@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-2480",
+  "po_date": "2023-08-06",
+  "currency": "USD",
+  "total_amount": 3502.43,
+  "items": [
+    {
+      "part_number": "DL-40",
+      "quantity": 38,
+      "unit": "EA",
+      "unit_price": 78.42,
+      "line_amount": 2979.96
+    },
+    {
+      "part_number": "PX-940",
+      "quantity": 15,
+      "unit": "EA",
+      "unit_price": 28.37,
+      "line_amount": 425.55
+    },
+    {
+      "part_number": "CH-305",
+      "quantity": 2,
+      "unit": "EA",
+      "unit_price": 48.46,
+      "line_amount": 96.92
+    }
+  ]
+}

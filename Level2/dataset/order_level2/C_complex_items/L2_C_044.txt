@@ -1,0 +1,17 @@
+PO Number: PO-2024-3024
+PO Date: 2024-07-05
+Currency: USD
+Supplier: CedarStone Imports 雪松石進出口
+
+Ordered Items:
+1) Part No: IR-305
+   Qty: 35 sets
+   Unit Price: 71.31
+   Amount: 2495.85
+2) Part No: CN-618
+   Qty: 37 units
+   Unit Price: 39.30
+   Amount: 1454.10
+
+Grand Total: 3949.95
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

@@ -1,0 +1,25 @@
+Purchase Order
+Document ID: L2_C_006
+Category: C
+PONumber:PO-2024-9691
+PODate:2026-08-30
+Currency:JPY
+Supplier:NorthstarComponentsLtd.北辰元件有限公司
+Ordered Items:
+1)Part No:JQ-410
+Qty:30 pcs
+Unit Price:25.55
+Amount:766.50
+2) BK-725 / 22boxes / 39.37 / 866.14
+3）
+PartNo:AX-940
+Qty: 36 boxes
+Unit Price:72.95
+Amount:2626.20
+4)
+Part No:HM-830
+Qty: 34 pcs
+Unit Price:80.68
+Amount:2743.12
+GrandTotal:7001.96
+Remark: Partial shipment is not allowed unless approved.未經同意不得分批出貨。

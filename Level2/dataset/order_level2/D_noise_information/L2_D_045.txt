@@ -1,0 +1,24 @@
+Purchase Order No.: PO-2026-8786
+Date: 05/24/2026
+Billing Currency: USD
+Supplier: Ironcrest Materials 鐵冠材料有限公司
+Buyer: Allied Nexus Purchasing 聯合採購中心
+
+Ship To: 18 North Avenue, West District
+Contact Person: Kevin Huang / 黃建凱
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- GX-940 | Qty 34 boxes | Price 80.80 | Amount 2747.20
+- EV-940 | Qty 14 sets | Price 42.60 | Amount 596.40
+- AX-940 | Qty 37 EA | Price 19.70 | Amount 728.90
+- HM-512 | Qty 38 units | Price 50.92 | Amount 1934.96
+
+Subtotal: 6007.46
+Tax: 300.37
+Shipping Fee: 46.56
+Final Payable Amount: 6354.39
+Payment Terms: 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）
+Shipping Terms: FOB Origin（離岸交貨）
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

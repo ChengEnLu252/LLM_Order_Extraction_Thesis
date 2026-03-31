@@ -1,0 +1,23 @@
+Purchase Order
+Document ID: L2_E_042
+Category: E
+Supplier: Northstar Components Ltd.北辰元件有限公司
+Buyer: Skyforge Systems天鑄系統
+Please review and process the following procurement request.
+Order Ref:PO-2026-8101
+Please note that the requested items are presented in different line formats below.
+1. EV-940 / ordered quantity 7EA / rate 76.37 / line total 534.59
+2.Qty 37 sets of EV-725 at 73.21 each, total 2708.77
+3. Gx-940 / ordered quantity 21units / rate 46.45 / line total 975.45
+4. CN-830 / ordered quantity 32EA / rate 9.05 / line total 289.60
+5.Qty 11 units of AX-100 at 91.78 each, total 1009.58
+Additional Information:
+Date Issued: November 15,2024
+Payment for this order shallfollow 30% advance，70% before shipment(30预付，70%出貨前付清).
+Shipping arrangement willfollow DAP Customer Site(目的地交货）.
+All prices are quoted in EUR.
+Subtotal:5517.99
+Discount: 10.76
+Handling Fee: 6.69
+Final Amount: 5513.92
+Remark:Partialshipment is notallowed unless approved.未经同意不得分批出貨。

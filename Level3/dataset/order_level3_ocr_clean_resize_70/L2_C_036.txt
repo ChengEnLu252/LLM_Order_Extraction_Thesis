@@ -1,0 +1,16 @@
+Purchase Order
+Document ID: L2_C_036
+Category: C
+PO Number: PO-2026-4245
+PO Date: 26 Sep 2026
+Currency: EUR
+Supplier:OrbitLine Distribution軌域配銷有限公司
+Ordered Items:
+1)GX-618 / 17units / 9.02 / 153.34
+2)Part No: GX-725
+Qty:7 boxes
+Unit Price:13.03
+Amount:91.21
+3) Item FT-100,ordered quantity 24 boxes, unit price 20.67, total 496.08
+Grand Total: 740.63
+Remark: Packaging must comply with export standards.包装需符合出口標準。

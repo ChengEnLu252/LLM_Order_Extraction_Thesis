@@ -1,0 +1,27 @@
+Supplier: NovaCircuit Solutions 新曜電路方案
+Buyer: LumenTrail Procurement 光徑採購
+
+Please review and process the following procurement request.
+PO Number: PO-2025-5081
+
+The requested items are listed below.
+
+1. Qty 13 pcs of BK-725 at 70.46 each, total 915.98
+2. Qty 17 units of CN-512 at 88.78 each, total 1509.26
+3. Part: BK-410 | Qty: 20 sets | Price: 67.33 | Amount: 1346.60
+4. Qty 28 boxes of IR-220 at 99.25 each, total 2779.00
+5. Product Code: IR-618
+   Units Ordered: 6 sets
+   Item Price: 76.03
+   Amount: 456.18
+
+Additional Information:
+Issued On: 02 Jan 2025
+Payment Terms: Net 45 days（45天付款）
+Shipping Terms: EXW Warehouse（工廠交貨）
+All prices are quoted in JPY.
+Subtotal: 7007.02
+Discount: 5.40
+Handling Fee: 10.67
+Final Amount: 7012.29
+Remark: All goods must match approved specifications. 所有貨品須符合核准規格。

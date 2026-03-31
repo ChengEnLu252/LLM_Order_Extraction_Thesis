@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-6113",
+  "po_date": "2024-06-22",
+  "currency": "JPY",
+  "total_amount": 2664.59,
+  "items": [
+    {
+      "part_number": "IR-618",
+      "quantity": 23,
+      "unit": "pcs",
+      "unit_price": 18.64,
+      "line_amount": 428.72
+    },
+    {
+      "part_number": "GK-940",
+      "quantity": 31,
+      "unit": "pcs",
+      "unit_price": 66.46,
+      "line_amount": 2062.26
+    }
+  ]
+}

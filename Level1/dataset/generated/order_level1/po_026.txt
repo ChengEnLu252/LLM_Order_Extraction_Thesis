@@ -1,0 +1,18 @@
+
+Subject: PO-2026-0026
+
+Hi,
+
+Please process this order.
+
+Buyer: 宏達電子有限公司
+Supplier: 承恩科技股份有限公司
+Date: July 16, 2025
+
+Items:
+1. 電源管理IC (PMIC-A88) 數量: 555 PCS 單價: 29.49 小計: 16366.95
+2. Type-C 連接器 24Pin (TC-24P-001) 數量: 783 PCS 單價: 46.34 小計: 36284.22
+3. 固態硬碟 1TB (SSD-1TB-X) 數量: 765 個 單價: 101.59 小計: 77716.35
+
+
+Total Amount: 130367.52 TWD

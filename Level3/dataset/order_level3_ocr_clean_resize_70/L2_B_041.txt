@@ -1,0 +1,17 @@
+Purchase Order
+Document ID: L2_B_041
+Category: B
+Please prepare the materials listed below for the next production batch.
+Supplier information: NovaCircuit Solutions 新曜電路方案
+This request should be recorded under reference number PO-2026-2480.
+Requested by: Summit Valley Electronics峰谷電子
+Ordered Materials:
+1. DX-410, quantity 38 EA, unit price 78.42, amount 2979.96
+2.Part GX-940 / Qty 15 pcs / Unit Price 28.37 / Amount 425.55
+3.CN-305,quantity 2 units, unit price 48.46,amount 96.92
+PaymentTerms:Net45days(45天付款)
+The issuance date for this order is 06 Aug 2025.
+Shipping arrangement follows Exw Warehouse(工廠交货）.
+The transaction currency for this order is USD.
+Total amount for this order: 3502.43
+Additional note: Please confirm delivery schedule before shipment.出貨前請先確認交期。

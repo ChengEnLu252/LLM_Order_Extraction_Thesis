@@ -1,0 +1,18 @@
+
+Subject: PO-2026-0016
+
+Hi,
+
+Please process this order.
+
+Buyer: 承恩科技股份有限公司
+Supplier: 承恩科技股份有限公司
+Date: May 27, 2025
+
+Items:
+1. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 96 PCS 單價: 76.53 小計: 7346.88
+2. 固態硬碟 1TB (SSD-1TB-X) 數量: 627 條 單價: 32.22 小計: 20201.94
+3. Type-C 連接器 24Pin (TC-24P-001) 數量: 399 條 單價: 25.59 小計: 10210.41
+
+
+Total Amount: 37759.23 TWD

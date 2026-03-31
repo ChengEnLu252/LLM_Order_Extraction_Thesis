@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-5947",
+  "po_date": "2025-09-14",
+  "currency": "EUR",
+  "total_amount": 3927.23,
+  "items": [
+    {
+      "part_number": "CN-512",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 79.54,
+      "line_amount": 238.62
+    },
+    {
+      "part_number": "EV-725",
+      "quantity": 32,
+      "unit": "EA",
+      "unit_price": 14.17,
+      "line_amount": 453.44
+    },
+    {
+      "part_number": "DX-100",
+      "quantity": 33,
+      "unit": "pcs",
+      "unit_price": 90.87,
+      "line_amount": 2998.71
+    }
+  ]
+}

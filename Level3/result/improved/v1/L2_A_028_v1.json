@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-4475",
+  "po_date": "2024-02-13",
+  "currency": "USD",
+  "total_amount": 2156.58,
+  "items": [
+    {
+      "part_number": "IR-410",
+      "quantity": 38,
+      "unit": "units",
+      "unit_price": 22.11,
+      "line_amount": 840.18
+    },
+    {
+      "part_number": "DX-618",
+      "quantity": 15,
+      "unit": "EA",
+      "unit_price": 81.68,
+      "line_amount": 1225.2
+    },
+    {
+      "part_number": "CN-305",
+      "quantity": 40,
+      "unit": "units",
+      "unit_price": 2.28,
+      "line_amount": 91.2
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-4617",
+  "po_date": "2024-11-09",
+  "currency": "USD",
+  "total_amount": 941.35,
+  "items": [
+    {
+      "part_number": "GM-305",
+      "quantity": 16,
+      "unit": "EA",
+      "unit_price": 44.33,
+      "line_amount": 709.28
+    },
+    {
+      "part_number": "J-10",
+      "quantity": 23,
+      "unit": "units",
+      "unit_price": 10.09,
+      "line_amount": 232.07
+    }
+  ]
+}

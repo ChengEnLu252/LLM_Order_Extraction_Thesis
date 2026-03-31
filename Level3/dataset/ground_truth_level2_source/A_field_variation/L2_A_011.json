@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-3041",
+  "po_date": "2025-09-07",
+  "currency": "JPY",
+  "total_amount": "5428.01",
+  "items": [
+    {
+      "part_number": "IR-305",
+      "quantity": 27,
+      "unit": "EA",
+      "unit_price": "70.33",
+      "line_amount": "1898.91"
+    },
+    {
+      "part_number": "GX-305",
+      "quantity": 28,
+      "unit": "units",
+      "unit_price": "67.16",
+      "line_amount": "1880.48"
+    },
+    {
+      "part_number": "IR-100",
+      "quantity": 38,
+      "unit": "boxes",
+      "unit_price": "31.49",
+      "line_amount": "1196.62"
+    },
+    {
+      "part_number": "JQ-618",
+      "quantity": 20,
+      "unit": "sets",
+      "unit_price": "22.60",
+      "line_amount": "452.00"
+    }
+  ]
+}

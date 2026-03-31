@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-6498",
+  "po_date": "2023-01-15",
+  "currency": "EUR",
+  "total_amount": 4539.97,
+  "items": [
+    {
+      "part_number": "EV-725",
+      "quantity": 17,
+      "unit": null,
+      "unit_price": 71.79,
+      "line_amount": 1220.43
+    },
+    {
+      "part_number": "AX-330",
+      "quantity": 38,
+      "unit": null,
+      "unit_price": 37.96,
+      "line_amount": 1442.48
+    },
+    {
+      "part_number": "BK-305",
+      "quantity": 9,
+      "unit": null,
+      "unit_price": 58.67,
+      "line_amount": 529.63
+    },
+    {
+      "part_number": "BK-940",
+      "quantity": 19,
+      "unit": null,
+      "unit_price": 47.51,
+      "line_amount": 903.64
+    },
+    {
+      "part_number": "BK-940",
+      "quantity": 7,
+      "unit": null,
+      "unit_price": 26.03,
+      "line_amount": 182.21
+    }
+  ]
+}

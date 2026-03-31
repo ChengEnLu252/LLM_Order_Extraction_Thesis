@@ -1,0 +1,40 @@
+Purchase Order
+Document ID: L2_A_006
+Category: A
+Supplier：SilverOak Procurement銀橡採購股份有限公司
+Buyer：GrandRiverDevices大河装置
+OrderID:PO-2025-6559
+PODate:2024-08-11
+Billing Currency:USD
+Model No.
+Quantity
+Unit
+Unit Price
+Line Total
+EV-830
+10
+EA
+43.34
+433.40
+IR-220
+6
+pcs
+45.43
+272.58
+BK-410
+36
+EA
+83.93
+3021.48
+DX-725
+28
+pcs
+49.59
+1388.52
+GX-512
+12
+sets
+39.14
+469.68
+Total Amount:5585.66
+Remarks:Partialshipment isnot allowed unless approved.未经同意不得分批出货。

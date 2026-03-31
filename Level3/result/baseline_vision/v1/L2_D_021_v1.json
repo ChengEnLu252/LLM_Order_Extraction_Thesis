@@ -1,0 +1,29 @@
+{
+  "po_number": "L2_D_021",
+  "po_date": "2025-04-15",
+  "currency": "USD",
+  "total_amount": 6042.8,
+  "items": [
+    {
+      "part_number": "EM-512",
+      "quantity": 39,
+      "unit": "EA",
+      "unit_price": 48.35,
+      "line_amount": 1887.6
+    },
+    {
+      "part_number": "DX-410",
+      "quantity": 29,
+      "unit": "EA",
+      "unit_price": 74.15,
+      "line_amount": 2150.35
+    },
+    {
+      "part_number": "JD-305",
+      "quantity": 32,
+      "unit": "EA",
+      "unit_price": 58.79,
+      "line_amount": 1870.53
+    }
+  ]
+}

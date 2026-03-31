@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-8282",
+  "po_date": "2025-01-15",
+  "currency": "USD",
+  "total_amount": 1565.94,
+  "items": [
+    {
+      "part_number": "GX-940",
+      "quantity": 10,
+      "unit": "boxes",
+      "unit_price": 32.54,
+      "line_amount": 325.4
+    },
+    {
+      "part_number": "Z1A",
+      "quantity": 59,
+      "unit": null,
+      "unit_price": null,
+      "line_amount": 1243.2
+    }
+  ]
+}

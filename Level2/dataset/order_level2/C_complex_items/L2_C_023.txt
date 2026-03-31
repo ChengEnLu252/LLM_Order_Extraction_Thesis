@@ -1,0 +1,17 @@
+PO Number: PO-2025-8322
+PO Date: 06/09/2024
+Currency: EUR
+Supplier: OrbitLine Distribution 軌域配銷有限公司
+
+Ordered Items:
+1) FT-725 / 11units / 87.09 / 957.99
+2) Part No: BK-220
+   Qty: 38 EA
+   Unit Price: 41.67
+   Amount: 1583.46
+3) Part: FT-512 | Qty: 23 boxes | Price: 24.37 | Amount: 560.51
+4) EV-830 / 40boxes / 65.18 / 2607.20
+5) HM-725 / 39 EA / 53.05 / 2068.95
+
+Grand Total: 7778.11
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

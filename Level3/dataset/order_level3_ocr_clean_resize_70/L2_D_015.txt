@@ -1,0 +1,29 @@
+Purchase Order
+Document ID: L2_D_015
+Category: D
+Purchase Order No.: PO-2025-7369
+Date:09/05/2024
+Billing Currency: JPY
+Supplier: AuroraLink Systems極光連結系統
+Buyer: LumenTrail Procurement 光徑採購
+Ship To: 18 North Avenue, West District
+Contact Person: Ivy Chen /陳怡君
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-AX-618
+Qty 3 pcs  Price 5.63 | Amount 16.89
+-IR-830
+Qty 27 units | Price 13.58 | Amount 366.66
+-DX-220
+Qty11 pcs | Price 74.62 | Amount 820.82
+-AX-830
+Qty11 units | Price 49.91 | Amount 549.01
+- CN-100 | Qty 4 EA | Price 25.78 | Amount 103.12
+Subtotal: 1856.50
+Tax:92.83
+Shipping Fee: 41.93
+Final Payable Amount: 1991.26
+Payment Terms:Paymentdue upon receipt（收貨後付款）
+Shipping Terms:FOB Origin(離岸交貨）
+Remark:Please confirm delivery schedule before shipment.出貨前請先確認交期。

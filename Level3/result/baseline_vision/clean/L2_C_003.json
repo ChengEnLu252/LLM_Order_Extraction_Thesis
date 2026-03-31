@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-3913",
+  "po_date": "2026-10-28",
+  "currency": "JPY",
+  "total_amount": 6005.84,
+  "items": [
+    {
+      "part_number": "GX-100",
+      "quantity": 20,
+      "unit": null,
+      "unit_price": 87,
+      "line_amount": 1740
+    },
+    {
+      "part_number": "CN-100",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 35.84,
+      "line_amount": 35.84
+    },
+    {
+      "part_number": "CN-512",
+      "quantity": 14,
+      "unit": "boxes",
+      "unit_price": 28.16,
+      "line_amount": 394.24
+    }
+  ]
+}

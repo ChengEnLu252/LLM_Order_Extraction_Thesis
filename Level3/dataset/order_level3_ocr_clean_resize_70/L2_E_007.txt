@@ -1,0 +1,21 @@
+Purchase Order
+Document ID: L2_E_007
+Category: E
+Supplier: BluePeak Industrial Supply藍峰工業供應
+Buyer: Stonepath Industrial石徑工業
+Please process the following materials based on our current procurement request.
+P.O.No.:PO-2026-3151
+The requested materials are summarized below in mixed item formats.
+1.Part: GX-830 |Qty:33 boxes  Price:45.65  Amount: 1506.45
+2.Qty 38 boxes of BK-725 at 60.83 each,total 2311.54
+3.Qty 13 pcs of GX-220 at 44.54 each, total 579.02
+Additional Information:
+IssuedOn:2026-01-05
+The agreed payment condition is Payment due upon receipt(收貨後付款)
+Delivery arrangement follows DAP Customer Site(目的地交货）.
+All prices are quoted in JPY.
+Subtotal:4397.01
+Discount:12.91
+Handling Fee: 10.77
+Final Amount: 4394.87
+Remark: Please include inspection report with shipment.出貨時請附檢驗報告。

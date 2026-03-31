@@ -1,0 +1,36 @@
+{
+  "po_number": "po-2024-5345",
+  "po_date": "2023-05-03",
+  "currency": "USD",
+  "total_amount": 4915.24,
+  "items": [
+    {
+      "part_number": "AX-725",
+      "quantity": 8,
+      "unit": "sets",
+      "unit_price": 72.6,
+      "line_amount": 580.8
+    },
+    {
+      "part_number": "Part: C2-830",
+      "quantity": 28,
+      "unit": "sets",
+      "unit_price": 96.97,
+      "line_amount": 2715.16
+    },
+    {
+      "part_number": "Part: BK-830",
+      "quantity": 24,
+      "unit": "Units",
+      "unit_price": 55.51,
+      "line_amount": 1332.24
+    },
+    {
+      "part_number": "BK-100",
+      "quantity": 16,
+      "unit": "boxes",
+      "unit_price": 17.94,
+      "line_amount": 287.04
+    }
+  ]
+}

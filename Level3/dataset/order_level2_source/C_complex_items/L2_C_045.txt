@@ -1,0 +1,18 @@
+PO Number: PO-2026-8311
+PO Date: 2025-08-14
+Currency: JPY
+Supplier: Vertex Axis Trading 維泰軸心貿易
+
+Ordered Items:
+1) Part No: EV-100
+   Qty: 14 sets
+   Unit Price: 2.35
+   Amount: 32.90
+2) Item IR-100, ordered quantity 33 units, unit price 85.83, total 2832.39
+3) Part No: JQ-830
+   Qty: 33 sets
+   Unit Price: 25.31
+   Amount: 835.23
+
+Grand Total: 3700.52
+Remark: All goods must match approved specifications. 所有貨品須符合核准規格。

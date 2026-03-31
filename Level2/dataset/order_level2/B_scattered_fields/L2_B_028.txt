@@ -1,0 +1,17 @@
+Supplier: Vertex Axis Trading 維泰軸心貿易
+Buyer: Skyforge Systems 天鑄系統
+
+Please arrange the following materials for our upcoming production schedule.
+This request should be recorded under reference number PO-2025-2391.
+
+Item List:
+1. GX-305, quantity 39 EA, unit price 57.65, amount 2248.35
+2. FT-725, quantity 20 boxes, unit price 27.58, amount 551.60
+
+This order was issued on 2024-07-14.
+The transaction currency for this order is JPY.
+Payment Terms: 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）
+Shipping Terms: EXW Warehouse（工廠交貨）
+
+Final payable amount: 2799.95
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

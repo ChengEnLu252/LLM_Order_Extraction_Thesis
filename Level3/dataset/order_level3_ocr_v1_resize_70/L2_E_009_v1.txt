@@ -1,0 +1,23 @@
+Purchase Order
+Document ID: L2_E_009
+Category: E
+Supplier:Vertex Axis Trading維泰軸心貿易
+Buyer: LumenTrail Procurement光徑採購
+Please review and process the following procurement request.
+PO Number:PO-2024-7470
+The requested materials are summarized below in mixed item formats.
+1.Qty 27 boxes of JQ-830 at 87.14 each, total 2352.78
+2. Qty  25 pcs of GX-512  at 69.68 each, total  1742.00
+3.Qty 10 pcs of DX-220 at 15.24 each, total 152.40
+4. DX-830 / ordered quantity 14EA / rate 86.18 / line total 1206.52
+5.Qty 17 pcs of IR-410 at 44.71 each, total 760.07
+Additional Information:
+PO Date: August 26, 2024
+Theagreedpayment conditionis 30%advance，70% beforeshipment(30%预付，70%出货前付清）.
+Delivery arrangement follows CIF Destination（成本保險加運费）.
+All prices are quoted in USD.
+Subtotal:6213.77
+Discount:7.49
+Handling Fee: 4.83
+Final Amount: 6211.11
+Remark:Partial shipment is not allowed unless approved.未經同意不得分批出貨。

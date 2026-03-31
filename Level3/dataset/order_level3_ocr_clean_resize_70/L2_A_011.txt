@@ -1,0 +1,35 @@
+Purchase Order
+Document ID: L2_A_011
+Category: A
+Supplier: AuroraLink Systems 極光連結系統
+Buyer: Skyforge Systems天鑄系統
+Order ID:PO-2026-3041
+Date Issued:07/09/2025
+Currency: JPY
+Item Code
+Quantity
+Measure
+Price/Unit
+Line Total
+IR-305
+27
+EA
+70.33
+1898.91
+GX-305
+28
+units
+67.16
+1880.48
+IR-100
+38
+boxes
+31.49
+1196.62
+JQ-618
+20
+sets
+22.60
+452.00
+Grand Total: 5428.01
+Remarks:All goods must match approved specifications.所有货品须符合核准规格。

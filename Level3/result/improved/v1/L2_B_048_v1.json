@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-3862",
+  "po_date": "2024-03-21",
+  "currency": "EUR",
+  "total_amount": 6995.95,
+  "items": [
+    {
+      "part_number": "AX-100",
+      "quantity": 9,
+      "unit": "EA",
+      "unit_price": 11.31,
+      "line_amount": 101.79
+    },
+    {
+      "part_number": "HM-512",
+      "quantity": 12,
+      "unit": "pcs",
+      "unit_price": 34.21,
+      "line_amount": 410.52
+    },
+    {
+      "part_number": "CN-220",
+      "quantity": 25,
+      "unit": "sets",
+      "unit_price": 81.87,
+      "line_amount": 2046.75
+    },
+    {
+      "part_number": "EV-725",
+      "quantity": 27,
+      "unit": "sets",
+      "unit_price": 96.31,
+      "line_amount": 2600.37
+    },
+    {
+      "part_number": "CN-220",
+      "quantity": 28,
+      "unit": "EA",
+      "unit_price": 65.59,
+      "line_amount": 1836.52
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-1533",
+  "po_date": "2026-10-26",
+  "currency": "JPY",
+  "total_amount": 3437,
+  "items": [
+    {
+      "part_number": "BM-618",
+      "quantity": 9,
+      "unit": "pcs",
+      "unit_price": 70.43,
+      "line_amount": 633.37
+    },
+    {
+      "part_number": "GX-620",
+      "quantity": 2,
+      "unit": "pcs",
+      "unit_price": 62.06,
+      "line_amount": 126.12
+    },
+    {
+      "part_number": "BM-618",
+      "quantity": 18,
+      "unit": "boxes",
+      "unit_price": 25.24,
+      "line_amount": 661.44
+    },
+    {
+      "part_number": "D-751",
+      "quantity": 13,
+      "unit": "boxes",
+      "unit_price": 50.88,
+      "line_amount": 661.44
+    }
+  ]
+}

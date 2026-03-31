@@ -1,0 +1,36 @@
+{
+  "po_number": "PO Number: PO-2025-2065",
+  "po_date": "2024-09-18",
+  "currency": "USD",
+  "total_amount": 3887.49,
+  "items": [
+    {
+      "part_number": "AX-940",
+      "quantity": 29,
+      "unit": null,
+      "unit_price": 8.45,
+      "line_amount": 245.05
+    },
+    {
+      "part_number": "CX-220",
+      "quantity": 20,
+      "unit": null,
+      "unit_price": 85.29,
+      "line_amount": 1705.8
+    },
+    {
+      "part_number": "JX-100",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 24.84,
+      "line_amount": 695.52
+    },
+    {
+      "part_number": "CX-220",
+      "quantity": 26,
+      "unit": "boxes",
+      "unit_price": 47.49,
+      "line_amount": 1234.74
+    }
+  ]
+}

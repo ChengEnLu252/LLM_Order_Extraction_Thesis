@@ -1,0 +1,21 @@
+PO Number: PO-2024-3429
+PO Date: 04/22/2024
+Currency: JPY
+Supplier: Ironcrest Materials 鐵冠材料有限公司
+
+Ordered Items:
+1) Part No: JQ-512
+   Qty: 4 boxes
+   Unit Price: 67.37
+   Amount: 269.48
+2) Part No: GX-305
+   Qty: 7 EA
+   Unit Price: 6.81
+   Amount: 47.67
+3) Part No: JQ-940
+   Qty: 20 EA
+   Unit Price: 61.89
+   Amount: 1237.80
+
+Grand Total: 1554.95
+Remark: All goods must match approved specifications. 所有貨品須符合核准規格。

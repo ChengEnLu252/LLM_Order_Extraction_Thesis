@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-4996",
+  "po_date": "2022-11-22",
+  "currency": "USD",
+  "total_amount": 2860.76,
+  "items": [
+    {
+      "part_number": "H-410",
+      "quantity": 37,
+      "unit": "sets",
+      "unit_price": 43.78,
+      "line_amount": 1619.86
+    },
+    {
+      "part_number": "K-725",
+      "quantity": 13,
+      "unit": "pcs",
+      "unit_price": 20.7,
+      "line_amount": 263.51
+    },
+    {
+      "part_number": "K-725",
+      "quantity": 1,
+      "unit": "pcs",
+      "unit_price": 46.6,
+      "line_amount": 46.84
+    },
+    {
+      "part_number": "BK-220",
+      "quantity": 15,
+      "unit": "units",
+      "unit_price": 22.17,
+      "line_amount": 332.55
+    }
+  ]
+}

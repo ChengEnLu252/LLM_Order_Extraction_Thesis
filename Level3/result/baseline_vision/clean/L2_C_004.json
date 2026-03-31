@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-7371",
+  "po_date": "2025-01-05",
+  "currency": "JPY",
+  "total_amount": 4548.48,
+  "items": [
+    {
+      "part_number": "PT-940",
+      "quantity": 26,
+      "unit": "pcs",
+      "unit_price": 42.82,
+      "line_amount": 1113.32
+    },
+    {
+      "part_number": "DX-830",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 74.88,
+      "line_amount": 149.76
+    },
+    {
+      "part_number": "Item-TR-410",
+      "quantity": 25,
+      "unit": "EA",
+      "unit_price": 76.0,
+      "line_amount": 1900.0
+    },
+    {
+      "part_number": "AX-205",
+      "quantity": 20,
+      "unit": "EA",
+      "unit_price": 45.98,
+      "line_amount": 919.6
+    },
+    {
+      "part_number": "AX-725",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 13.7,
+      "line_amount": 465.8
+    }
+  ]
+}

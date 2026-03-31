@@ -1,0 +1,21 @@
+Purchase Order
+Document ID: L2_E_049
+Category: E
+Supplier:CedarStoneImports雪松石進出口
+Buyer: LumenTrail Procurement光徑採購
+Please process the following materials based on our current procurement request.
+P.O.No.:PO-2025-3370
+The requested items are listed below.
+1.Qty  40 boxes of AX-618 at 29.77 each, total 1190.80
+2.Qty 34 units of BK-512 at 99.05 each, total 3367.70
+3.Part:DX-830 |Qty:32boxes |Price:63.85 | Amount:2043.20
+Additional Information:
+Order Date:30/08/2025
+PaymentTerms:Net30days（30天付款）
+Shipping Terms:EXw Warehouse（工廠交貨）
+All prices are quoted in UsD.
+Subtotal:6601.70
+Discount: 15.51
+Handling Fee: 3.63
+Final Amount: 6589.82
+Remark:All goods must matchapproved specifications.所有货品须符合核准规格。

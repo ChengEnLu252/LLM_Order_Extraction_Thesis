@@ -1,0 +1,19 @@
+
+Subject: PO-2026-0012
+
+Hi,
+
+Please process this order.
+
+Buyer: 鼎新材料股份有限公司
+Supplier: 華宇半導體
+Date: August 18, 2024
+
+Items:
+1. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 438 個 單價: 63.51 小計: 27817.38
+2. 固態硬碟 1TB (SSD-1TB-X) 數量: 730 顆 單價: 87.24 小計: 63685.2
+3. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 413 個 單價: 172.24 小計: 71135.12
+4. 電源管理IC (PMIC-A88) 數量: 659 條 單價: 106.69 小計: 70308.71
+
+
+Total Amount: 232946.41 TWD

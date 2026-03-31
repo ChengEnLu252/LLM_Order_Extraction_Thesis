@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Purchase Order Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="page">
+        <div class="header">
+            <h1>Purchase Order</h1>
+            <p><strong>Document ID:</strong> {{ doc_id }}</p>
+            <p><strong>Category:</strong> {{ category }}</p>
+        </div>
+
+        <div class="content-block">
+            <pre>{{ raw_text }}</pre>
+        </div>
+    </div>
+</body>
+</html>

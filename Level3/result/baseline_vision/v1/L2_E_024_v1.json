@@ -1,0 +1,22 @@
+{
+  "po_number": "FO-2024-1378",
+  "po_date": "2026-12-27",
+  "currency": "JPY",
+  "total_amount": 2678.9,
+  "items": [
+    {
+      "part_number": "AX-618",
+      "quantity": 29,
+      "unit": "sets",
+      "unit_price": 64.81,
+      "line_amount": 1879.49
+    },
+    {
+      "part_number": "IR-830",
+      "quantity": 28,
+      "unit": "sets",
+      "unit_price": 28.86,
+      "line_amount": 808.08
+    }
+  ]
+}

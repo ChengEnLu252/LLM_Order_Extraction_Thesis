@@ -1,0 +1,16 @@
+Purchase Order
+Document ID: L2_C_037
+Category: C
+PONumber:PO-2026-2405
+PODate: August 18, 2024
+Currency: JPY
+Supplier: Northstar Components Ltd.北辰元件有限公司
+Ordered Items:
+1)BK-512 / 20 sets / 3.35 / 67.00
+2)Part No: DX-940
+Qty:32 EA
+Unit Price:4.23
+Amount:135.36
+3) EV-940 /  15 sets / 55.55 / 833.25
+Grand Total: 1035.61
+Remark: Please include inspection report with shipment.出貨時請附檢驗報告。

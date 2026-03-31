@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment variables / secrets
+.env
+
+# Temporary files
+tmp/
+temp/
+
+# Large generated artifacts you may not want to track
+# Uncomment if needed
+# dataset/order_level3_ocr_clean_resize_70/
+# dataset/order_level3_ocr_v1_resize_70/
+# dataset/order_level3_images_clean_resize_70/
+# dataset/order_level3_images_v1_resize_70/
+
+# API keys / local config
+config.local.*
+secrets.*

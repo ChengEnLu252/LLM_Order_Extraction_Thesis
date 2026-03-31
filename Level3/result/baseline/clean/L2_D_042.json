@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-7189",
+  "po_date": "2025-12-23",
+  "currency": "EUR",
+  "total_amount": 544.26,
+  "items": [
+    {
+      "part_number": "FT-618",
+      "quantity": 39,
+      "unit": "units",
+      "unit_price": 6.42,
+      "line_amount": 250.38
+    },
+    {
+      "part_number": "FT-725",
+      "quantity": 3,
+      "unit": "pcs",
+      "unit_price": 76.99,
+      "line_amount": 230.97
+    }
+  ]
+}

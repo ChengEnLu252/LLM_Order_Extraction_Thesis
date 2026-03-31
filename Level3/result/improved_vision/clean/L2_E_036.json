@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-5081",
+  "po_date": "2025-01-02",
+  "currency": "JPY",
+  "total_amount": 7012.29,
+  "items": [
+    {
+      "part_number": "BK-725",
+      "quantity": 1,
+      "unit": "sets",
+      "unit_price": 70.46,
+      "line_amount": 915.98
+    },
+    {
+      "part_number": "CK-512",
+      "quantity": 17,
+      "unit": "units",
+      "unit_price": 88.78,
+      "line_amount": 1509.26
+    },
+    {
+      "part_number": "BK-410",
+      "quantity": 1,
+      "unit": "unit",
+      "unit_price": 67.33,
+      "line_amount": 1346.6
+    },
+    {
+      "part_number": "TR-220",
+      "quantity": 4,
+      "unit": "boxes",
+      "unit_price": 99.25,
+      "line_amount": 397.0
+    },
+    {
+      "part_number": "IK-618",
+      "quantity": 6,
+      "unit": "sets",
+      "unit_price": 76.03,
+      "line_amount": 456.18
+    }
+  ]
+}

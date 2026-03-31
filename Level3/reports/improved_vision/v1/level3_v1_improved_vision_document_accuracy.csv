@@ -1,0 +1,7 @@
+﻿scope,total,correct,accuracy
+overall,250,2,0.008
+A,50,1,0.02
+B,50,1,0.02
+C,50,0,0.0
+D,50,0,0.0
+E,50,0,0.0

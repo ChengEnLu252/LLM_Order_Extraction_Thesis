@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-2891",
+  "po_date": "2024-07-08",
+  "currency": "JPY",
+  "total_amount": 3937.08,
+  "items": [
+    {
+      "part_number": "FM-210",
+      "quantity": 20,
+      "unit": "boxes",
+      "unit_price": 61.27,
+      "line_amount": 1225.4
+    },
+    {
+      "part_number": "AK-200",
+      "quantity": 34,
+      "unit": "sets",
+      "unit_price": 49.68,
+      "line_amount": 1695.92
+    },
+    {
+      "part_number": "TR-305",
+      "quantity": 19,
+      "unit": "boxes",
+      "unit_price": 6.32,
+      "line_amount": 120.08
+    },
+    {
+      "part_number": "TR-725",
+      "quantity": 12,
+      "unit": "units",
+      "unit_price": 74.64,
+      "line_amount": 895.68
+    }
+  ]
+}

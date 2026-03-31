@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-7385",
+  "po_date": "2026-02-13",
+  "currency": "USD",
+  "total_amount": 4964,
+  "items": [
+    {
+      "part_number": "Item JO-512",
+      "quantity": 17,
+      "unit": "boxes",
+      "unit_price": 52.63,
+      "line_amount": 894.71
+    },
+    {
+      "part_number": "GK-410",
+      "quantity": 36,
+      "unit": "pcs",
+      "unit_price": 81.36,
+      "line_amount": 2925.36
+    },
+    {
+      "part_number": "BK-630",
+      "quantity": 3,
+      "unit": "units",
+      "unit_price": 15.39,
+      "line_amount": 46.17
+    },
+    {
+      "part_number": "JU-830",
+      "quantity": 30,
+      "unit": "EA",
+      "unit_price": 28.67,
+      "line_amount": 860.1
+    },
+    {
+      "part_number": "AX-940",
+      "quantity": 22,
+      "unit": "pcs",
+      "unit_price": 3.9,
+      "line_amount": 85.8
+    }
+  ]
+}

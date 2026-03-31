@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-2060",
+  "po_date": "2026-01-14",
+  "currency": "USD",
+  "total_amount": "9401.16",
+  "items": [
+    {
+      "part_number": "GX-830",
+      "quantity": 9,
+      "unit": "boxes",
+      "unit_price": "24.82",
+      "line_amount": "223.38"
+    },
+    {
+      "part_number": "GX-618",
+      "quantity": 39,
+      "unit": "sets",
+      "unit_price": "60.18",
+      "line_amount": "2347.02"
+    },
+    {
+      "part_number": "HM-940",
+      "quantity": 40,
+      "unit": "boxes",
+      "unit_price": "95.11",
+      "line_amount": "3804.40"
+    },
+    {
+      "part_number": "BK-220",
+      "quantity": 11,
+      "unit": "boxes",
+      "unit_price": "77.26",
+      "line_amount": "849.86"
+    },
+    {
+      "part_number": "CN-100",
+      "quantity": 33,
+      "unit": "pcs",
+      "unit_price": "50.73",
+      "line_amount": "1674.09"
+    }
+  ]
+}

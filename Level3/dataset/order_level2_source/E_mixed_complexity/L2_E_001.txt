@@ -1,0 +1,25 @@
+Supplier: Vertex Axis Trading 維泰軸心貿易
+Buyer: PolarEdge Manufacturing 極鋒製造
+
+Kindly proceed with the following mixed-format order details.
+P.O. No.: PO-2025-6233
+
+The requested items are listed below.
+
+1. Product Code: EV-410
+   Units Ordered: 39 pcs
+   Item Price: 83.02
+   Amount: 3237.78
+2. GX-725 / ordered quantity 28units / rate 38.02 / line total 1064.56
+3. Part: AX-940 | Qty: 16 units | Price: 4.03 | Amount: 64.48
+
+Additional Information:
+PO Date: 13/07/2026
+Payment Terms: Net 30 days（30天付款）
+Shipping Terms: DAP Customer Site（目的地交貨）
+All prices are quoted in EUR.
+Subtotal: 4366.82
+Discount: 11.02
+Handling Fee: 8.15
+Final Amount: 4363.95
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

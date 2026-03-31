@@ -1,0 +1,18 @@
+Purchase Order
+Document ID: L2_C_050
+Category: C
+PONumber:PO-2024-5448
+PO Date:April 27, 2026
+Currency: USD
+Supplier:CedarStoneImports雪松石進出口
+Ordered Items:
+1)Item EV-410,ordered quantity 30 units, unit price 83.29,total 2498.70
+2)Part No:FT-100
+Qty:21 EA
+Unit Price:19.15
+Amount:402.15
+3)Qty 7 units of AX-830 at 45.49 each, total 318.43
+4) HM-940 / 11boxes / 20.64 / 227.04
+GrandTotal:3446.32
+Remark: Partialshipment is not allowed unless approved.未經同意不得分批出貨。
+l

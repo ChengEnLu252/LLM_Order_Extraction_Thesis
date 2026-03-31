@@ -1,0 +1,22 @@
+Purchase Order
+Document ID: L2_D_028
+Category: D
+Purchase Order No.:PO-2024-8243
+Date:24/11/2025
+Billing Currency: JPY
+Supplier: BluePeak Industrial Supply 藍峰工業供應
+Buyer: LumenTrail Procurement光徑採購
+Ship To: 18 North Avenue, West District
+Contact Person: Ivy Chen/陈怡君
+Telephone:+1-555-0179
+Email: orders@procurement-mail.test
+Items:
+-BK-512| Qty 10 pcs  Price 68.44 | Amount 684.40
+-DX-830 Qty 27 boxes  Price 62.52  Amount 1688.04
+Subtotal:2372.44
+Tax:118.62
+Shipping Fee: 52.57
+Final Payable Amount: 2543.63
+PaymentTerms:Paymentdueuponreceipt（收货後付款）
+Shipping Terms:FOBOrigin（離岸交貨）
+Remark: Please confirm delivery schedule before shipment.出貨前請先確認交期。

@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-734",
+  "po_date": "2024-07-01",
+  "currency": "USD",
+  "total_amount": 919.59,
+  "items": [
+    {
+      "part_number": "AX-512",
+      "quantity": 75,
+      "unit": "EA",
+      "unit_price": 81,
+      "line_amount": 6090
+    },
+    {
+      "part_number": "AX-220",
+      "quantity": 12,
+      "unit": "EA",
+      "unit_price": 82,
+      "line_amount": 984
+    },
+    {
+      "part_number": "L2-723",
+      "quantity": 20,
+      "unit": "EA",
+      "unit_price": 82,
+      "line_amount": 1640
+    }
+  ]
+}

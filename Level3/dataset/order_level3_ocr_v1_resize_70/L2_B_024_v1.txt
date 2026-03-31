@@ -1,0 +1,16 @@
+Purchase Order
+Document ID: L2_B_024
+Category: B
+Please prepare the materials listed below for the next production batch.
+Supplier information:Vertex Axis Trading維泰軸心貿易
+This request should be recorded under reference number Po-2025-7895.
+Requested by:LumenTrail Procurement光徑採購
+Ordered Materials:
+1.AX-512,quantity 3 EA, unit price 59.56, amount 178.68
+2.Part GX-940 / Qty 4 boxes / Unit Price 92.41 / Amount 369.64
+Payment Terms:30%advance，70% before shipment(30预付，70%出货前付清)
+The issuance date for this order is January 18,2026.
+Shipping arrangement follows DAP Customer Site(目的地交貨).
+All prices are stated in JPy.
+Amount due upon confirmation: 548.32
+Additional note: Please include inspection report with shipment.出貨時請附檢驗報告。

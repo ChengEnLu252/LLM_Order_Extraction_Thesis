@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-6062",
+  "po_date": "2022-12-08",
+  "currency": "USD",
+  "total_amount": 4737.84,
+  "items": [
+    {
+      "part_number": "IR-220",
+      "quantity": 22,
+      "unit": "Lb",
+      "unit_price": 8.65,
+      "line_amount": 190.3
+    },
+    {
+      "part_number": "CN-100",
+      "quantity": 22,
+      "unit": "boxes",
+      "unit_price": 84.27,
+      "line_amount": 1853.94
+    },
+    {
+      "part_number": "L-830",
+      "quantity": 20,
+      "unit": "boxes",
+      "unit_price": 96.2,
+      "line_amount": 1924.0
+    }
+  ]
+}

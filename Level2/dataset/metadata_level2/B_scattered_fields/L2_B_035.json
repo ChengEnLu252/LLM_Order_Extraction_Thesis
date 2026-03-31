@@ -1,0 +1,15 @@
+{
+  "doc_id": "L2_B_035",
+  "level": "level2",
+  "category": "B",
+  "category_name": "scattered_fields",
+  "difficulty": "hard",
+  "complexity_type": [
+    "scattered_fields"
+  ],
+  "item_count": 4,
+  "currency": "USD",
+  "language_style": "bilingual",
+  "target_total_source": "direct_total",
+  "generator_version": "v1"
+}

@@ -1,0 +1,28 @@
+Purchase Order
+Document ID: L2_E_038
+Category: E
+Supplier:Northstar Components Ltd.北辰元件有限公司
+Buyer： Summit Valley Electronics峰谷電子
+Kindly proceed with the following mixed-format order details.
+P.O.No.:PO-2024-2497
+The requested materials are summarized below in mixed item formats.
+1.Product Code:BK-410
+Units Ordered: 14 pcs
+Item Price: 68.64
+Amount:960.96
+2.Qty 12 units of AX-725 at 72.95 each, total 875.40
+3.ProductCode：FT-940
+Units Ordered:8EA
+Item Price: 81.93
+Amount:655.44
+4.GX-725 / ordered quantity 15pcs / rate 93.56 / line total 1403.40
+Additional Information:
+PO Date:02/02/2024
+The agreed payment condition is Net 45 days(45天付款）.
+Delivery arrangement follows FoB Origin（離岸交货）.
+All prices are quoted in EUR.
+Subtotal:3895.20
+Discount:11.03
+Handling Fee: 6.79
+Final Amount:3890.96
+Remark:Packaging must comply with export standards.包装需符合出口標準。

@@ -1,0 +1,19 @@
+Purchase Order
+Document ID: L2_B_038
+Category: B
+Please arrange the following materials for our upcoming production schedule.
+Supplier information: AuroraLink Systems極光連结系統
+For tracking purposes, please use order reference Po-2026-8779.
+Requested by:Allied Nexus Purchasing聯合採購中心
+Ordered Materials:
+1. Part IR-305 / Qty 4 pcs / Unit Price 51.21 / Amount 204.84
+2.Part CN-410 / Qty 30 EA / Unit Price 18.94 / Amount 568.20
+3.Part:BK-725 |Qty:10 EA Price:6.18 Amount: 61.80
+4. Part EV-618 / Qty 11 pcs / Unit Price 83.74 / Amount 921.14
+5. Gx-940, quantity 7 boxes, unit price 40.03, amount 280.21
+PaymentTerms：30%advance，70%beforeshipment（30预付，70出货前付清）
+Please note that the order date is April 27, 2025.
+Shipping arrangement follows FoB Origin(離岸交貨）.
+Please process all item prices in EUR.
+Settlement total:2036.19
+Additional note: Partial shipment is not allowed unless approved.未经同意不得分批出货。

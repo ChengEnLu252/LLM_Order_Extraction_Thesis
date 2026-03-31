@@ -1,0 +1,17 @@
+
+Subject: PO-2026-0010
+
+Hi,
+
+Please process this order.
+
+Buyer: 鼎新材料股份有限公司
+Supplier: 華宇半導體
+Date: March 04, 2024
+
+Items:
+1. 電源管理IC (PMIC-A88) 數量: 179 PCS 單價: 155.64 小計: 27859.56
+2. Type-C 連接器 24Pin (TC-24P-001) 數量: 889 條 單價: 44.32 小計: 39400.48
+
+
+Total Amount: 67260.04 TWD

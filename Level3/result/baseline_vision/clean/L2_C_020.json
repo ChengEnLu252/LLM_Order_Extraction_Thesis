@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-4965",
+  "po_date": "2025-06-27",
+  "currency": "USD",
+  "total_amount": 4036.99,
+  "items": [
+    {
+      "part_number": "IR-100",
+      "quantity": 33,
+      "unit": "sets",
+      "unit_price": 62.16,
+      "line_amount": 2051.28
+    },
+    {
+      "part_number": "M-517",
+      "quantity": 25,
+      "unit": "EA",
+      "unit_price": 62.83,
+      "line_amount": 1570.75
+    }
+  ]
+}

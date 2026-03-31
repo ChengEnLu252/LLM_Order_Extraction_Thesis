@@ -1,0 +1,18 @@
+
+Subject: PO-2026-0043
+
+Hi,
+
+Please process this order.
+
+Buyer: 宏達電子有限公司
+Supplier: 鼎新材料股份有限公司
+Date: February 02, 2024
+
+Items:
+1. Type-C 連接器 24Pin (TC-24P-001) 數量: 647 條 單價: 109.36 小計: 70755.92
+2. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 607 顆 單價: 150.14 小計: 91134.98
+3. 電源管理IC (PMIC-A88) 數量: 466 顆 單價: 80.38 小計: 37457.08
+
+
+Total Amount: 199347.98 TWD

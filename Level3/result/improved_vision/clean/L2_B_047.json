@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-2654",
+  "po_date": "2022-12-01",
+  "currency": "EUR",
+  "total_amount": 4130.59,
+  "items": [
+    {
+      "part_number": "Part-30-2020",
+      "quantity": 8,
+      "unit": "boxes",
+      "unit_price": 52.14,
+      "line_amount": 417.12
+    },
+    {
+      "part_number": "RM-410",
+      "quantity": 9,
+      "unit": "units",
+      "unit_price": 78.91,
+      "line_amount": 710.19
+    },
+    {
+      "part_number": "BK-410",
+      "quantity": 14,
+      "unit": "boxes",
+      "unit_price": 78.24,
+      "line_amount": 1095.36
+    },
+    {
+      "part_number": "AX-400",
+      "quantity": 28,
+      "unit": "sets",
+      "unit_price": 30.94,
+      "line_amount": 866.32
+    },
+    {
+      "part_number": "HM-610",
+      "quantity": 15,
+      "unit": "EA",
+      "unit_price": 69.44,
+      "line_amount": 1041.6
+    }
+  ]
+}

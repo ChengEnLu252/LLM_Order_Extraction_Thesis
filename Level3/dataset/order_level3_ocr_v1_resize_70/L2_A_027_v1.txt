@@ -1,0 +1,34 @@
+Purchase Order
+Document ID: L2_A_027
+Category: A
+Supplier：NorthstarComponentsLtd.北辰元件有限公司
+Buyer：Summit Valley Electronics峰谷電子
+PO Number:PO-2025-7689
+Date Issued:26 Aug 2024
+Settlement Currency: USD
+Part No.
+Units Ordered Measure
+Price/Unit
+Amount
+DX-940
+33
+EA
+13.38
+441.54
+IR-725
+26
+units
+46.46
+1207.96
+BK-830
+11
+units
+88.77
+976.47
+EV-100
+28
+boxes
+94.03
+2632.84
+Total Amount：5258.81
+Remarks: Packaging must comply with export standards.包装需符合出口標準。

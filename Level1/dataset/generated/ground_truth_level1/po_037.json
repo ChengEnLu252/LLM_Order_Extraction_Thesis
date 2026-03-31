@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-0037",
+  "po_date": "2024-10-17",
+  "currency": "USD",
+  "total_amount": 92186.72,
+  "items": [
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 917,
+      "unit": "PCS",
+      "unit_price": 70.28,
+      "line_amount": 64446.76
+    },
+    {
+      "part_number": "SSD-1TB-X",
+      "quantity": 412,
+      "unit": "個",
+      "unit_price": 67.33,
+      "line_amount": 27739.96
+    }
+  ]
+}

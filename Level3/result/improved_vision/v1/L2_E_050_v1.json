@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-7427",
+  "po_date": "2025-12-21",
+  "currency": "EUR",
+  "total_amount": 3096.51,
+  "items": [
+    {
+      "part_number": "IV-512",
+      "quantity": 27,
+      "unit": "EA",
+      "unit_price": 9.04,
+      "line_amount": 244.08
+    },
+    {
+      "part_number": "CN-616",
+      "quantity": 3,
+      "unit": "units",
+      "unit_price": 40.59,
+      "line_amount": 1501.83
+    },
+    {
+      "part_number": "IV-530",
+      "quantity": 5,
+      "unit": "EA",
+      "unit_price": 85.28,
+      "line_amount": 426.4
+    },
+    {
+      "part_number": "IV-512",
+      "quantity": 3,
+      "unit": "EA",
+      "unit_price": 15.48,
+      "line_amount": 46.44
+    }
+  ]
+}

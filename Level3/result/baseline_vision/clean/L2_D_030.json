@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-6047",
+  "po_date": "2026-01-07",
+  "currency": "JPY",
+  "total_amount": 7369.75,
+  "items": [
+    {
+      "part_number": "JV-305",
+      "quantity": 28,
+      "unit": "sets",
+      "unit_price": 80.76,
+      "line_amount": 2261.28
+    },
+    {
+      "part_number": "JX-020",
+      "quantity": 28,
+      "unit": "EA",
+      "unit_price": 15.68,
+      "line_amount": 439.04
+    },
+    {
+      "part_number": "IR-618",
+      "quantity": 15,
+      "unit": "pcs",
+      "unit_price": 31.72,
+      "line_amount": 475.8
+    },
+    {
+      "part_number": "BK-100",
+      "quantity": 39,
+      "unit": "sets",
+      "unit_price": 76.1,
+      "line_amount": 2967.9
+    },
+    {
+      "part_number": "IR-830",
+      "quantity": 31,
+      "unit": "units",
+      "unit_price": 26.47,
+      "line_amount": 809.78
+    }
+  ]
+}

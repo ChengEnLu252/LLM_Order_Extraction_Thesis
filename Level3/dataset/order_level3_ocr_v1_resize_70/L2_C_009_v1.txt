@@ -1,0 +1,17 @@
+Purchase Order
+Document ID: L2_C_009
+Category: C
+PO Number:PO-2024-3971
+PODate:21/04/2024
+Currency:JPY
+Supplier:CedarStoneImports雪松石進出口
+Ordered Items:
+1) DX-830 / 6boxes / 26.57 / 159.42
+2)Qty 24 boxes of DX-220 at 14.57 each, total 349.68
+3) Item FT-830,ordered quantity 6 sets,unit price 90.21, total 541.26
+4)Part No:EV-305
+Qty:23 units
+Unit Price:62.40
+Amount:1435.20
+Grand Total:2485.56
+Remark:Please include inspection report with shipment.出貨時请附檢驗報告。

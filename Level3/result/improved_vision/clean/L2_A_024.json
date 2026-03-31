@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-7141",
+  "po_date": "2026-06-01",
+  "currency": "USD",
+  "total_amount": 3092.82,
+  "items": [
+    {
+      "part_number": "JQ-725",
+      "quantity": 12,
+      "unit": "units",
+      "unit_price": 19.16,
+      "line_amount": 229.92
+    },
+    {
+      "part_number": "JQ-305",
+      "quantity": 17,
+      "unit": "EA",
+      "unit_price": 50.79,
+      "line_amount": 863.09
+    },
+    {
+      "part_number": "HM-312",
+      "quantity": 31,
+      "unit": "pcs",
+      "unit_price": 64.51,
+      "line_amount": 1999.81
+    }
+  ]
+}

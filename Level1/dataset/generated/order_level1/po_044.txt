@@ -1,0 +1,18 @@
+
+Subject: PO-2026-0044
+
+Hi,
+
+Please process this order.
+
+Buyer: 華宇半導體
+Supplier: 鼎新材料股份有限公司
+Date: April 28, 2025
+
+Items:
+1. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 259 顆 單價: 148.31 小計: 38412.29
+2. 電源管理IC (PMIC-A88) 數量: 42 個 單價: 170.57 小計: 7163.94
+3. 電源管理IC (PMIC-A88) 數量: 720 顆 單價: 23.62 小計: 17006.4
+
+
+Total Amount: 62582.63 USD

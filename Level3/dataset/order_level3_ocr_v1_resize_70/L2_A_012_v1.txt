@@ -1,0 +1,40 @@
+Purchase Order
+Document ID: L2_A_012
+Category: A
+Supplier：OrbitLine Distribution軌域配銷有限公司
+Buyer：AlliedNexusPurchasing聯合採購中心
+OrderRef:PO-2024-1757
+Issued On: 16 May 2025
+Settlement Currency: EUR
+Item Code
+Order Qty
+Unit Type
+Price/Unit
+Extended Price
+JQ-410
+28
+sets
+88.84
+2487.52
+CN-100
+33
+pcs
+41.17
+1358.61
+IR-830
+29
+pcs
+23.45
+680.05
+BK-830
+37
+EA
+26.42
+977.54
+IR-618
+31
+sets
+67.42
+2090.02
+Grand Total:7593.74
+Remarks:Please include inspection report with shipment.出貨時请附檢驗報告。

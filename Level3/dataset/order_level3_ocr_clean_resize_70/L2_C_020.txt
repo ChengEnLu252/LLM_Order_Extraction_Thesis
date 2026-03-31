@@ -1,0 +1,16 @@
+Purchase Order
+Document ID: L2_C_020
+Category: C
+PONumber:PO-2026-4965
+PO Date: June 27,2025
+Currency: USD
+Supplier: Silver Oak Procurement 銀橡採購股份有限公司
+Ordered Items:
+1)BK-220 /  24pcs /  17.29 / 414.96
+2) Item IR-100,ordered quantity 33 sets, unit price 62.16, total 2051.28
+3) Part No: HM-512
+Qty: 25 sets
+Unit Price: 62.83
+Amount:1570.75
+Grand Total: 4036.99
+Remark: Packaging must comply with export standards.包装需符合出口標準。

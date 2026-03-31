@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-2426",
+  "po_date": "2025-11-13",
+  "currency": "EUR",
+  "total_amount": "2938.33",
+  "items": [
+    {
+      "part_number": "EV-410",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": "58.60",
+      "line_amount": "175.80"
+    },
+    {
+      "part_number": "EV-940",
+      "quantity": 14,
+      "unit": "boxes",
+      "unit_price": "20.87",
+      "line_amount": "292.18"
+    },
+    {
+      "part_number": "EV-305",
+      "quantity": 30,
+      "unit": "EA",
+      "unit_price": "67.77",
+      "line_amount": "2033.10"
+    },
+    {
+      "part_number": "JQ-940",
+      "quantity": 19,
+      "unit": "units",
+      "unit_price": "13.22",
+      "line_amount": "251.18"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-8575",
+  "po_date": "2025-03-23",
+  "currency": "JPY",
+  "total_amount": 2328.98,
+  "items": [
+    {
+      "part_number": "Part JQ-220",
+      "quantity": 29,
+      "unit": "pcs",
+      "unit_price": 75.09,
+      "line_amount": 150.18
+    },
+    {
+      "part_number": "Part BK-900",
+      "quantity": 29,
+      "unit": "pcs",
+      "unit_price": 35.76,
+      "line_amount": 1037.04
+    },
+    {
+      "part_number": "Part HM-100",
+      "quantity": 6,
+      "unit": "units",
+      "unit_price": 19.64,
+      "line_amount": 591.84
+    },
+    {
+      "part_number": "Part CN-725",
+      "quantity": 28,
+      "unit": "boxes",
+      "unit_price": 19.64,
+      "line_amount": 549.92
+    }
+  ]
+}

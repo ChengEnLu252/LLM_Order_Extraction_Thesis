@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-6253",
+  "po_date": "2025-04-30",
+  "currency": "EUR",
+  "total_amount": 5048.78,
+  "items": [
+    {
+      "part_number": "IR-305",
+      "quantity": 21,
+      "unit": "sets",
+      "unit_price": 28.97,
+      "line_amount": 608.37
+    },
+    {
+      "part_number": "FT-725",
+      "quantity": 37,
+      "unit": "units",
+      "unit_price": 50.57,
+      "line_amount": 1871.09
+    },
+    {
+      "part_number": "GX-305",
+      "quantity": 22,
+      "unit": "boxes",
+      "unit_price": 70.24,
+      "line_amount": 1545.28
+    },
+    {
+      "part_number": "IR-830",
+      "quantity": 26,
+      "unit": "EA",
+      "unit_price": 20.02,
+      "line_amount": 520.52
+    },
+    {
+      "part_number": "CN-830",
+      "quantity": 16,
+      "unit": "pcs",
+      "unit_price": 31.47,
+      "line_amount": 503.52
+    }
+  ]
+}

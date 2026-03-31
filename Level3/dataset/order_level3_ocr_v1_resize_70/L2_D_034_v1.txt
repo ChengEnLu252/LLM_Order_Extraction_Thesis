@@ -1,0 +1,28 @@
+Purchase Order
+Document ID: L2_D_034
+Category: D
+Purchase Order No.:PO-2025-6940
+Date:2024-10-11
+Billing Currency: EUR
+Supplier:OrbitLine Distribution軌域配銷有限公司
+Buyer： Stonepath Industrial石徑工業
+Ship To: 18 North Avenue, West District
+Contact Person:Melissa Turner/王美玲
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-BK-410
+Qty 21 EA
+|Price 4.82| Amount 101.22
+-EV-305
+Qty 11 EA
+A|Price 69.43|Amount 763.73
+-GX-220
+0|Qty10 pcs|Price 98.15 | Amount 981.50
+Subtotal:1846.45
+Tax:92.32
+Shipping Fee:12.98
+Final Payable Amount: 1951.75
+PaymentTerms:30%advance，70%beforeshipment（30预付，70出货前付清）
+Shipping Terms:DAP Customer Site（目的地交货）
+Remark: Please confirm delivery schedule before shipment.出貨前請先確認交期。

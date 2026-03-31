@@ -1,0 +1,17 @@
+Purchase Order
+Document ID:L2_B_012
+Category: B
+Supplier:NovaCircuit Solutions新曜電路方案
+Buyer:BrightCoreAssemblies亮核组装
+Please arrange the following materials for our upcoming production schedule.
+For tracking purposes, please use order reference Po-2026-9537.
+Item List:
+1.HM-305,quantity 19 pcs, unit price 31.51, amount 598.69
+2.GX-512,quantity 12 sets,unit price 44.60,amount 535.20
+3.Part:DX-830Qty:6unitsPrice:37.39 Amount:224.34
+The issuance date for this order is December 13, 2024.
+The transaction currency for this order is JPy.
+PaymentTerms：Net45days（45天付款）
+ShippingTerms:DAPCustomerSite（目的地交货）
+Total amount for this order: 1358.23
+Remark:Please include inspectionreport with shipment.出貨時請附檢驗報告。

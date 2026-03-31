@@ -1,0 +1,17 @@
+Purchase Order
+Document ID: L2_B_009
+Category: B
+Supplier: NovaCircuit Solutions 新曜電路方案
+Buyer： LumenTrail Procurement光徑採購
+Kindly process the following order items for our current purchasing request.
+The official reference for this order is PO-2025-7502.
+ItemList:
+1.Part BK-100 / Qty 16 pcs / Unit Price 31.40 / Amount 502.40
+2.Part IR-830 / Qty 27 pcs / Unit Price 39.17 / Amount 1057.59
+3. BK-830, quantity 2 sets, unit price 70.88,amount 141.76
+Please note that the order date is June 10,2024.
+Please process all item prices in EUR.
+PaymentTerms:Net30days(30天付款）
+Shipping Terms:FOB Origin（離岸交貨）
+Settlement total: 1701.75
+Remark: Partial shipment is not allowed unless approved.未经同意不得分批出货。

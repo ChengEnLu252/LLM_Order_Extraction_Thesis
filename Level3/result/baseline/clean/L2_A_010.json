@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-6753",
+  "po_date": "2026-11-09",
+  "currency": "EUR",
+  "total_amount": 895.05,
+  "items": [
+    {
+      "part_number": "EV-305",
+      "quantity": 9,
+      "unit": "units",
+      "unit_price": 87.95,
+      "line_amount": 791.55
+    },
+    {
+      "part_number": "JQ-725",
+      "quantity": 18,
+      "unit": "boxes",
+      "unit_price": 5.75,
+      "line_amount": 103.5
+    }
+  ]
+}

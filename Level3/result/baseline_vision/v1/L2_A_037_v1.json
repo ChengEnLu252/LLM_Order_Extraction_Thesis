@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2023-8361",
+  "po_date": "2022-11-17",
+  "currency": null,
+  "total_amount": 4631.1,
+  "items": [
+    {
+      "part_number": "AX-725",
+      "quantity": 30,
+      "unit": "pcs",
+      "unit_price": 88.69,
+      "line_amount": 2660.7
+    },
+    {
+      "part_number": "AX-725",
+      "quantity": 27,
+      "unit": "pcs",
+      "unit_price": 51.2,
+      "line_amount": 1382.4
+    },
+    {
+      "part_number": "RT-220",
+      "quantity": 25,
+      "unit": "boxes",
+      "unit_price": 24.0,
+      "line_amount": 600.0
+    }
+  ]
+}

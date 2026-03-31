@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-4700",
+  "po_date": "2026-04-14",
+  "currency": "EUR",
+  "total_amount": 5548.74,
+  "items": [
+    {
+      "part_number": "IT-305",
+      "quantity": 32,
+      "unit": "pcs",
+      "unit_price": 3008.96,
+      "line_amount": 9630.72
+    },
+    {
+      "part_number": "GK-830",
+      "quantity": 33,
+      "unit": "pcs",
+      "unit_price": 2239.71,
+      "line_amount": 73910.43
+    }
+  ]
+}

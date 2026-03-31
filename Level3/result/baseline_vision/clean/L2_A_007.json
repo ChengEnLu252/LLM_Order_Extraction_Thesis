@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-4044",
+  "po_date": "2024-05-20",
+  "currency": "JPY",
+  "total_amount": 5630.25,
+  "items": [
+    {
+      "part_number": "JQ-410",
+      "quantity": 9,
+      "unit": "units",
+      "unit_price": 94.28,
+      "line_amount": 848.52
+    },
+    {
+      "part_number": "E5-240",
+      "quantity": 40,
+      "unit": "units",
+      "unit_price": 5.89,
+      "line_amount": 235.6
+    },
+    {
+      "part_number": "EV-210",
+      "quantity": 38,
+      "unit": "boxes",
+      "unit_price": 53.23,
+      "line_amount": 2022.74
+    },
+    {
+      "part_number": "CM-512",
+      "quantity": 17,
+      "unit": "sets",
+      "unit_price": 28.03,
+      "line_amount": 476.51
+    },
+    {
+      "part_number": "BK-100",
+      "quantity": 22,
+      "unit": "sets",
+      "unit_price": 93.04,
+      "line_amount": 2046.88
+    }
+  ]
+}

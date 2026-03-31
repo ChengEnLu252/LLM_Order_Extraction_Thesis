@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-7060",
+  "po_date": "2024-12-03",
+  "currency": "EUR",
+  "total_amount": "2231.99",
+  "items": [
+    {
+      "part_number": "JQ-725",
+      "quantity": 8,
+      "unit": "EA",
+      "unit_price": "79.52",
+      "line_amount": "636.16"
+    },
+    {
+      "part_number": "BK-100",
+      "quantity": 3,
+      "unit": "pcs",
+      "unit_price": "88.20",
+      "line_amount": "264.60"
+    },
+    {
+      "part_number": "JQ-512",
+      "quantity": 13,
+      "unit": "sets",
+      "unit_price": "92.76",
+      "line_amount": "1205.88"
+    }
+  ]
+}

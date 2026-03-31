@@ -1,0 +1,16 @@
+Purchase Order
+Document ID: L2_B_039
+Category: B
+Supplier:CedarStone Imports雪松石進出口
+Buyer: LumenTrail Procurement光徑採購
+Kindly process the following order items for our current purchasing request.
+For tracking purposes, please use order reference Po-2025-7732.
+Item List:
+1.Part:CN-725 |Qty:13pcs |Price:28.99 |Amount:376.87
+2.FT-410,quantity 27 pcs,unit price 89.18,amount 2407.86
+This order was issued on 24 Jun 2025.
+The transaction currency for this order is EUR.
+Payment Terms:Payment due uponreceipt（收貨後付款）
+Shipping Terms:EXwWarehouse（工廠交貨）
+Total amount for this order: 2784.73
+Remark：All goodsmust match approvedspecifications.所有货品须符合核准规格。

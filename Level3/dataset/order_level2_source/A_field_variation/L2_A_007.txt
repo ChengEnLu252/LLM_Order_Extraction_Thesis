@@ -1,0 +1,15 @@
+Supplier: BluePeak Industrial Supply 藍峰工業供應
+Buyer: GrandRiver Devices 大河裝置
+Purchase Order No.: PO-2024-4044
+Date Issued: 2024-05-20
+Curr.: JPY
+
+SKU             Order Qty    Unit       Item Price      Line Total     
+JQ-410          9            units      94.28           848.52         
+BK-725          40           units      5.89            235.60         
+EV-410          38           boxes      53.23           2022.74        
+CN-512          17           sets       28.03           476.51         
+BK-100          22           sets       93.04           2046.88        
+
+Grand Total: 5630.25
+Remarks: Please include inspection report with shipment. 出貨時請附檢驗報告。

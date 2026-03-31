@@ -1,0 +1,19 @@
+
+Subject: PO-2026-0006
+
+Hi,
+
+Please process this order.
+
+Buyer: 承恩科技股份有限公司
+Supplier: 鼎新材料股份有限公司
+Date: February 28, 2025
+
+Items:
+1. Type-C 連接器 24Pin (TC-24P-001) 數量: 510 條 單價: 195.88 小計: 99898.8
+2. 固態硬碟 1TB (SSD-1TB-X) 數量: 393 顆 單價: 12.49 小計: 4908.57
+3. Type-C 連接器 24Pin (TC-24P-001) 數量: 922 顆 單價: 24.8 小計: 22865.6
+4. Type-C 連接器 24Pin (TC-24P-001) 數量: 156 PCS 單價: 154.4 小計: 24086.4
+
+
+Total Amount: 151759.37 TWD

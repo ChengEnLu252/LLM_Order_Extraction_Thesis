@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-2654",
+  "po_date": "2026-12-01",
+  "currency": "EUR",
+  "total_amount": "4130.59",
+  "items": [
+    {
+      "part_number": "JQ-220",
+      "quantity": 8,
+      "unit": "boxes",
+      "unit_price": "52.14",
+      "line_amount": "417.12"
+    },
+    {
+      "part_number": "HM-410",
+      "quantity": 9,
+      "unit": "units",
+      "unit_price": "78.91",
+      "line_amount": "710.19"
+    },
+    {
+      "part_number": "IR-410",
+      "quantity": 14,
+      "unit": "boxes",
+      "unit_price": "78.24",
+      "line_amount": "1095.36"
+    },
+    {
+      "part_number": "AX-940",
+      "quantity": 28,
+      "unit": "sets",
+      "unit_price": "30.94",
+      "line_amount": "866.32"
+    },
+    {
+      "part_number": "HM-618",
+      "quantity": 15,
+      "unit": "EA",
+      "unit_price": "69.44",
+      "line_amount": "1041.60"
+    }
+  ]
+}

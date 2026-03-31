@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-9680",
+  "po_date": "2026-05-28",
+  "currency": "USD",
+  "total_amount": 7082.35,
+  "items": [
+    {
+      "part_number": "DX-220",
+      "quantity": 10,
+      "unit": "boxes",
+      "unit_price": 26.94,
+      "line_amount": 269.4
+    },
+    {
+      "part_number": "A-980",
+      "quantity": 2,
+      "unit": "pcs",
+      "unit_price": 71.5,
+      "line_amount": 143.0
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Purchase Order
+Document ID: L2_C_026
+Category: C
+PO Number:PO-2026-7385
+PODate:13Feb2026
+Currency:USD
+Supplier：AuroraLink Systems極光連結系統
+Ordered Items:
+1) Item JQ-512,ordered quantity 17  boxes,unit price 52.63, total 894.71
+2)GX-410 / 36pcs / 81.26 / 2925.36
+3)BK-830 / 13units / 15.39 / 200.07
+4)JQ-830 / 30 EA / 28.67 / 860.10
+5)AX-940 / 22 pcs / 3.90 / 85.80
+Grand Total:4966.04
+Remark:Packagingmust complywithexport standards.包装需符合出口標準。

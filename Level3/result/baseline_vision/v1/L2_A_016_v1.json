@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-8616",
+  "po_date": "2022-06-11",
+  "currency": "JPY",
+  "total_amount": 3405.19,
+  "items": [
+    {
+      "part_number": "BK-512",
+      "quantity": 17,
+      "unit": "sets",
+      "unit_price": 83.41,
+      "line_amount": 1417.97
+    },
+    {
+      "part_number": "JK-725",
+      "quantity": 7,
+      "unit": "boxes",
+      "unit_price": 75.55,
+      "line_amount": 528.35
+    },
+    {
+      "part_number": "MF-305",
+      "quantity": 3,
+      "unit": "sets",
+      "unit_price": 50.44,
+      "line_amount": 151.32
+    },
+    {
+      "part_number": "EV-618",
+      "quantity": 15,
+      "unit": "boxes",
+      "unit_price": 36.77,
+      "line_amount": 551.55
+    }
+  ]
+}

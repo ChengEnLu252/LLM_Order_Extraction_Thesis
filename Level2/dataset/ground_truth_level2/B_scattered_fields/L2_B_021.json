@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-6631",
+  "po_date": "2024-04-09",
+  "currency": "USD",
+  "total_amount": "1036.12",
+  "items": [
+    {
+      "part_number": "CN-830",
+      "quantity": 9,
+      "unit": "sets",
+      "unit_price": "93.08",
+      "line_amount": "837.72"
+    },
+    {
+      "part_number": "GX-410",
+      "quantity": 2,
+      "unit": "EA",
+      "unit_price": "99.20",
+      "line_amount": "198.40"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-1674",
+  "po_date": "2025-10-10",
+  "currency": null,
+  "total_amount": 3274.52,
+  "items": [
+    {
+      "part_number": "IR-1001",
+      "quantity": 25,
+      "unit": "boxes",
+      "unit_price": 20.08,
+      "line_amount": 502
+    },
+    {
+      "part_number": "MX-940",
+      "quantity": 24,
+      "unit": null,
+      "unit_price": 16.5,
+      "line_amount": 396
+    },
+    {
+      "part_number": "AW-795",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 379.6,
+      "line_amount": 1135.8
+    },
+    {
+      "part_number": "FT-305",
+      "quantity": 11,
+      "unit": null,
+      "unit_price": 94.88,
+      "line_amount": 1036.68
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+Supplier: NovaCircuit Solutions 新曜電路方案
+Buyer: LumenTrail Procurement 光徑採購
+
+Kindly process the following order items for our current purchasing request.
+The official reference for this order is PO-2026-4621.
+
+Item List:
+1. Part: HM-220 | Qty: 24 boxes | Price: 99.77 | Amount: 2394.48
+2. Part BK-220 / Qty 28 EA / Unit Price 92.21 / Amount 2581.88
+3. Part: HM-410 | Qty: 24 units | Price: 32.57 | Amount: 781.68
+
+This order was issued on 07/01/2026.
+The transaction currency for this order is EUR.
+Payment Terms: Payment due upon receipt（收貨後付款）
+Shipping Terms: DAP Customer Site（目的地交貨）
+
+Settlement total: 5758.04
+Remark: All goods must match approved specifications. 所有貨品須符合核准規格。

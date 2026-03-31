@@ -1,0 +1,20 @@
+PO Number: PO-2026-2539
+PO Date: 2026-12-03
+Currency: JPY
+Supplier: Silver Oak Procurement 銀橡採購股份有限公司
+
+Ordered Items:
+1) Part No: CN-100
+   Qty: 21 units
+   Unit Price: 93.75
+   Amount: 1968.75
+2) Part No: HM-512
+   Qty: 35 EA
+   Unit Price: 13.97
+   Amount: 488.95
+3) Part: DX-220 | Qty: 25 EA | Price: 88.98 | Amount: 2224.50
+4) CN-512 / 29 units / 33.80 / 980.20
+5) DX-100 / 9pcs / 40.79 / 367.11
+
+Grand Total: 6029.51
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

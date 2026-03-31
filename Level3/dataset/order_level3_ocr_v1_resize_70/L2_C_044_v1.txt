@@ -1,0 +1,21 @@
+Purchase Order
+Document ID: L2_C_044
+Category: C
+PONumber:PO-2024-3024
+PODate:2024-07-05
+Currency: USD
+Supplier:CedarStoneImports雪松石進出口
+Ordered Items:
+1)Part No:IR-305
+Qty:35 sets
+Unit Price:71.31
+Amount:2495.85
+2)
+Part No:CN-618
+Qty: 37 units
+UnitPrice：39.30
+Amount:1454.10
+GrandTotal:3949.95
+Remark: Packaging must comply with export standards.包装需符合出口標准。
+a]
+]

@@ -1,0 +1,19 @@
+
+Subject: PO-2026-0045
+
+Hi,
+
+Please process this order.
+
+Buyer: 承恩科技股份有限公司
+Supplier: 華宇半導體
+Date: March 04, 2025
+
+Items:
+1. Type-C 連接器 24Pin (TC-24P-001) 數量: 722 條 單價: 44.82 小計: 32360.04
+2. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 700 PCS 單價: 28.98 小計: 20286.0
+3. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 409 顆 單價: 85.81 小計: 35096.29
+4. Type-C 連接器 24Pin (TC-24P-001) 數量: 1000 個 單價: 80.03 小計: 80030.0
+
+
+Total Amount: 167772.33 USD

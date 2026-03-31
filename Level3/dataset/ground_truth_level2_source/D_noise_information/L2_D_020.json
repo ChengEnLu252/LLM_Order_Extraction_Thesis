@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-4731",
+  "po_date": "2024-07-19",
+  "currency": "USD",
+  "total_amount": "2317.37",
+  "items": [
+    {
+      "part_number": "JQ-830",
+      "quantity": 16,
+      "unit": "pcs",
+      "unit_price": "9.21",
+      "line_amount": "147.36"
+    },
+    {
+      "part_number": "JQ-830",
+      "quantity": 29,
+      "unit": "EA",
+      "unit_price": "16.20",
+      "line_amount": "469.80"
+    },
+    {
+      "part_number": "HM-410",
+      "quantity": 26,
+      "unit": "boxes",
+      "unit_price": "38.60",
+      "line_amount": "1003.60"
+    },
+    {
+      "part_number": "CN-100",
+      "quantity": 19,
+      "unit": "units",
+      "unit_price": "21.82",
+      "line_amount": "414.58"
+    },
+    {
+      "part_number": "BK-830",
+      "quantity": 5,
+      "unit": "sets",
+      "unit_price": "29.50",
+      "line_amount": "147.50"
+    }
+  ]
+}

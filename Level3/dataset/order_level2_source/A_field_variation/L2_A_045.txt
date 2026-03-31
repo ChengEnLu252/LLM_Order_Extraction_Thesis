@@ -1,0 +1,15 @@
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: LumenTrail Procurement 光徑採購
+PO Number: PO-2026-6123
+Order Date: 01/23/2025
+Currency: USD
+
+SKU             Quantity     Unit       Unit Price      Extended Price 
+BK-725          21           units      50.74           1065.54        
+DX-618          31           pcs        96.74           2998.94        
+JQ-830          5            boxes      29.57           147.85         
+BK-725          36           EA         2.80            100.80         
+GX-618          18           pcs        73.30           1319.40        
+
+Total Amount: 5632.53
+Remarks: All goods must match approved specifications. 所有貨品須符合核准規格。

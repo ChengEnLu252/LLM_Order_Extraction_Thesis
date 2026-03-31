@@ -1,0 +1,16 @@
+Purchase Order
+Document ID: L2_B_030
+Category: B
+Kindly process the following order items for our current purchasing request.
+Supplier information: CedarStone Imports雪松石進出口
+For tracking purposes, please use order reference PO-2024-2056.
+Requested by: BrightCore Assemblies 亮核组装
+Ordered Materials:
+1.Part:HM-100|Qty:23 EA|Price:14.01 |Amount:322.23
+2.Part GX-830 / Qty 38 pcs / Unit Price 44.45 / Amount 1689.10
+PaymentTerms:30%advance，70%beforeshipment（30%预付，70%出貨前付清）
+Please note that the order date is 2025-02-08.
+Shipping arrangement follows CIF Destination(成本保險加運费）
+Please process all item prices in JPY.
+Final payable amount: 2011.33
+Additional note:All goods must match approved specifications.所有貨品须符合核准规格。

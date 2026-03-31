@@ -1,0 +1,36 @@
+{
+  "po_number": "Po-2025-4271",
+  "po_date": "2024-07-17",
+  "currency": "USD",
+  "total_amount": 2650.85,
+  "items": [
+    {
+      "part_number": "BK-512",
+      "quantity": 7,
+      "unit": "sets",
+      "unit_price": 48.41,
+      "line_amount": 338.87
+    },
+    {
+      "part_number": "EV-220",
+      "quantity": 32,
+      "unit": "units",
+      "unit_price": 49.93,
+      "line_amount": 1597.76
+    },
+    {
+      "part_number": "GX-618",
+      "quantity": 26,
+      "unit": "EA",
+      "unit_price": 20.12,
+      "line_amount": 523.12
+    },
+    {
+      "part_number": "HM-830",
+      "quantity": 30,
+      "unit": "boxes",
+      "unit_price": 6.37,
+      "line_amount": 191.1
+    }
+  ]
+}

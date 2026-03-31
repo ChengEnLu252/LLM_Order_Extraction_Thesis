@@ -1,0 +1,23 @@
+Purchase Order
+Document ID:L2_E_040
+Category: E
+Supplier： NovaCircuit Solutions新曜電路方案
+Buyer: GrandRiver Devices 大河装置
+Kindly proceed with the following mixed-format order details.
+PO Number:PO-2026-3032
+The requested materials are summarized below in mixed item formats.
+1.HM-512 / ordered quantity 5EA / rate 15.48 / line total 77.40
+2.Product Code:AX-410
+Units Ordered: 11 units
+Item Price: 38.82
+Amount:427.02
+Additional Information:
+Date: 09/24/2025
+The agreed payment condition is Payment due upon receipt(收貨後付款)
+Delivery arrangement follows CIF Destination（成本保險加運费）.
+All prices are quoted in USD.
+Subtotal:504.42
+Discount: 16.88
+Handling Fee:7.98
+Final Amount: 495.52
+Remark:All goods must match approved specifications.所有货品须符合核准规格。

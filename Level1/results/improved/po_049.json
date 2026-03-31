@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-0049",
+  "po_date": "2024-09-23",
+  "currency": "TWD",
+  "total_amount": 197642.85,
+  "items": [
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 107,
+      "unit": "個",
+      "unit_price": 90.59,
+      "line_amount": 9693.13
+    },
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 270,
+      "unit": "條",
+      "unit_price": 110.93,
+      "line_amount": 29951.1
+    },
+    {
+      "part_number": "HDMI-21-2M",
+      "quantity": 982,
+      "unit": "顆",
+      "unit_price": 108.5,
+      "line_amount": 106547.0
+    },
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 726,
+      "unit": "PCS",
+      "unit_price": 70.87,
+      "line_amount": 51451.62
+    }
+  ]
+}

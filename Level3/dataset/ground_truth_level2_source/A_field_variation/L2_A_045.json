@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-6123",
+  "po_date": "2025-01-23",
+  "currency": "USD",
+  "total_amount": "5632.53",
+  "items": [
+    {
+      "part_number": "BK-725",
+      "quantity": 21,
+      "unit": "units",
+      "unit_price": "50.74",
+      "line_amount": "1065.54"
+    },
+    {
+      "part_number": "DX-618",
+      "quantity": 31,
+      "unit": "pcs",
+      "unit_price": "96.74",
+      "line_amount": "2998.94"
+    },
+    {
+      "part_number": "JQ-830",
+      "quantity": 5,
+      "unit": "boxes",
+      "unit_price": "29.57",
+      "line_amount": "147.85"
+    },
+    {
+      "part_number": "BK-725",
+      "quantity": 36,
+      "unit": "EA",
+      "unit_price": "2.80",
+      "line_amount": "100.80"
+    },
+    {
+      "part_number": "GX-618",
+      "quantity": 18,
+      "unit": "pcs",
+      "unit_price": "73.30",
+      "line_amount": "1319.40"
+    }
+  ]
+}

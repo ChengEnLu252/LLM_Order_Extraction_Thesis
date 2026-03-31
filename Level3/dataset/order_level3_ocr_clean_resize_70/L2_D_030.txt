@@ -1,0 +1,29 @@
+Purchase Order
+Document ID: L2_D_030
+Category: D
+Purchase Order No.: PO-2025-6047
+Date:07/01/2026
+Billing Currency: JPY
+Supplier: BluePeak Industrial Supply 藍峰工業供應
+Buyer: GrandRiver Devices 大河装置
+Ship To: 18 North Avenue, West District
+Contact Person: Ivy Chen /陳怡君
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-EV-305
+Qty 28 sets | Price 80.76 | Amount 2261.28
+-JQ-220
+Qty 28 EA | Price 15.68 | Amount 439.04
+-IR-618
+Qty 15 pcs  Price 31.72 | Amount 475.80
+-BK-100
+Qty 39 sets | Price 76.10 | Amount 2967.90
+- IR-830  Qty 19 units Price 42.62  Amount 809.78
+Subtotal: 6953.80
+Tax:347.69
+Shipping Fee: 68.26
+Final Payable Amount: 7369.75
+Payment Terms:Net45 days (45天付款）
+Shipping Terms:CIF Destination（成本保險加運費）
+Remark: Packaging must comply with export standards.包装需符合出口標準。

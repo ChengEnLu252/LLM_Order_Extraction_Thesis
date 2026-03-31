@@ -1,0 +1,22 @@
+Purchase Order No.: PO-2025-3630
+Date: October 22, 2026
+Billing Currency: JPY
+Supplier: OrbitLine Distribution 軌域配銷有限公司
+Buyer: GrandRiver Devices 大河裝置
+
+Ship To: 18 North Avenue, West District
+Contact Person: Daniel Brooks / 陳志宏
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- AX-940 | Qty 8 EA | Price 82.32 | Amount 658.56
+- CN-940 | Qty 14 pcs | Price 96.50 | Amount 1351.00
+
+Subtotal: 2009.56
+Tax: 100.48
+Shipping Fee: 35.65
+Final Payable Amount: 2145.69
+Payment Terms: Net 45 days（45天付款）
+Shipping Terms: DAP Customer Site（目的地交貨）
+Remark: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-1533",
+  "po_date": "2026-10-26",
+  "currency": "EUR",
+  "total_amount": 3437,
+  "items": [
+    {
+      "part_number": "M-618",
+      "quantity": 9,
+      "unit": "pcs",
+      "unit_price": 70.43,
+      "line_amount": 633.87
+    },
+    {
+      "part_number": "M-620",
+      "quantity": 2,
+      "unit": "boxes",
+      "unit_price": 62.06,
+      "line_amount": 126.12
+    },
+    {
+      "part_number": "XJ-305",
+      "quantity": 25,
+      "unit": "units",
+      "unit_price": 62.05,
+      "line_amount": 1551.25
+    },
+    {
+      "part_number": "M-618",
+      "quantity": 18,
+      "unit": "boxes",
+      "unit_price": 25.24,
+      "line_amount": 454.32
+    },
+    {
+      "part_number": "M-618",
+      "quantity": 13,
+      "unit": "boxes",
+      "unit_price": 50.88,
+      "line_amount": 661.44
+    }
+  ]
+}

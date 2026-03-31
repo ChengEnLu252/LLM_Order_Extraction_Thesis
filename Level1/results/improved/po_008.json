@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-0008",
+  "po_date": "2025-03-13",
+  "currency": "USD",
+  "total_amount": 154134.91,
+  "items": [
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 877,
+      "unit": "個",
+      "unit_price": 57.68,
+      "line_amount": 50585.36
+    },
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 103,
+      "unit": "個",
+      "unit_price": 185.51,
+      "line_amount": 19107.53
+    },
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 949,
+      "unit": "顆",
+      "unit_price": 88.98,
+      "line_amount": 84442.02
+    }
+  ]
+}

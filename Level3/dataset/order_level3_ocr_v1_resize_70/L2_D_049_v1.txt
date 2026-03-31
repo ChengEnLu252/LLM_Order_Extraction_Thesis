@@ -1,0 +1,28 @@
+Purchase Order
+Document ID: L2_D_049
+Category: D
+Purchase Order No.:PO-2024-5550
+Date:23/10/2024
+Billing Currency: EUR
+Supplier:CedarStone Imports雪松石進出口
+Buyer: Stonepath Industrial石徑工業
+Ship To: 18 North Avenue, West District
+Contact Person:Kevin Huang／黄建凯
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-JQ-100
+Qty 3 pcs | Price 65.25 | Amount 195.75
+-GX-512
+Qty17 boxes | Price 26.79 | Amount 455.43
+-DX-830
+Qty 9 sets | Price 54.42 | Amount 489.78
+-GX-512
+Qty 2 boxes | Price 91.16 | Amount 182.32
+Subtotal:1323.28
+Tax:66.16
+Shipping Fee:24.73
+Final Payable Amount:1414.17
+PaymentTerms:Net45days（45天付款）
+Shipping Terms:EXwWarehouse（工廠交货）
+Remark: Please confirm delivery schedule before shipment.出貨前請先確認交期。

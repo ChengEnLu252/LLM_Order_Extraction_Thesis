@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-0006",
+  "po_date": "2025-02-28",
+  "currency": "TWD",
+  "total_amount": 151759.37,
+  "items": [
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 510,
+      "unit": "條",
+      "unit_price": 195.88,
+      "line_amount": 99898.8
+    },
+    {
+      "part_number": "SSD-1TB-X",
+      "quantity": 393,
+      "unit": "顆",
+      "unit_price": 12.49,
+      "line_amount": 4908.57
+    },
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 922,
+      "unit": "顆",
+      "unit_price": 24.8,
+      "line_amount": 22865.6
+    },
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 156,
+      "unit": "PCS",
+      "unit_price": 154.4,
+      "line_amount": 24086.4
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-8585",
+  "po_date": "2026-05-18",
+  "currency": "JPY",
+  "total_amount": 1567.69,
+  "items": [
+    {
+      "part_number": "EV-410",
+      "quantity": 31,
+      "unit": "pcs",
+      "unit_price": 35.92,
+      "line_amount": 1113.52
+    },
+    {
+      "part_number": "GX-100",
+      "quantity": 4,
+      "unit": "EA",
+      "unit_price": 81.33,
+      "line_amount": 325.32
+    },
+    {
+      "part_number": "JQ-100",
+      "quantity": 15,
+      "unit": "sets",
+      "unit_price": 8.59,
+      "line_amount": 128.85
+    }
+  ]
+}

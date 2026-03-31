@@ -1,0 +1,21 @@
+Purchase Order
+Document ID: L2_E_045
+Category: E
+Supplier:OrbitLine Distribution軌域配銷有限公司
+Buyer：Allied Nexus Purchasing 聯合採購中心
+Kindly proceed with the following mixed-format order details.
+OrderID:PO-2024-5249
+The requested items are listed below.
+1.Qty 7 boxes of GX-220 at 30.73 each, total 215.11
+2.Qty 6 sets of JQ-410 at 35.53 each, total 213.18
+3.Part:BK-100|Qty:33 pcs |Price:67.93|Amount:2241.69
+Additional Information:
+PO Date: April 17, 2026
+Payment Terms:Net30 days(30天付款）
+ShippingTerms：FOBOrigin（離岸交貨）
+All prices are quoted in EUR.
+Subtotal:2669.98
+Discount: 10.63
+Handling Fee: 9.24
+Final Amount: 2668.59
+Remark: Partial shipment is not allowed unless approved.未经同意不得分批出货。

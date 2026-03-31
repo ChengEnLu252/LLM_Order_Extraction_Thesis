@@ -1,0 +1,18 @@
+Purchase Order
+Document ID: L2_B_046
+Category: B
+Please prepare the materials listed below for the next production batch.
+Supplier information: BluePeak Industrial Supply藍峰工業供應
+For tracking purposes, please use ordr reference PO-2026-1359.
+Requested by: Stonepath Industrial石径工業
+Ordered Materials:
+1.Part:EV-940 |Qty:26 units | Price:87.90 | Amount:2285.40
+2.Part AX-220 / Qty 5 pcs / Unit Price 60.20 / Amount 301.00
+Payment Terms:Net 30days(30天付款）
+Please note that the order date is 30/10/2026.
+Shipping arrangement follows DAP Customer Site(目的地交货).
+Please process all item prices in USD.
+Amount due upon confirmation: 2586.40
+Additional note:Please confirm delivery schedule before shipment.出貨前请請先確認交期。
+ae
+a

@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-7802",
+  "po_date": "2024-08-04",
+  "currency": "JPY",
+  "total_amount": 8793.38,
+  "items": [
+    {
+      "part_number": "CH-305",
+      "quantity": 2,
+      "unit": "pcs",
+      "unit_price": 88.52,
+      "line_amount": 2670.08
+    },
+    {
+      "part_number": "Item-C140",
+      "quantity": 27,
+      "unit": "pcs",
+      "unit_price": 51.46,
+      "line_amount": 1389.42
+    },
+    {
+      "part_number": "P-140",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 93.98,
+      "line_amount": 2814.0
+    },
+    {
+      "part_number": "Item-6K",
+      "quantity": 25,
+      "unit": "units",
+      "unit_price": 42.41,
+      "line_amount": 1066.25
+    },
+    {
+      "part_number": "SD-725",
+      "quantity": 17,
+      "unit": "units",
+      "unit_price": 57.9,
+      "line_amount": 972.23
+    }
+  ]
+}

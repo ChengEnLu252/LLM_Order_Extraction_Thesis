@@ -1,0 +1,26 @@
+PO Number: PO-2026-4323
+PO Date: 22 Feb 2025
+Currency: USD
+Supplier: Vertex Axis Trading 維泰軸心貿易
+
+Ordered Items:
+1) Part No: DX-725
+   Qty: 22 sets
+   Unit Price: 86.94
+   Amount: 1912.68
+2) Part No: GX-618
+   Qty: 4 sets
+   Unit Price: 61.58
+   Amount: 246.32
+3) Part No: IR-100
+   Qty: 38 units
+   Unit Price: 60.19
+   Amount: 2287.22
+4) AX-410 / 8 units / 46.26 / 370.08
+5) Part No: AX-940
+   Qty: 36 sets
+   Unit Price: 40.77
+   Amount: 1467.72
+
+Grand Total: 6284.02
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

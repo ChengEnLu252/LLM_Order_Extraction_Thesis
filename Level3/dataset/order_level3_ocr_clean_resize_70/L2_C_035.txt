@@ -1,0 +1,18 @@
+Purchase Order
+Document ID: L2_C_035
+Category: C
+PO Number:PO-2026-4617
+PO Date:09Nov 2024
+Currency: USD
+Supplier: NovaCircuit Solutions 新曜電路方案
+Ordered Items:
+1) Part No: GX-305
+Qty: 16 EA
+Unit Price: 44.33
+Amount: 709.28
+2) Part No: JQ-100
+Qty: 23 units
+Unit Price:10.09
+Amount: 232.07
+Grand Total:941.35
+Remark:Allgoods must match approvedspecifications.所有货品须符合核准规格。

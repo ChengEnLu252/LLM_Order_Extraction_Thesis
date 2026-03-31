@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #111;
+}
+
+.page {
+    width: 1100px;
+    min-height: 1500px;
+    margin: 0 auto;
+    padding: 60px;
+    box-sizing: border-box;
+    background: #fff;
+}
+
+.header {
+    margin-bottom: 30px;
+    border-bottom: 2px solid #999;
+    padding-bottom: 20px;
+}
+
+.header h1 {
+    margin: 0 0 20px 0;
+    font-size: 34px;
+    letter-spacing: 1px;
+}
+
+.header p {
+    font-size: 20px;
+    margin: 6px 0;
+}
+
+.content-block {
+    margin-top: 20px;
+    border: 2px solid #333;
+    padding: 24px;
+    background: #fff;
+}
+
+.content-block pre {
+    margin: 0;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-size: 20px;
+    line-height: 1.7;
+    font-family: Arial, Helvetica, sans-serif;
+}

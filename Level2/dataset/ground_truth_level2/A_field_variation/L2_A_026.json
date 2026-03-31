@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-3165",
+  "po_date": "2026-01-19",
+  "currency": "JPY",
+  "total_amount": "4692.87",
+  "items": [
+    {
+      "part_number": "HM-512",
+      "quantity": 18,
+      "unit": "boxes",
+      "unit_price": "91.58",
+      "line_amount": "1648.44"
+    },
+    {
+      "part_number": "BK-305",
+      "quantity": 9,
+      "unit": "EA",
+      "unit_price": "47.90",
+      "line_amount": "431.10"
+    },
+    {
+      "part_number": "IR-618",
+      "quantity": 27,
+      "unit": "pcs",
+      "unit_price": "96.79",
+      "line_amount": "2613.33"
+    }
+  ]
+}

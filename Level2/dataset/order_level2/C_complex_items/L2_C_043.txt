@@ -1,0 +1,11 @@
+PO Number: PO-2024-9470
+PO Date: 10/18/2024
+Currency: EUR
+Supplier: CedarStone Imports 雪松石進出口
+
+Ordered Items:
+1) Item IR-305, ordered quantity 13 sets, unit price 78.32, total 1018.16
+2) Item AX-305, ordered quantity 28 sets, unit price 33.70, total 943.60
+
+Grand Total: 1961.76
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

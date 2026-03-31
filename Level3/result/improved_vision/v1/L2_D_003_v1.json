@@ -1,0 +1,43 @@
+{
+  "po_number": "L2_D_003",
+  "po_date": "2026-01-31",
+  "currency": "USD",
+  "total_amount": 573.2,
+  "items": [
+    {
+      "part_number": "EM-202",
+      "quantity": 33,
+      "unit": "boxes",
+      "unit_price": 4.97,
+      "line_amount": 164.01
+    },
+    {
+      "part_number": "IR-202",
+      "quantity": 32,
+      "unit": "boxes",
+      "unit_price": 4.7,
+      "line_amount": 150.4
+    },
+    {
+      "part_number": "IR-202",
+      "quantity": 16,
+      "unit": "units",
+      "unit_price": 12.32,
+      "line_amount": 233.8
+    },
+    {
+      "part_number": "BK-512",
+      "quantity": 2,
+      "unit": "sets",
+      "unit_price": 9.25,
+      "line_amount": 18.5
+    },
+    {
+      "part_number": "GX-410",
+      "quantity": 31,
+      "unit": "units",
+      "unit_price": 41.29,
+      "line_amount": 1279.68
+    }
+  ]
+}

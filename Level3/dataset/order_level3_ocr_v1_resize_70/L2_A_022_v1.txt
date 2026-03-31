@@ -1,0 +1,26 @@
+Purchase Order
+Document ID: L2_A_022
+Category: A
+Supplier：OrbitLineDistribution軌域配销有限公司
+Buyer：BrightCoreAssemblies亮核组装
+P.O.No.：PO-2026-3369
+OrderDate:24 Feb2026
+Billing Currency: USD
+Part No.
+Quantity
+Unit Type
+Unit Price
+Extended Price
+GX-618
+19
+units
+77.72
+1476.68
+EV-512
+19
+units
+82.41
+1565.79
+Total Amount:3042.47
+Remarks:Please include inspectionreport withshipment.出货時請附檢驗報告。
+al

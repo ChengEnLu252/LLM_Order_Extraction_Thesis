@@ -1,0 +1,25 @@
+Purchase Order No.: PO-2025-9687
+Date: March 25, 2024
+Billing Currency: USD
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Buyer: Stonepath Industrial 石徑工業
+
+Ship To: 18 North Avenue, West District
+Contact Person: Melissa Turner / 王美玲
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- EV-220 | Qty 19 boxes | Price 34.83 | Amount 661.77
+- DX-410 | Qty 39 units | Price 40.33 | Amount 1572.87
+- CN-618 | Qty 23 units | Price 68.42 | Amount 1573.66
+- BK-100 | Qty 2 sets | Price 67.93 | Amount 135.86
+- HM-618 | Qty 8 EA | Price 53.48 | Amount 427.84
+
+Subtotal: 4372.00
+Tax: 218.60
+Shipping Fee: 12.38
+Final Payable Amount: 4602.98
+Payment Terms: Payment due upon receipt（收貨後付款）
+Shipping Terms: CIF Destination（成本保險加運費）
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

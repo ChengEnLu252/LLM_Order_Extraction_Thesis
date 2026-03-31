@@ -1,0 +1,21 @@
+Purchase Order
+Document ID: L2_E_025
+Category: E
+Supplier:Silver Oak Procurement銀橡採購股份有限公司
+Buyer: GrandRiver Devices大河装置
+Please review and process the following procurement request.
+Order ID:PO-2026-4696
+Please note that the requested items are presented in different line formats below.
+1. BK-100 / ordered quantity 23sets / rate 32.46 / line total 746.58
+2.JQ-618 / ordered quantity 29boxes / rate 81.19 / line total 2354.51
+3.DX-618 / ordered quantity 17pcs / rate 12.57 / line total 213.69
+Additional Information:
+Issued On: 2026-05-17
+Payment for this order shall follow Net 45 days(45天付款）.
+Shipping arrangement will follow FoB Origin(離岸交貨).
+All prices are quoted in USD.
+Subtotal:3314.78
+Discount:16.46
+Handling Fee:10.50
+Final Amount: 3308.82
+Remark:Partial shipment is not allowed unless approved.未经同意不得分批出货。

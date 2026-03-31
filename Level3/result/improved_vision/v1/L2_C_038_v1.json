@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-5444",
+  "po_date": "2024-04-18",
+  "currency": "EUR",
+  "total_amount": 10263.82,
+  "items": [
+    {
+      "part_number": "L2-Z20",
+      "quantity": 19,
+      "unit": "sets",
+      "unit_price": 66.97,
+      "line_amount": 1272.43
+    },
+    {
+      "part_number": "Item GX-410",
+      "quantity": 20,
+      "unit": "sets",
+      "unit_price": 87.01,
+      "line_amount": 1700.2
+    },
+    {
+      "part_number": "Item GX-618",
+      "quantity": 34,
+      "unit": "sets",
+      "unit_price": 97.71,
+      "line_amount": 3322.14
+    },
+    {
+      "part_number": "Item GX-410",
+      "quantity": 40,
+      "unit": "sets",
+      "unit_price": 54.09,
+      "line_amount": 2163.6
+    }
+  ]
+}

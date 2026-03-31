@@ -1,0 +1,13 @@
+Purchase Order
+Document ID: L2_C_043
+Category: C
+PONumber：PO-2024-9470
+PODate:10/18/2024
+Currency:EUR
+Supplier：CedarStone Imports雪松石進出口
+Ordered Items:
+1)Item IR-305,ordered quantity 13 sets, unit price 78.32,total 1018.16
+2)Item AX-305,ordered quantity 28 sets, unit price 33.70,total 943.60
+GrandTotal:1961.76
+Remark:Please include inspectionreport with shipment.出貨時请附檢驗報告。
+Ta]

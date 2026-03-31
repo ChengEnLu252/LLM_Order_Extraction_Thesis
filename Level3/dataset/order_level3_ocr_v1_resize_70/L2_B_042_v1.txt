@@ -1,0 +1,20 @@
+Purchase Order
+DocumentID:L2_B_042
+Category: B
+Procurement Note:
+Kindly process the following order items for our current purchasing request.
+Requested by purchasing team: Summit Valley Electronics 峰谷電子
+Supplier Details:
+BluePeak Industrial Supply藍峰工業供應
+For tracking purposes, please use order reference Po-2026-9530.
+Materials Requested:
+1. Part JQ-512 / Qty 37 boxes / Unit Price 65.44 / Amount 2421.28
+2. FT-512,quantity 8 boxes, unit price 49.21, amount 393.68
+3.Part:EV-410 |Qty:19EA|Price:27.59 | Amount: 524.21
+4.Part:AX-725 |Qty:35 boxes | Price:77.02 | Amount:2695.70
+Please note that the order date is March 24, 2026.
+The agreed payment condition is Net 30 days(3o天付款).
+Delivery willfollow DAP Customer Site(目的地交货）.
+Please process all item prices in JPY.
+Total amount for this order: 6034.87
+Please note: Packaging must comply with export standards.包装需符合出口標準。

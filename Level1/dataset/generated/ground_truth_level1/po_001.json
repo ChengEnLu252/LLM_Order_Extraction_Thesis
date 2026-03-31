@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-0001",
+  "po_date": "2024-05-21",
+  "currency": "TWD",
+  "total_amount": 228674.64,
+  "items": [
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 960,
+      "unit": "個",
+      "unit_price": 152.66,
+      "line_amount": 146553.6
+    },
+    {
+      "part_number": "HDMI-21-2M",
+      "quantity": 667,
+      "unit": "個",
+      "unit_price": 123.12,
+      "line_amount": 82121.04
+    }
+  ]
+}

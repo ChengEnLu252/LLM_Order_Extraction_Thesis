@@ -1,0 +1,22 @@
+{
+  "po_number": "L2_E_029",
+  "po_date": "2024-12-22",
+  "currency": "EUR",
+  "total_amount": 1429.41,
+  "items": [
+    {
+      "part_number": "FR-618",
+      "quantity": 21,
+      "unit": "pcs",
+      "unit_price": 57.54,
+      "line_amount": 1208.34
+    },
+    {
+      "part_number": "EV-220",
+      "quantity": 14,
+      "unit": "pcs",
+      "unit_price": 41.11,
+      "line_amount": 574.54
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-6681",
+  "po_date": "2021-07-01",
+  "currency": "JPY",
+  "total_amount": 2741.29,
+  "items": [
+    {
+      "part_number": "MH-618",
+      "quantity": 20,
+      "unit": "sets",
+      "unit_price": 51.75,
+      "line_amount": 1035.0
+    },
+    {
+      "part_number": "EV-725",
+      "quantity": 3,
+      "unit": "sets",
+      "unit_price": 148.15,
+      "line_amount": 444.45
+    }
+  ]
+}

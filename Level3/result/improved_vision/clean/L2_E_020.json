@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-933",
+  "po_date": "2026-10-30",
+  "currency": "EUR",
+  "total_amount": 1166.72,
+  "items": [
+    {
+      "part_number": "RC-220",
+      "quantity": 22,
+      "unit": "sets",
+      "unit_price": 47.55,
+      "line_amount": 1046.1
+    },
+    {
+      "part_number": "DC-100",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 41.93,
+      "line_amount": 125.79
+    }
+  ]
+}

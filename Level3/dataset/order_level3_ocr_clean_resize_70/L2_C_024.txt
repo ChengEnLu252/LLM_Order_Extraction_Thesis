@@ -1,0 +1,17 @@
+Purchase Order
+Document ID: L2_C_024
+Category: C
+PONumber:PO-2024-1431
+PO Date: March 24,2026
+Currency: JPY
+Supplier: BluePeak Industrial Supply 藍峰工業供應
+Ordered Items:
+1) Part No: GX-512
+Qty: 11 EA
+Unit Price: 10.26
+Amount:112.86
+2) Part: HM-305 | Qty: 17 EA| Price: 74.28| Amount: 1262.76
+3) Item AX-100,ordered quantity 35 boxes, unit price 84.17, total 2945.95
+4) Qty 22 boxes of HM-940 at 86.70 each, total 1907.40
+Grand Total: 6228.97
+Remark: Please include inspection report with shipment.出貨時請附檢驗報告。

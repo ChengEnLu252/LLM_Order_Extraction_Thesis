@@ -1,0 +1,10 @@
+﻿field_name,correct,total,accuracy
+po_number,203,250,0.812
+po_date,160,250,0.64
+currency,233,250,0.932
+total_amount,185,250,0.74
+part_number,23,250,0.092
+quantity,132,250,0.528
+unit,105,250,0.42
+unit_price,119,250,0.476
+line_amount,130,250,0.52

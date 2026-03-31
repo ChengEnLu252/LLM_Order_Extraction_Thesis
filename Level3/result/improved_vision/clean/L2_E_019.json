@@ -1,0 +1,43 @@
+{
+  "po_number": "L2_E_019",
+  "po_date": "2026-08-26",
+  "currency": "USD",
+  "total_amount": 3323.27,
+  "items": [
+    {
+      "part_number": "AX-618",
+      "quantity": 1,
+      "unit": "sets",
+      "unit_price": 249.99,
+      "line_amount": 249.99
+    },
+    {
+      "part_number": "IR-618",
+      "quantity": 2,
+      "unit": "sets",
+      "unit_price": 254.54,
+      "line_amount": 554.58
+    },
+    {
+      "part_number": "BK-920",
+      "quantity": 18,
+      "unit": "EA",
+      "unit_price": 10.92,
+      "line_amount": 196.56
+    },
+    {
+      "part_number": "EX-20",
+      "quantity": 20,
+      "unit": "EA",
+      "unit_price": 16.12,
+      "line_amount": 322.4
+    },
+    {
+      "part_number": "CD-100",
+      "quantity": 1,
+      "unit": "units",
+      "unit_price": 95.31,
+      "line_amount": 95.31
+    }
+  ]
+}

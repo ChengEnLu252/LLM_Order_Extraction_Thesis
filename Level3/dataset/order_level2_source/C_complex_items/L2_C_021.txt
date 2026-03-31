@@ -1,0 +1,23 @@
+PO Number: PO-2026-1533
+PO Date: October 26, 2026
+Currency: EUR
+Supplier: NovaCircuit Solutions 新曜電路方案
+
+Ordered Items:
+1) Part No: HM-618
+   Qty: 9 pcs
+   Unit Price: 70.43
+   Amount: 633.87
+2) Part No: GX-220
+   Qty: 2 boxes
+   Unit Price: 68.06
+   Amount: 136.12
+3) EV-305 / 25 units / 62.05 / 1551.25
+4) Part No: HM-618
+   Qty: 18 boxes
+   Unit Price: 25.24
+   Amount: 454.32
+5) Part: DX-725 | Qty: 13 boxes | Price: 50.88 | Amount: 661.44
+
+Grand Total: 3437.00
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

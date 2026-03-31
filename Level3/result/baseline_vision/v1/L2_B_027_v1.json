@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-6362",
+  "po_date": "2024-06-25",
+  "currency": "JPY",
+  "total_amount": 3506.99,
+  "items": [
+    {
+      "part_number": "EV-410",
+      "quantity": 14,
+      "unit": "sets",
+      "unit_price": 30.5,
+      "line_amount": 428.12
+    },
+    {
+      "part_number": "W-410",
+      "quantity": 1,
+      "unit": "EA",
+      "unit_price": 1999.75,
+      "line_amount": 1999.75
+    },
+    {
+      "part_number": "X-100",
+      "quantity": 12,
+      "unit": "units",
+      "unit_price": 16.76,
+      "line_amount": 284.92
+    },
+    {
+      "part_number": "AX-618",
+      "quantity": 6,
+      "unit": "pcs",
+      "unit_price": 35.5,
+      "line_amount": 1294.2
+    }
+  ]
+}

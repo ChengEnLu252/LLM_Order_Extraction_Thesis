@@ -1,0 +1,22 @@
+{
+  "po_number": "L2_A_046",
+  "po_date": "2025-02-11",
+  "currency": "JPY",
+  "total_amount": 537.84,
+  "items": [
+    {
+      "part_number": "FT-830",
+      "quantity": 4,
+      "unit": "units",
+      "unit_price": 5.81,
+      "line_amount": 23.24
+    },
+    {
+      "part_number": "IR-305",
+      "quantity": 1,
+      "unit": "boxes",
+      "unit_price": 16.6,
+      "line_amount": 514.6
+    }
+  ]
+}

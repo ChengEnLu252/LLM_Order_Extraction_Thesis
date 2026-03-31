@@ -1,0 +1,26 @@
+Purchase Order
+Document ID: L2_D_031
+Category: D
+Purchase Order No.:PO-2024-5947
+Date:09/14/2025
+Billing Currency: EUR
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Buyer: LumenTrail Procurement光徑採購
+Ship To: 18 North Avenue, West District
+Contact Person: Ivy Chen /陳怡君
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-CN-512
+Qty 3 boxes  Price 79.54  Amount 238.62
+-EV-725
+Qty 32 EA | Price 14.17 | Amount 453.44
+-DX-100
+Qty 33 pcs | Price 90.87 | Amount 2998.71
+Subtotal:3690.77
+Tax:184.54
+Shipping Fee: 51.92
+Final Payable Amount: 3927.23
+PaymentTerms:30%advance，70%beforeshipment（30预付，70出货前付清）
+Shipping Terms: FOB Origin(離岸交貨）
+Remark: Partial shipment is not allowed unless approved.未經同意不得分批出貨。

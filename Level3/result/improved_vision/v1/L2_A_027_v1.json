@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-7869",
+  "po_date": "2024-01-26",
+  "currency": "USD",
+  "total_amount": 5258.21,
+  "items": [
+    {
+      "part_number": "DX-940",
+      "quantity": 33,
+      "unit": "EA",
+      "unit_price": 13.38,
+      "line_amount": 441.54
+    },
+    {
+      "part_number": "IR-725",
+      "quantity": 26,
+      "unit": "units",
+      "unit_price": 46.46,
+      "line_amount": 1207.96
+    },
+    {
+      "part_number": "BR-830",
+      "quantity": 11,
+      "unit": "units",
+      "unit_price": 88.77,
+      "line_amount": 976.47
+    },
+    {
+      "part_number": "EV-100",
+      "quantity": 28,
+      "unit": "boxes",
+      "unit_price": 94.03,
+      "line_amount": 2632.84
+    }
+  ]
+}

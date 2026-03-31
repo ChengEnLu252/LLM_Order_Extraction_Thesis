@@ -1,0 +1,21 @@
+Purchase Order
+Document ID: L2_E_034
+Category: E
+Supplier:OrbitLine Distribution軌域配銷有限公司
+Buyer: LumenTrail Procurement光徑採購
+Please review and process the following procurement request.
+OrderRef:P0-2024-3910
+The requested items are listed below.
+1.Qty  13  EA of GX-512 at 21.50 each, total 279.50
+2.Qty 16 sets of IR-220 at 30.53 each, total 488.48
+Additional Information:
+IssuedOn:2024-03-06
+Payment Terms:Payment due upon receipt（收貨後付款）
+Shipping Terms:FOBOrigin（離岸交貨）
+All prices are quoted in JPY.
+Subtotal: 767.98
+Discount:7.36
+Handling Fee: 4.33
+Final Amount:764.95
+Remark: Please confirm delivery schedule before shipment.出貨前請先確認交期。
+a

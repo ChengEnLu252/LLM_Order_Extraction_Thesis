@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-2391",
+  "po_date": "2024-07-14",
+  "currency": "JPY",
+  "total_amount": 2799.95,
+  "items": [
+    {
+      "part_number": "GX-305",
+      "quantity": 39,
+      "unit": "EA",
+      "unit_price": 57.65,
+      "line_amount": 2248.35
+    },
+    {
+      "part_number": "FZ-725",
+      "quantity": 20,
+      "unit": "boxes",
+      "unit_price": 27.58,
+      "line_amount": 551.6
+    }
+  ]
+}

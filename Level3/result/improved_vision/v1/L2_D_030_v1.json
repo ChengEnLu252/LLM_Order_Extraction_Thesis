@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-6047",
+  "po_date": "2026-01-07",
+  "currency": "JPY",
+  "total_amount": 7369.75,
+  "items": [
+    {
+      "part_number": "EV-305",
+      "quantity": 28,
+      "unit": "sets",
+      "unit_price": 15.61,
+      "line_amount": 436.28
+    },
+    {
+      "part_number": "IR-618",
+      "quantity": 15,
+      "unit": "pcs",
+      "unit_price": 31.72,
+      "line_amount": 475.9
+    },
+    {
+      "part_number": "IR-100",
+      "quantity": 39,
+      "unit": "sets",
+      "unit_price": 76.76,
+      "line_amount": 2967.9
+    },
+    {
+      "part_number": "BR-630",
+      "quantity": 31,
+      "unit": "units",
+      "unit_price": 42.62,
+      "line_amount": 809.78
+    }
+  ]
+}

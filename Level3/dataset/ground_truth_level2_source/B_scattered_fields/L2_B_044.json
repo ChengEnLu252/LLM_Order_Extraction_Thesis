@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-7253",
+  "po_date": "2026-12-21",
+  "currency": "EUR",
+  "total_amount": "2958.06",
+  "items": [
+    {
+      "part_number": "FT-725",
+      "quantity": 10,
+      "unit": "units",
+      "unit_price": "99.25",
+      "line_amount": "992.50"
+    },
+    {
+      "part_number": "CN-220",
+      "quantity": 31,
+      "unit": "sets",
+      "unit_price": "16.04",
+      "line_amount": "497.24"
+    },
+    {
+      "part_number": "CN-618",
+      "quantity": 23,
+      "unit": "pcs",
+      "unit_price": "63.84",
+      "line_amount": "1468.32"
+    }
+  ]
+}

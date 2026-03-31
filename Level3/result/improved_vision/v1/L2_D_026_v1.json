@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-2031",
+  "po_date": "2024-01-15",
+  "currency": null,
+  "total_amount": 6811.26,
+  "items": [
+    {
+      "part_number": "FT-830",
+      "quantity": 39,
+      "unit": "units",
+      "unit_price": 35.59,
+      "line_amount": 1388.01
+    },
+    {
+      "part_number": "EV-305",
+      "quantity": 35,
+      "unit": "boxes",
+      "unit_price": 84.51,
+      "line_amount": 2957.85
+    },
+    {
+      "part_number": "EV-305",
+      "quantity": 30,
+      "unit": "boxes",
+      "unit_price": 14.93,
+      "line_amount": 567.34
+    },
+    {
+      "part_number": "EV-100",
+      "quantity": 16,
+      "unit": "EA",
+      "unit_price": 49.46,
+      "line_amount": 791.36
+    },
+    {
+      "part_number": "CN-305",
+      "quantity": 24,
+      "unit": "units",
+      "unit_price": 29.87,
+      "line_amount": 716.88
+    }
+  ]
+}

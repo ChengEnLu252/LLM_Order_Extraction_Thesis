@@ -1,0 +1,18 @@
+
+Subject: PO-2026-0003
+
+Hi,
+
+Please process this order.
+
+Buyer: 宏達電子有限公司
+Supplier: 宏達電子有限公司
+Date: March 27, 2025
+
+Items:
+1. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 529 顆 單價: 106.69 小計: 56439.01
+2. Type-C 連接器 24Pin (TC-24P-001) 數量: 585 顆 單價: 110.29 小計: 64519.65
+3. Type-C 連接器 24Pin (TC-24P-001) 數量: 65 顆 單價: 148.65 小計: 9662.25
+
+
+Total Amount: 130620.91 TWD

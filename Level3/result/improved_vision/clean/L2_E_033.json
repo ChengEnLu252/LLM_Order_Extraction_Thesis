@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-784",
+  "po_date": "2023-05-03",
+  "currency": "EUR",
+  "total_amount": 5088.14,
+  "items": [
+    {
+      "part_number": "CH-512",
+      "quantity": 33,
+      "unit": "EA",
+      "unit_price": 26.0,
+      "line_amount": 856.0
+    },
+    {
+      "part_number": "FR-618",
+      "quantity": 33,
+      "unit": "EA",
+      "unit_price": 81.42,
+      "line_amount": 2686.86
+    },
+    {
+      "part_number": "QX-920",
+      "quantity": 34,
+      "unit": "EA",
+      "unit_price": 37.32,
+      "line_amount": 1274.16
+    },
+    {
+      "part_number": "JX-100",
+      "quantity": 22,
+      "unit": "EA",
+      "unit_price": 59.52,
+      "line_amount": 1309.44
+    }
+  ]
+}

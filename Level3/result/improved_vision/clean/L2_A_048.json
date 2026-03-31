@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-6804",
+  "po_date": "2025-06-25",
+  "currency": "JPY",
+  "total_amount": 3488.03,
+  "items": [
+    {
+      "part_number": "DX-512",
+      "quantity": 19,
+      "unit": "boxes",
+      "unit_price": 56.69,
+      "line_amount": 1071.11
+    },
+    {
+      "part_number": "EM-612",
+      "quantity": 15,
+      "unit": "sets",
+      "unit_price": 69.64,
+      "line_amount": 1044.6
+    },
+    {
+      "part_number": "EV-512",
+      "quantity": 24,
+      "unit": "pcs",
+      "unit_price": 56.93,
+      "line_amount": 1366.52
+    }
+  ]
+}

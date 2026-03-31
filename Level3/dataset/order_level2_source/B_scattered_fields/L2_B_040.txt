@@ -1,0 +1,22 @@
+Kindly process the following order items for our current purchasing request.
+
+Supplier information: CedarStone Imports 雪松石進出口
+For tracking purposes, please use order reference PO-2025-7828.
+
+Requested by: GrandRiver Devices 大河裝置
+
+Ordered Materials:
+1. Part: FT-100 | Qty: 33 units | Price: 76.43 | Amount: 2522.19
+2. IR-725, quantity 12 EA, unit price 8.43, amount 101.16
+3. AX-305, quantity 35 EA, unit price 88.17, amount 3085.95
+4. Part DX-100 / Qty 14 sets / Unit Price 84.02 / Amount 1176.28
+5. DX-512, quantity 5 boxes, unit price 91.97, amount 459.85
+
+Payment Terms: 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）
+The issuance date for this order is 01 Jul 2024.
+
+Shipping arrangement follows FOB Origin（離岸交貨）.
+Please process all item prices in USD.
+
+Final payable amount: 7345.43
+Additional note: All goods must match approved specifications. 所有貨品須符合核准規格。

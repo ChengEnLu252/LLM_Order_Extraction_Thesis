@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-8277",
+  "po_date": "2023-07-06",
+  "currency": null,
+  "total_amount": 585.12,
+  "items": [
+    {
+      "part_number": "AX-220",
+      "quantity": 9,
+      "unit": null,
+      "unit_price": 98.11,
+      "line_amount": 882.99
+    },
+    {
+      "part_number": "HR-100",
+      "quantity": 28,
+      "unit": null,
+      "unit_price": 5.51,
+      "line_amount": 154.8
+    },
+    {
+      "part_number": "V-940",
+      "quantity": 40,
+      "unit": "units",
+      "unit_price": 96.39,
+      "line_amount": 3855.6
+    },
+    {
+      "part_number": "HM-618",
+      "quantity": 15,
+      "unit": "boxes",
+      "unit_price": 66.15,
+      "line_amount": 992.25
+    }
+  ]
+}

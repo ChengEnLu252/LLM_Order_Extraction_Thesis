@@ -1,0 +1,27 @@
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: LumenTrail Procurement 光徑採購
+
+Kindly proceed with the following mixed-format order details.
+PO Number: PO-2025-3572
+
+The requested materials are summarized below in mixed item formats.
+
+1. Product Code: FT-305
+   Units Ordered: 11 pcs
+   Item Price: 65.42
+   Amount: 719.62
+2. Product Code: GX-100
+   Units Ordered: 14 EA
+   Item Price: 45.03
+   Amount: 630.42
+
+Additional Information:
+Date Issued: August 21, 2025
+The agreed payment condition is Payment due upon receipt（收貨後付款）.
+Delivery arrangement follows EXW Warehouse（工廠交貨）.
+All prices are quoted in JPY.
+Subtotal: 1350.04
+Discount: 10.59
+Handling Fee: 12.06
+Final Amount: 1351.51
+Remark: All goods must match approved specifications. 所有貨品須符合核准規格。

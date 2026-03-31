@@ -1,0 +1,29 @@
+{
+  "po_number": "L2_E_048",
+  "po_date": "2025-04-03",
+  "currency": "JPY",
+  "total_amount": 4283.08,
+  "items": [
+    {
+      "part_number": "X-940",
+      "quantity": 26,
+      "unit": "EA",
+      "unit_price": 91.2,
+      "line_amount": 2371.2
+    },
+    {
+      "part_number": "BOK-512",
+      "quantity": 16,
+      "unit": "EA",
+      "unit_price": 23.91,
+      "line_amount": 382.56
+    },
+    {
+      "part_number": "FR-725",
+      "quantity": 38,
+      "unit": "EA",
+      "unit_price": 96.66,
+      "line_amount": 3673.08
+    }
+  ]
+}

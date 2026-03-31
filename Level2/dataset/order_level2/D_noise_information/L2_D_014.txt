@@ -1,0 +1,24 @@
+Purchase Order No.: PO-2024-7298
+Date: 2026-09-14
+Billing Currency: USD
+Supplier: OrbitLine Distribution 軌域配銷有限公司
+Buyer: Stonepath Industrial 石徑工業
+
+Ship To: 18 North Avenue, West District
+Contact Person: Ivy Chen / 陳怡君
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- BK-618 | Qty 21 units | Price 41.26 | Amount 866.46
+- HM-512 | Qty 23 EA | Price 9.88 | Amount 227.24
+- GX-410 | Qty 13 boxes | Price 56.34 | Amount 732.42
+- FT-830 | Qty 26 pcs | Price 89.85 | Amount 2336.10
+
+Subtotal: 4162.22
+Tax: 208.11
+Shipping Fee: 12.50
+Final Payable Amount: 4382.83
+Payment Terms: Net 45 days（45天付款）
+Shipping Terms: CIF Destination（成本保險加運費）
+Remark: All goods must match approved specifications. 所有貨品須符合核准規格。

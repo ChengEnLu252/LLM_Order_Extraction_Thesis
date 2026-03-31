@@ -1,0 +1,25 @@
+Purchase Order
+Document ID: L2_A_010
+Category: A
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Buyer: Stonepath Industrial石徑工業
+Purchase Order No.: PO-2025-6753
+Issued On: November 09,2026
+Currency: EUR
+Part No.
+Order Qty
+Unit
+Unit Price
+Line Total
+EV-305
+9
+units
+87.95
+791.55
+JQ-725
+18
+boxes
+5.75
+103.50
+Grand Total: 895.05
+Remarks: Partial shipment is not allowed unless approved.未經同意不得分批出貨。

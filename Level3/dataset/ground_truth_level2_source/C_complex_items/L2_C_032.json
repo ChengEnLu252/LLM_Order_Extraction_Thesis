@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-7802",
+  "po_date": "2024-08-04",
+  "currency": "JPY",
+  "total_amount": "8793.38",
+  "items": [
+    {
+      "part_number": "CN-305",
+      "quantity": 29,
+      "unit": "units",
+      "unit_price": "88.52",
+      "line_amount": "2567.08"
+    },
+    {
+      "part_number": "CN-940",
+      "quantity": 27,
+      "unit": "units",
+      "unit_price": "51.46",
+      "line_amount": "1389.42"
+    },
+    {
+      "part_number": "FT-940",
+      "quantity": 30,
+      "unit": "boxes",
+      "unit_price": "93.48",
+      "line_amount": "2804.40"
+    },
+    {
+      "part_number": "GX-618",
+      "quantity": 25,
+      "unit": "units",
+      "unit_price": "42.41",
+      "line_amount": "1060.25"
+    },
+    {
+      "part_number": "DX-725",
+      "quantity": 17,
+      "unit": "units",
+      "unit_price": "57.19",
+      "line_amount": "972.23"
+    }
+  ]
+}

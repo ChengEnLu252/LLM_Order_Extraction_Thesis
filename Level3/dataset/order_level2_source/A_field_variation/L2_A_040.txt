@@ -1,0 +1,15 @@
+Supplier: Vertex Axis Trading 維泰軸心貿易
+Buyer: LumenTrail Procurement 光徑採購
+PO Number: PO-2026-8204
+PO Date: 02 Mar 2026
+Curr.: EUR
+
+Product Code    Order Qty    Unit       Unit Price      Line Total     
+IR-512          25           pcs        92.58           2314.50        
+JQ-305          29           units      9.73            282.17         
+BK-618          20           boxes      33.48           669.60         
+GX-305          21           sets       45.70           959.70         
+FT-725          24           boxes      45.82           1099.68        
+
+Grand Total: 5325.65
+Remarks: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

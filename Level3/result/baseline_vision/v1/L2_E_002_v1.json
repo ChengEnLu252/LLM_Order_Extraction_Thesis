@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-9615",
+  "po_date": "2026-06-01",
+  "currency": "EUR",
+  "total_amount": 1292.84,
+  "items": [
+    {
+      "part_number": "EV-512",
+      "quantity": 2,
+      "unit": "EA",
+      "unit_price": 26.67,
+      "line_amount": 53.34
+    },
+    {
+      "part_number": "GX-410",
+      "quantity": 2,
+      "unit": "EA",
+      "unit_price": 14.76,
+      "line_amount": 29.52
+    }
+  ]
+}

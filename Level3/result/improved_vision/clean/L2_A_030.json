@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-7532",
+  "po_date": "2026-05-01",
+  "currency": "JPY",
+  "total_amount": 2821.05,
+  "items": [
+    {
+      "part_number": "PM-305",
+      "quantity": 22,
+      "unit": "sets",
+      "unit_price": 67.18,
+      "line_amount": 1477.96
+    },
+    {
+      "part_number": "BK-206",
+      "quantity": 6,
+      "unit": "sets",
+      "unit_price": 10.94,
+      "line_amount": 65.64
+    },
+    {
+      "part_number": "PT-305",
+      "quantity": 8,
+      "unit": "units",
+      "unit_price": 74.97,
+      "line_amount": 599.76
+    },
+    {
+      "part_number": "IR-940",
+      "quantity": 5,
+      "unit": "boxes",
+      "unit_price": 59.47,
+      "line_amount": 297.35
+    },
+    {
+      "part_number": "GK-100",
+      "quantity": 9,
+      "unit": "boxes",
+      "unit_price": 42.26,
+      "line_amount": 380.34
+    }
+  ]
+}

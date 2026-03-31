@@ -1,0 +1,29 @@
+Purchase Order
+Document ID: L2_D_050
+Category: D
+Purchase Order No.: PO-2025-7656
+Date:10/03/2024
+Billing Currency: EUR
+Supplier: BluePeak Industrial Supply 藍峰工業供應
+Buyer: LumenTrail Procurement 光徑採購
+Ship To: 18 North Avenue, West District
+Contact Person: Ivy Chen /陈怡君
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-FT-725
+Qty 28 pcs Price 92.80 | Amount 2598.40
+- IR-220
+Qty 12 boxes | Price 70.45 | Amount 845.40
+- IR-618
+Qty 28 sets  Price 61.01 | Amount 1708.28
+-CN-830
+Qty 3 EA | Price 76.67 | Amount 230.01
+-EV-618 Qty 2 units  Price 41.26  Amount 82.52
+Subtotal:5464.61
+Tax:273.23
+Shipping Fee: 27.47
+Final Payable Amount: 5765.31
+Payment Terms:Net 30days(30天付款）
+Shipping Terms:CIF Destination（成本保險加運費）
+Remark: Please confirm delivery schedule before shipment.出貨前請先確認交期。

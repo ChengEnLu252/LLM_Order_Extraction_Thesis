@@ -1,0 +1,25 @@
+Supplier: NovaCircuit Solutions 新曜電路方案
+Buyer: Summit Valley Electronics 峰谷電子
+
+Please process the following materials based on our current procurement request.
+Purchase Order No.: PO-2025-6681
+
+The requested materials are summarized below in mixed item formats.
+
+1. Product Code: HM-618
+   Units Ordered: 20 sets
+   Item Price: 73.17
+   Amount: 1463.40
+2. Qty 16 units of JQ-618 at 51.75 each, total 828.00
+3. EV-725 / ordered quantity 31sets / rate 14.85 / line total 460.35
+
+Additional Information:
+PO Date: 07 Jul 2026
+The agreed payment condition is 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）.
+Delivery arrangement follows CIF Destination（成本保險加運費）.
+All prices are quoted in JPY.
+Subtotal: 2751.75
+Discount: 15.01
+Handling Fee: 4.55
+Final Amount: 2741.29
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

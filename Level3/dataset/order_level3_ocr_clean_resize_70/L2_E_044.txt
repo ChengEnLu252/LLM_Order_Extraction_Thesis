@@ -1,0 +1,30 @@
+Purchase Order
+Document ID: L2_E_044
+Category: E
+Supplier:OrbitLine Distribution軌域配銷有限公司
+Buyer: Stonepath Industrial石径工業
+Kindly proceed with the following mixed-format order details.
+P.O.NO.:PO-2026-7743
+Please note that the requested items are presented in different line formats below.
+1.Product Code:GX-512
+Units Ordered: 19 pcs
+Item Price:75.38
+Amount:1432.22
+2.Product Code:AX-220
+Units Ordered: 12 pcs
+Item Price: 82.01
+Amount:984.12
+3.Product Code:EV-725
+Units Ordered: 28 EA
+Item Price:53.45
+Amount:1496.60
+Additional Information:
+Issued On: 2024-07-01
+Payment for this order shall follow Payment due upon receipt(收貨後付款).
+Shipping arrangement willfollow CIF Destination(成本保險加運费）.
+All prices are quoted in USD.
+Subtotal:3912.94
+Discount:7.73
+Handling Fee: 14.38
+Final Amount: 3919.59
+Remark:Packaging mustcomplywithexport standards.包装需符合出口標準。

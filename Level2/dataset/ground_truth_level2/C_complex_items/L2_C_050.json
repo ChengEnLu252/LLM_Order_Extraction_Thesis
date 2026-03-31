@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-5448",
+  "po_date": "2026-04-27",
+  "currency": "USD",
+  "total_amount": "3446.32",
+  "items": [
+    {
+      "part_number": "EV-410",
+      "quantity": 30,
+      "unit": "units",
+      "unit_price": "83.29",
+      "line_amount": "2498.70"
+    },
+    {
+      "part_number": "FT-100",
+      "quantity": 21,
+      "unit": "EA",
+      "unit_price": "19.15",
+      "line_amount": "402.15"
+    },
+    {
+      "part_number": "AX-830",
+      "quantity": 7,
+      "unit": "units",
+      "unit_price": "45.49",
+      "line_amount": "318.43"
+    },
+    {
+      "part_number": "HM-940",
+      "quantity": 11,
+      "unit": "boxes",
+      "unit_price": "20.64",
+      "line_amount": "227.04"
+    }
+  ]
+}

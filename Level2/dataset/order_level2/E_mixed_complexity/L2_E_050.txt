@@ -1,0 +1,27 @@
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: Stonepath Industrial 石徑工業
+
+Kindly proceed with the following mixed-format order details.
+Order Ref: PO-2026-7427
+
+The requested materials are summarized below in mixed item formats.
+
+1. Product Code: EV-512
+   Units Ordered: 27 EA
+   Item Price: 9.04
+   Amount: 244.08
+2. CN-618 / ordered quantity 37units / rate 40.59 / line total 1501.83
+3. EV-830 / ordered quantity 5EA / rate 85.28 / line total 426.40
+4. Part: HM-512 | Qty: 38 EA | Price: 15.48 | Amount: 588.24
+5. Qty 15 boxes of DX-100 at 23.38 each, total 350.70
+
+Additional Information:
+Order Date: 22/11/2025
+The agreed payment condition is Net 30 days（30天付款）.
+Delivery arrangement follows CIF Destination（成本保險加運費）.
+All prices are quoted in EUR.
+Subtotal: 3111.25
+Discount: 18.89
+Handling Fee: 4.15
+Final Amount: 3096.51
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

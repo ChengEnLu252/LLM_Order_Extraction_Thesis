@@ -1,0 +1,28 @@
+Purchase Order
+Document ID: L2_D_005
+Category: D
+Purchase Order No.:PO-2024-1003
+Date:10/27/2024
+Billing Currency: JPY
+Supplier:Vertex Axis Trading维泰轴心贸易
+Buyer: LumenTrail Procurement 光徑採購
+Ship To: 18 North Avenue, West District
+Contact Person: Melissa Turner /王美玲
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-HM-410
+Qty 26 EA | Price 62.33 | Amount 1620.58
+- EV-725
+Qty 22 boxes | Price 31.37 | Amount 690.14
+-JQ-940
+Qty 7 sts | Price 59.11 | Amount 413.77
+- AX-618
+Qty 10 units | Price 85.55 | Amount 855.50
+Subtotal:3579.99
+Tax:179.00
+Shipping Fee: 17.68
+Final Payable Amount: 3776.67
+PaymentTerms:Net 30days (3o天付款）
+Shipping Terms: EXw Warehouse(工廠交貨）
+Remark: Please confirm delivery schedule before shipment.出貨前請先確認交期。

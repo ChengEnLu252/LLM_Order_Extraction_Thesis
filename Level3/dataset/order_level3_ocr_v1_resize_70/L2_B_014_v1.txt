@@ -1,0 +1,18 @@
+Purchase Order
+Document ID: L2_B_014
+Category: B
+Procurement Note:
+Please arrange the following materials for our upcoming production schedule.
+Requested by purchasing team: Skyforge Systems 天鑄系統
+Supplier Details:
+NovaCircuit Solutions 新曜電路方案
+The official reference for this order is PO-2024-8357.
+Materials Requested:
+1.Part:IR-220 |Qty:25 pcs|Price:70.76 |Amount:1769.00
+2.Part: FT-305 |Qty:17 units |Price:66.44 | Amount:1129.48
+Please note that the order date is 08/09/2026.
+Theagreedpayment conditionis30%advance，70% before shipment(30预付，70%出货前付清）.
+Delivery will  follow EXw Warehouse（工廠交貨）.
+Please process all item prices in JPY.
+Settlement total: 2898.48
+Please note: Please confirm delivery schedule before shipment.出貨前請先確認交期。

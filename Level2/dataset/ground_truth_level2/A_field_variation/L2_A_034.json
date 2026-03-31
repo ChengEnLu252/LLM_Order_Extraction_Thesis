@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-6295",
+  "po_date": "2025-10-09",
+  "currency": "USD",
+  "total_amount": "7222.58",
+  "items": [
+    {
+      "part_number": "EV-100",
+      "quantity": 30,
+      "unit": "boxes",
+      "unit_price": "63.88",
+      "line_amount": "1916.40"
+    },
+    {
+      "part_number": "HM-830",
+      "quantity": 34,
+      "unit": "pcs",
+      "unit_price": "9.27",
+      "line_amount": "315.18"
+    },
+    {
+      "part_number": "EV-220",
+      "quantity": 5,
+      "unit": "pcs",
+      "unit_price": "38.14",
+      "line_amount": "190.70"
+    },
+    {
+      "part_number": "HM-940",
+      "quantity": 40,
+      "unit": "pcs",
+      "unit_price": "51.69",
+      "line_amount": "2067.60"
+    },
+    {
+      "part_number": "JQ-410",
+      "quantity": 30,
+      "unit": "boxes",
+      "unit_price": "91.09",
+      "line_amount": "2732.70"
+    }
+  ]
+}

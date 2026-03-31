@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-8322",
+  "po_date": "2024-09-06",
+  "currency": "EUR",
+  "total_amount": 7778.11,
+  "items": [
+    {
+      "part_number": "FT-725",
+      "quantity": 11,
+      "unit": "units",
+      "unit_price": 87.09,
+      "line_amount": 957.99
+    },
+    {
+      "part_number": "BK-220",
+      "quantity": 38,
+      "unit": "EA",
+      "unit_price": 41.67,
+      "line_amount": 1583.46
+    },
+    {
+      "part_number": "FT-512",
+      "quantity": 23,
+      "unit": "boxes",
+      "unit_price": 24.37,
+      "line_amount": 560.51
+    },
+    {
+      "part_number": "EV-830",
+      "quantity": 40,
+      "unit": "boxes",
+      "unit_price": 65.18,
+      "line_amount": 2607.2
+    },
+    {
+      "part_number": "HM-725",
+      "quantity": 39,
+      "unit": "EA",
+      "unit_price": 53.05,
+      "line_amount": 2068.95
+    }
+  ]
+}

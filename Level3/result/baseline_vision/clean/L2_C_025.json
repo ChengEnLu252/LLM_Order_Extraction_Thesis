@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-9841",
+  "po_date": "2025-04-10",
+  "currency": "USD",
+  "total_amount": 5531.93,
+  "items": [
+    {
+      "part_number": "EW-100",
+      "quantity": 28,
+      "unit": "pcs",
+      "unit_price": 27.46,
+      "line_amount": 768.88
+    },
+    {
+      "part_number": "CN-610",
+      "quantity": 35,
+      "unit": "boxes",
+      "unit_price": 81.9,
+      "line_amount": 2866.85
+    },
+    {
+      "part_number": "NW-830",
+      "quantity": 32,
+      "unit": "boxes",
+      "unit_price": 77.06,
+      "line_amount": 154.12
+    },
+    {
+      "part_number": "EW-6110",
+      "quantity": 2,
+      "unit": "pcs",
+      "unit_price": 54.4,
+      "line_amount": 108.8
+    }
+  ]
+}

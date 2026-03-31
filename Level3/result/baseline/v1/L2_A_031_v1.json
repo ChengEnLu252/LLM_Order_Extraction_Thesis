@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-4705",
+  "po_date": "2026-05-28",
+  "currency": "JPY",
+  "total_amount": 1502.36,
+  "items": [
+    {
+      "part_number": "EV-618",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 19.68,
+      "line_amount": 59.04
+    },
+    {
+      "part_number": "CN-725",
+      "quantity": 2,
+      "unit": "pcs",
+      "unit_price": 19.78,
+      "line_amount": 39.56
+    },
+    {
+      "part_number": "AX-220",
+      "quantity": 11,
+      "unit": "units",
+      "unit_price": 74.61,
+      "line_amount": 820.71
+    },
+    {
+      "part_number": "HM-618",
+      "quantity": 15,
+      "unit": "EA",
+      "unit_price": 38.87,
+      "line_amount": 583.05
+    }
+  ]
+}

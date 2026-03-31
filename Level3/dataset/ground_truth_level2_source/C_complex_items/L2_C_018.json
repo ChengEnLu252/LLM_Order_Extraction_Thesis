@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-7642",
+  "po_date": "2025-02-14",
+  "currency": "JPY",
+  "total_amount": "1564.98",
+  "items": [
+    {
+      "part_number": "IR-618",
+      "quantity": 37,
+      "unit": "boxes",
+      "unit_price": "29.88",
+      "line_amount": "1105.56"
+    },
+    {
+      "part_number": "DX-830",
+      "quantity": 19,
+      "unit": "sets",
+      "unit_price": "24.18",
+      "line_amount": "459.42"
+    }
+  ]
+}

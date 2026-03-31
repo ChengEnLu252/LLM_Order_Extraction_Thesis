@@ -1,0 +1,22 @@
+{
+  "po_number": "L2-2026-7743",
+  "po_date": "2024-07-01",
+  "currency": "USD",
+  "total_amount": 391.59,
+  "items": [
+    {
+      "part_number": "K-512",
+      "quantity": 16,
+      "unit": "pcs",
+      "unit_price": 82.01,
+      "line_amount": 1303.36
+    },
+    {
+      "part_number": "KX-220",
+      "quantity": 20,
+      "unit": "EA",
+      "unit_price": 98.12,
+      "line_amount": 1964.6
+    }
+  ]
+}

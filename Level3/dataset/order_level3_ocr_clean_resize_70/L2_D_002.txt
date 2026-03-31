@@ -1,0 +1,31 @@
+Purchase Order
+Document ID: L2_D_002
+Category: D
+Purchase Order No.:PO-2025-5011
+Date:16/12/2024
+Billing Currency:USD
+Supplier: AuroraLink Systems極光連結系統
+Buyer: Stonepath Industrial石徑工業
+Ship To: 18 North Avenue, West District
+Contact Person: Daniel Brooks / 陳志宏
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-HM-100
+Qty 5 pcs | Price 14.75 | Amount 73.75
+-
+GX-725
+Qty 26 EA | Price 7.27 | Amount 189.02
+-HM-618
+Qty 40 boxes Price 89.35 Amount 3574.00
+-IR-220
+Qty 23 sets | Price 82.11 | Amount 1888.53
+-HM-220
+Qty38 setsPrice 14.92 Amount 566.96
+Subtotal:6292.26
+Tax:314.61
+Shipping Fee: 26.22
+Final Payable Amount: 6633.09
+PaymentTerms:30%advance，70%beforeshipment（30。预付，70%出貨前付清）
+Shipping Terms: DAP Customer Site(目的地交货）
+Remark: Partial shipment is not allowed unless approved.未經同意不得分批出貨。

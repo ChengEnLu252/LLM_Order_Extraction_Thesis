@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-5922",
+  "po_date": "2025-10-18",
+  "currency": "JPY",
+  "total_amount": "5969.30",
+  "items": [
+    {
+      "part_number": "FT-512",
+      "quantity": 13,
+      "unit": "sets",
+      "unit_price": "96.53",
+      "line_amount": "1254.89"
+    },
+    {
+      "part_number": "FT-725",
+      "quantity": 38,
+      "unit": "boxes",
+      "unit_price": "78.63",
+      "line_amount": "2987.94"
+    },
+    {
+      "part_number": "JQ-410",
+      "quantity": 27,
+      "unit": "units",
+      "unit_price": "37.77",
+      "line_amount": "1019.79"
+    },
+    {
+      "part_number": "IR-100",
+      "quantity": 36,
+      "unit": "sets",
+      "unit_price": "19.63",
+      "line_amount": "706.68"
+    }
+  ]
+}

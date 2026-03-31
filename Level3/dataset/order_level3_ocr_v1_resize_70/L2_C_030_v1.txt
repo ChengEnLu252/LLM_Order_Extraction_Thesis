@@ -1,0 +1,16 @@
+Purchase Order
+Document ID: L2_C_030
+Category: C
+PO Number:PO-2025-9873
+PODate:2026-01-21
+Currency:EUR
+Supplier:NorthstarComponentsLtd.北辰元件有限公司
+Ordered Items:
+1)FT-410 / 3boxes / 62.73 / 188.19
+2)IR-725 / 6EA / 66.51 / 399.06
+3) Part No: IR-305
+Qty:35 units
+Unit Price:68.96
+Amount:2413.60
+Grand Total:3000.85
+Remark: Partial shipment is not allowed unless approved.未經同意不得分批出货。

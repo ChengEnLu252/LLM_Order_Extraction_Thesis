@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-1533",
+  "po_date": "2026-10-26",
+  "currency": "EUR",
+  "total_amount": 3437,
+  "items": [
+    {
+      "part_number": "RM-618",
+      "quantity": 9,
+      "unit": "boxes",
+      "unit_price": 63.37,
+      "line_amount": 633.37
+    },
+    {
+      "part_number": "GX-320",
+      "quantity": 2,
+      "unit": "boxes",
+      "unit_price": 62.06,
+      "line_amount": 124.12
+    },
+    {
+      "part_number": "XJ-305",
+      "quantity": 26,
+      "unit": "units",
+      "unit_price": 62.05,
+      "line_amount": 1615.25
+    },
+    {
+      "part_number": "RM-618",
+      "quantity": 18,
+      "unit": "boxes",
+      "unit_price": 25.24,
+      "line_amount": 454.32
+    },
+    {
+      "part_number": "RM-618",
+      "quantity": 13,
+      "unit": "boxes",
+      "unit_price": 50.88,
+      "line_amount": 661.44
+    }
+  ]
+}

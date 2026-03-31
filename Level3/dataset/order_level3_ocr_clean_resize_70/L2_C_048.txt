@@ -1,0 +1,18 @@
+Purchase Order
+Document ID: L2_C_048
+Category: C
+PONumber:PO-2025-2932
+PO Date:02/28/2025
+Currency: JPY
+Supplier: NovaCircuit Solutions 新曜電路方案
+Ordered Items:
+1) Part No: DX-100
+Qty:23 EA
+Unit Price: 36.27
+Amount: 834.21
+2) Part No: BK-52
+Qty: 20 boxes
+Unit Price: 26.93
+Amount: 538.60
+Grand Total:1372.81
+Remark: Please include inspection report with shipment.出貨時請附檢驗報告。

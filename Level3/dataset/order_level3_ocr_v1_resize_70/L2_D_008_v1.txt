@@ -1,0 +1,36 @@
+Purchase Order
+Document ID: L2_D_008
+Category: D
+Purchase Order No.:PO-2026-8687
+Date:11/09/2025
+Billing Currency: EUR
+Supplier：Ironcrest Materials鐵冠材料有限公司
+Buyer:PolarEdge Manufacturing極鋒製造
+Ship To: 18 North Avenue, West District
+Contact Person:Melissa Turner/王美玲
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-JQ-512
+Qty 12 units
+Price 5.46
+Amount 65.52
+-
+HM-305
+Qty 18 units
+Price 8.02
+Amount 144.36
+-EV-100
+Qty 5 boxes | Price 66.32
+Amount 331.60
+-IR-220
+Qty  33  boxes  | Price  10.09
+Amount 332.97
+Subtotal:874.45
+Tax:43.72
+Shipping Fee:29.27
+Final Payable Amount: 947.44
+Payment Terms:Net45days(45天付款）
+Shipping Terms:EXwWarehouse（工廠交貨）
+Remark: Partial shipment is not allowed unless approved.未經同意不得分批出货。
+al

@@ -1,0 +1,28 @@
+Purchase Order
+Document ID: L2_E_048
+Category: E
+Supplier:OrbitLine Distribution軌域配銷有限公司
+Buyer：Allied Nexus Purchasing聯合採購中心
+Kindly proceed with the following mixed-format order details.
+P.O.N0.:PO-2024-6452
+The requested materials are summarized below in mixed item formats.
+1.Product Code: GX-940
+Units Ordered: 26 sets
+Item Price:91.20
+Amount:2371.20
+2.Product Code:BK-512
+Units Ordered: 16 pcs
+ItemPrice:23.91
+Amount:382.56
+3.JQ-410 / ordered quantity 9pcs / rate 10.74 / line total 96.66
+4.Qty 38 units of FT-725 at 38.04 each, total 1445.52
+Additional Information:
+Issued On:2025-04-03
+The agreed payment condition is Payment due upon receipt(收貨後付款).
+Delivery arrangement follows FOB Origin(離岸交货）.
+All prices are quoted in JPY.
+Subtotal:4295.94
+Discount: 19.70
+Handling Fee: 6.84
+FinalAmount：4283.08
+Remark:Please confirm delivery schedule before shipment.出貨前請先確認交期。

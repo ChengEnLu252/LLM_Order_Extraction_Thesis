@@ -1,0 +1,17 @@
+
+Subject: PO-2026-0017
+
+Hi,
+
+Please process this order.
+
+Buyer: 華宇半導體
+Supplier: 宏達電子有限公司
+Date: December 01, 2024
+
+Items:
+1. Type-C 連接器 24Pin (TC-24P-001) 數量: 221 PCS 單價: 152.74 小計: 33755.54
+2. Type-C 連接器 24Pin (TC-24P-001) 數量: 758 個 單價: 191.25 小計: 144967.5
+
+
+Total Amount: 178723.04 USD

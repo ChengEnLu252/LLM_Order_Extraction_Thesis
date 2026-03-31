@@ -1,0 +1,17 @@
+Purchase Order
+Document ID: L2_B_017
+Category: B
+Please arrange the following materials for our upcoming production schedule.
+Supplier information: AuroraLink Systems極光連结系統
+For tracking purposes, please use order reference PO-2025-8501.
+Requested by:Allied Nexus Purchasing聯合採購中心
+Ordered Materials:
+1. EV-220, quantity 22 EA, unit price 13.55, amount 298.10
+2.Part IR-725 / Qty 25 sets / Unit Price 69.96 / Amount 1749.00
+3.Part GX-725 / Qty 40 EA / Unit Price 15.51 / Amount 620.40
+PaymentTerms:Net45days(45天付款)
+The issuance date for this order is December 19, 2024.
+Shipping arrangementfollowsCIF Destination（成本保險加運费）
+All prices are stated in JPY.
+Final payable amount: 2667.50
+Additional note:All goods must match approved specifications.所有貨品须符合核准规格。

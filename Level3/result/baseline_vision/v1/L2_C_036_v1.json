@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-4245",
+  "po_date": "2026-09-26",
+  "currency": "EUR",
+  "total_amount": 740.63,
+  "items": [
+    {
+      "part_number": "GX-618",
+      "quantity": 7,
+      "unit": "units",
+      "unit_price": 9.02,
+      "line_amount": 63.14
+    },
+    {
+      "part_number": "GX-725",
+      "quantity": 7,
+      "unit": "boxes",
+      "unit_price": 20.67,
+      "line_amount": 496.08
+    }
+  ]
+}

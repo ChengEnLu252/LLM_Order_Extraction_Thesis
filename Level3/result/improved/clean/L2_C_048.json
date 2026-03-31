@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-2932",
+  "po_date": "2025-02-28",
+  "currency": "JPY",
+  "total_amount": 1372.81,
+  "items": [
+    {
+      "part_number": "DX-100",
+      "quantity": 23,
+      "unit": "EA",
+      "unit_price": 36.27,
+      "line_amount": 834.21
+    },
+    {
+      "part_number": "BK-52",
+      "quantity": 20,
+      "unit": "boxes",
+      "unit_price": 26.93,
+      "line_amount": 538.6
+    }
+  ]
+}

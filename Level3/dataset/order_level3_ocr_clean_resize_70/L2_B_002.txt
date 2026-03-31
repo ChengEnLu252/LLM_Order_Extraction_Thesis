@@ -1,0 +1,16 @@
+Purchase Order
+Document ID: L2_B_002
+Category: B
+Please arrange the following materials for our upcoming production schedule.
+Supplier information: Prime Harbor Manufacturing 鼎港製造
+This request should be recorded under reference number PO-2026-2341.
+Requested by: Stonepath Industrial石径工業
+Ordered Materials:
+1. IR-940, quantity 38 EA, unit price 13.00, amount 494.00
+2. CN-618,quantity 38 units, unit price 54.59, amount 2074.42
+Payment Terms:Net30days(3o天付款）
+This order was issued on 12 Dec 2026.
+Shipping arrangement follows CIF Destination(成本保險加運费）
+Please process all item prices in EUR.
+Settlement total: 2568.42
+Additional note:All goods must match approved specifications.所有貨品须符合核准规格。

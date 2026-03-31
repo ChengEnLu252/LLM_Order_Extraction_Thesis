@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-9780",
+  "po_date": "2026-01-03",
+  "currency": "USD",
+  "total_amount": 5696.92,
+  "items": [
+    {
+      "part_number": "BK-305",
+      "quantity": 18,
+      "unit": "boxes",
+      "unit_price": 85.54,
+      "line_amount": 1539.2
+    },
+    {
+      "part_number": "FT-305",
+      "quantity": 40,
+      "unit": "pcs",
+      "unit_price": 5.95,
+      "line_amount": 238.0
+    },
+    {
+      "part_number": "GX-940",
+      "quantity": 17,
+      "unit": "pcs",
+      "unit_price": 96.9,
+      "line_amount": 1647.3
+    },
+    {
+      "part_number": "CN-100",
+      "quantity": 21,
+      "unit": "sets",
+      "unit_price": 27.5,
+      "line_amount": 577.5
+    },
+    {
+      "part_number": "IR-410",
+      "quantity": 30,
+      "unit": "pcs",
+      "unit_price": 56.48,
+      "line_amount": 1694.4
+    }
+  ]
+}

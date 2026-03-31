@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-6432",
+  "po_date": "2022-09-09",
+  "currency": "EUR",
+  "total_amount": 4906.36,
+  "items": [
+    {
+      "part_number": "CM-220",
+      "quantity": 33,
+      "unit": "boxes",
+      "unit_price": 56.06,
+      "line_amount": 1849.98
+    },
+    {
+      "part_number": "DK-512",
+      "quantity": 10,
+      "unit": "pcs",
+      "unit_price": 89.3,
+      "line_amount": 893.5
+    },
+    {
+      "part_number": "6 units",
+      "quantity": null,
+      "unit": null,
+      "unit_price": 89,
+      "line_amount": 536.8
+    },
+    {
+      "part_number": "10-410",
+      "quantity": 39,
+      "unit": null,
+      "unit_price": 41.7,
+      "line_amount": 1626.3
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-1187",
+  "po_date": "2023-06-19",
+  "currency": "JPY",
+  "total_amount": 1891.14,
+  "items": [
+    {
+      "part_number": "CL-75",
+      "quantity": 9,
+      "unit": null,
+      "unit_price": 47.61,
+      "line_amount": 428.49
+    },
+    {
+      "part_number": "EV-61",
+      "quantity": 21,
+      "unit": null,
+      "unit_price": 69.65,
+      "line_amount": 1462.65
+    }
+  ]
+}

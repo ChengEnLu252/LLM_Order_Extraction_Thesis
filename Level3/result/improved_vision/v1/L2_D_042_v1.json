@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2027-7189",
+  "po_date": "2023-12-23",
+  "currency": "EUR",
+  "total_amount": 401.35,
+  "items": [
+    {
+      "part_number": "F-P-618",
+      "quantity": 39,
+      "unit": "units",
+      "unit_price": 250.38,
+      "line_amount": 250.38
+    },
+    {
+      "part_number": "F-P-725",
+      "quantity": 3,
+      "unit": "units",
+      "unit_price": 76.99,
+      "line_amount": 230.97
+    }
+  ]
+}

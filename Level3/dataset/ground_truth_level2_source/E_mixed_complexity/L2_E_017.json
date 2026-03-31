@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-7694",
+  "po_date": "2024-08-13",
+  "currency": "USD",
+  "total_amount": "1247.31",
+  "items": [
+    {
+      "part_number": "FT-512",
+      "quantity": 35,
+      "unit": "boxes",
+      "unit_price": "17.02",
+      "line_amount": "595.70"
+    },
+    {
+      "part_number": "AX-305",
+      "quantity": 21,
+      "unit": "EA",
+      "unit_price": "30.81",
+      "line_amount": "647.01"
+    }
+  ]
+}

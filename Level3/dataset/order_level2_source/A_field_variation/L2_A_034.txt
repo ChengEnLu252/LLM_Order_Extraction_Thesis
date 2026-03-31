@@ -1,0 +1,15 @@
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: Allied Nexus Purchasing 聯合採購中心
+PO Number: PO-2026-6295
+Date Issued: 09 Oct 2025
+Currency: USD
+
+Model No.       Quantity     Unit       Price/Unit      Total Price    
+EV-100          30           boxes      63.88           1916.40        
+HM-830          34           pcs        9.27            315.18         
+EV-220          5            pcs        38.14           190.70         
+HM-940          40           pcs        51.69           2067.60        
+JQ-410          30           boxes      91.09           2732.70        
+
+Total Amount: 7222.58
+Remarks: Please include inspection report with shipment. 出貨時請附檢驗報告。

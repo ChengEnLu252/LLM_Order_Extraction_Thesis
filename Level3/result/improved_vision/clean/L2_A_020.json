@@ -1,0 +1,29 @@
+{
+  "po_number": "Po-2024-3870",
+  "po_date": "2022-08-21",
+  "currency": "JPY",
+  "total_amount": 3726.38,
+  "items": [
+    {
+      "part_number": "HM-220",
+      "quantity": 39,
+      "unit": "sets",
+      "unit_price": 44.72,
+      "line_amount": 1744.08
+    },
+    {
+      "part_number": "FM-220",
+      "quantity": 24,
+      "unit": "EA",
+      "unit_price": 42.02,
+      "line_amount": 1008.48
+    },
+    {
+      "part_number": "HM-512",
+      "quantity": 23,
+      "unit": "sets",
+      "unit_price": 42.34,
+      "line_amount": 973.82
+    }
+  ]
+}

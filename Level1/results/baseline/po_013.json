@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-0013",
+  "po_date": "2025-05-13",
+  "currency": "TWD",
+  "total_amount": 35716.65,
+  "items": [
+    {
+      "part_number": "SSD-1TB-X",
+      "quantity": 204,
+      "unit": "PCS",
+      "unit_price": 167.4,
+      "line_amount": 34149.6
+    },
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 155,
+      "unit": "條",
+      "unit_price": 10.11,
+      "line_amount": 1567.05
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-0025",
+  "po_date": "2025-04-06",
+  "currency": "TWD",
+  "total_amount": 59813.12,
+  "items": [
+    {
+      "part_number": "SSD-1TB-X",
+      "quantity": 608,
+      "unit": "條",
+      "unit_price": 12.05,
+      "line_amount": 7326.4
+    },
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 296,
+      "unit": "顆",
+      "unit_price": 177.32,
+      "line_amount": 52486.72
+    }
+  ]
+}

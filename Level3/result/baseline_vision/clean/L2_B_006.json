@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-5398",
+  "po_date": "2026-02-11",
+  "currency": "JPY",
+  "total_amount": 1851.08,
+  "items": [
+    {
+      "part_number": "JQ-940",
+      "quantity": 14,
+      "unit": "EA",
+      "unit_price": 80.86,
+      "line_amount": 1132.04
+    },
+    {
+      "part_number": "FZ-512",
+      "quantity": 32,
+      "unit": "EA",
+      "unit_price": 22.47,
+      "line_amount": 719.04
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-7636",
+  "po_date": "2024-02-12",
+  "currency": "EUR",
+  "total_amount": 2953.29,
+  "items": [
+    {
+      "part_number": "BK-410",
+      "quantity": 7,
+      "unit": "sets",
+      "unit_price": 44.8,
+      "line_amount": 313.6
+    },
+    {
+      "part_number": "BK-725",
+      "quantity": 39,
+      "unit": "boxes",
+      "unit_price": 41.24,
+      "line_amount": 1608.36
+    },
+    {
+      "part_number": "CN-220",
+      "quantity": 23,
+      "unit": "units",
+      "unit_price": 23.71,
+      "line_amount": 545.33
+    },
+    {
+      "part_number": "DX-618",
+      "quantity": 9,
+      "unit": "boxes",
+      "unit_price": 54.0,
+      "line_amount": 486.0
+    }
+  ]
+}

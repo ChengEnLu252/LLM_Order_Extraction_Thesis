@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-4387",
+  "po_date": "2026-11-26",
+  "currency": "EUR",
+  "total_amount": "3425.49",
+  "items": [
+    {
+      "part_number": "FT-220",
+      "quantity": 4,
+      "unit": "units",
+      "unit_price": "5.91",
+      "line_amount": "23.64"
+    },
+    {
+      "part_number": "EV-940",
+      "quantity": 19,
+      "unit": "units",
+      "unit_price": "83.82",
+      "line_amount": "1592.58"
+    },
+    {
+      "part_number": "GX-618",
+      "quantity": 13,
+      "unit": "units",
+      "unit_price": "38.91",
+      "line_amount": "505.83"
+    },
+    {
+      "part_number": "GX-410",
+      "quantity": 6,
+      "unit": "units",
+      "unit_price": "52.63",
+      "line_amount": "315.78"
+    },
+    {
+      "part_number": "FT-830",
+      "quantity": 27,
+      "unit": "sets",
+      "unit_price": "36.58",
+      "line_amount": "987.66"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+Purchase Order No.: PO-2026-3784
+Date: 15 Apr 2025
+Billing Currency: USD
+Supplier: NovaCircuit Solutions 新曜電路方案
+Buyer: LumenTrail Procurement 光徑採購
+
+Ship To: 18 North Avenue, West District
+Contact Person: Ivy Chen / 陳怡君
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- HM-512 | Qty 39 pcs | Price 48.40 | Amount 1887.60
+- DX-410 | Qty 29 boxes | Price 74.15 | Amount 2150.35
+- JQ-305 | Qty 29 units | Price 58.79 | Amount 1704.91
+
+Subtotal: 5742.86
+Tax: 287.14
+Shipping Fee: 12.80
+Final Payable Amount: 6042.80
+Payment Terms: 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）
+Shipping Terms: FOB Origin（離岸交貨）
+Remark: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

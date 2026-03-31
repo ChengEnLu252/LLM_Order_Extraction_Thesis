@@ -1,0 +1,24 @@
+Supplier: AuroraLink Systems 極光連結系統
+Buyer: LumenTrail Procurement 光徑採購
+
+Please review and process the following procurement request.
+PO Number: PO-2024-2103
+
+The requested items are listed below.
+
+1. Product Code: JQ-305
+   Units Ordered: 36 boxes
+   Item Price: 79.54
+   Amount: 2863.44
+2. GX-305 / ordered quantity 8boxes / rate 60.79 / line total 486.32
+
+Additional Information:
+Date: 23/03/2025
+Payment Terms: Payment due upon receipt（收貨後付款）
+Shipping Terms: DAP Customer Site（目的地交貨）
+All prices are quoted in EUR.
+Subtotal: 3349.76
+Discount: 18.68
+Handling Fee: 8.39
+Final Amount: 3339.47
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

@@ -1,0 +1,30 @@
+Purchase Order
+DocumentID:L2_D_032
+Category: D
+Purchase Order No.:PO-2026-8144
+Date: June 12, 2025
+Billing Currency:JPY
+Supplier:CedarStoneImports雪松石進出口
+Buyer：Allied Nexus Purchasing聯合採購中心
+Ship To: 18 North Avenue, West District
+Contact Person:Daniel Brooks/陈志宏
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-AX-512
+Qty 34 EA| Price 73.83 | Amount 2510.22
+-
+FT-830
+Qty 39 EA j Price 7.73 | Amount 301.47
+-
+EV-618
+Qty 24 sets | Price 18.00 | Amount 432.00
+-EV-940
+Qty24 pcs | Price 6.77 | Amount 162.48
+Subtotal:3406.17
+Tax:170.31
+Shipping Fee: 63.53
+Final Payable Amount:3640.01
+PaymentTerms:Net45days（45天付款）
+ShippingTerms:CIFDestination（成本保險加運费）
+Remark: Please include inspection report with shipment.出貨時請附檢驗報告。

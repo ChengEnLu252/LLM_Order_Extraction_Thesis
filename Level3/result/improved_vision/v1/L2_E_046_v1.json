@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-7074",
+  "po_date": "2023-12-03",
+  "currency": "EUR",
+  "total_amount": 3149.55,
+  "items": [
+    {
+      "part_number": "FT-616",
+      "quantity": 2,
+      "unit": "pcs",
+      "unit_price": 61.86,
+      "line_amount": 1608.36
+    },
+    {
+      "part_number": "GX-305",
+      "quantity": 2,
+      "unit": "pcs",
+      "unit_price": 46.78,
+      "line_amount": 93.56
+    },
+    {
+      "part_number": "ordered quantity",
+      "quantity": 14,
+      "unit": "EA",
+      "unit_price": 40.4,
+      "line_amount": 561.6
+    },
+    {
+      "part_number": "W-940",
+      "quantity": 25,
+      "unit": "sets",
+      "unit_price": 23.29,
+      "line_amount": 581.25
+    },
+    {
+      "part_number": "FT-100",
+      "quantity": 10,
+      "unit": "boxes",
+      "unit_price": 32.34,
+      "line_amount": 323.4
+    }
+  ]
+}

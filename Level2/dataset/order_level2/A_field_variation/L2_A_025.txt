@@ -1,0 +1,12 @@
+Supplier: NovaCircuit Solutions 新曜電路方案
+Buyer: PolarEdge Manufacturing 極鋒製造
+Order ID: PO-2026-5847
+Date Issued: 27 Aug 2025
+Curr.: USD
+
+Part No.        Quantity     Measure    Item Price      Line Total     
+AX-830          38           boxes      86.78           3297.64        
+FT-410          16           EA         61.49           983.84         
+
+Grand Total: 4281.48
+Remarks: Please include inspection report with shipment. 出貨時請附檢驗報告。

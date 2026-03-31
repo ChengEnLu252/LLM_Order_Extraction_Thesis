@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-7470",
+  "po_date": "2024-08-26",
+  "currency": "USD",
+  "total_amount": 6211.11,
+  "items": [
+    {
+      "part_number": "JQ-830",
+      "quantity": 27,
+      "unit": "boxes",
+      "unit_price": 87.14,
+      "line_amount": 2352.78
+    },
+    {
+      "part_number": "GX-512",
+      "quantity": 25,
+      "unit": "pcs",
+      "unit_price": 69.68,
+      "line_amount": 1742.0
+    },
+    {
+      "part_number": "DX-220",
+      "quantity": 10,
+      "unit": "pcs",
+      "unit_price": 15.24,
+      "line_amount": 152.4
+    },
+    {
+      "part_number": "Dx-830",
+      "quantity": 14,
+      "unit": "EA",
+      "unit_price": 86.18,
+      "line_amount": 1206.52
+    },
+    {
+      "part_number": "IR-410",
+      "quantity": 17,
+      "unit": "pcs",
+      "unit_price": 44.71,
+      "line_amount": 760.07
+    }
+  ]
+}

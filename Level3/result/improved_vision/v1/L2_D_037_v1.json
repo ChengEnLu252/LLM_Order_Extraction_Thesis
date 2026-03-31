@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-2758",
+  "po_date": "2025-01-05",
+  "currency": "EUR",
+  "total_amount": 2502.93,
+  "items": [
+    {
+      "part_number": "ER-618",
+      "quantity": 34,
+      "unit": "pcs",
+      "unit_price": 12.81,
+      "line_amount": 436.54
+    },
+    {
+      "part_number": "CN-830",
+      "quantity": 31,
+      "unit": "pcs",
+      "unit_price": 12.11,
+      "line_amount": 397.11
+    },
+    {
+      "part_number": "AX-220",
+      "quantity": 20,
+      "unit": "pcs",
+      "unit_price": 56.6,
+      "line_amount": 1132.0
+    }
+  ]
+}

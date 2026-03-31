@@ -1,0 +1,15 @@
+{
+  "po_number": "PO-2026-0034",
+  "po_date": "2025-07-20",
+  "currency": "USD",
+  "total_amount": 67749.25,
+  "items": [
+    {
+      "part_number": "HDMI-21-2M",
+      "quantity": 425,
+      "unit": "顆",
+      "unit_price": 159.41,
+      "line_amount": 67749.25
+    }
+  ]
+}

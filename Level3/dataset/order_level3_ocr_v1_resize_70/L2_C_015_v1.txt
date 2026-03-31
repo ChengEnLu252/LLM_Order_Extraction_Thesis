@@ -1,0 +1,14 @@
+Purchase Order
+Document ID: L2_C_015
+Category: C
+PONumber:PO-2024-9680
+PODate:05/28/2026
+Currency:USD
+Supplier:CedarStoneImports雪松石進出口
+Ordered Items:
+1)Part:JQ-220 |Qty:39 sets |Price:80.85 |Amount:3153.15
+2) Item DX-220,ordered quantity 10 boxes, unit price 26.94, total 269.40
+3)GX-512 / 40EA / 87.92 / 3516.80
+4)Part:AX-940Qty:2pcs |Price:71.50 | Amount:143.00
+Grand Total:7082.35
+Remark:Please include inspection report withshipment.出貨時請附檢驗報告。

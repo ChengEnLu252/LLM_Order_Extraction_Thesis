@@ -1,0 +1,18 @@
+{
+  "doc_id": "L2_E_009",
+  "level": "level2",
+  "category": "E",
+  "category_name": "mixed_complexity",
+  "difficulty": "medium",
+  "complexity_type": [
+    "field_variation",
+    "scattered_fields",
+    "complex_items",
+    "noise_information"
+  ],
+  "item_count": 5,
+  "currency": "USD",
+  "language_style": "bilingual",
+  "target_total_source": "computed_final_amount",
+  "generator_version": "v1"
+}

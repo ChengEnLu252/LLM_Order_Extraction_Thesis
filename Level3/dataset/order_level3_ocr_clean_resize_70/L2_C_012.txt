@@ -1,0 +1,27 @@
+Purchase Order
+Document ID: L2_C_012
+Category: C
+PO Number: PO-2024-4387
+PO Date:26/11/2026
+Currency: EUR
+Supplier: NovaCircuit Solutions新曜電路方案
+Ordered Items:
+1)FT-220 / 4 units / 5.91/ 23.64
+2) Part No: EV-940
+Qty: 19 units
+Unit Price: 83.82
+Amount: 1592.58
+3) Part No: GX-618
+Qty: 13 units
+Unit Price:38.91
+Amount:505.83
+4) Part No: GX-410
+Qty: 6 units
+Unit Price:52.63
+Amount:315.78
+5) Part No: FT-830
+Qty: 27 sets
+Unit Price: 36.58
+Amount:987.66
+Grand Total:3425.49
+Remark: Please include inspection report with shipment.出貨時請附檢驗報告。

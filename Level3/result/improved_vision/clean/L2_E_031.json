@@ -1,0 +1,29 @@
+{
+  "po_number": "FO-2025-3575",
+  "po_date": "2026-05-02",
+  "currency": "EUR",
+  "total_amount": 1881.07,
+  "items": [
+    {
+      "part_number": "Part1-IR-618",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 30.91,
+      "line_amount": 216.37
+    },
+    {
+      "part_number": "TR-618",
+      "quantity": 3,
+      "unit": "sets",
+      "unit_price": 6.0,
+      "line_amount": 235.17
+    },
+    {
+      "part_number": "Part3-GX-618",
+      "quantity": 30,
+      "unit": "sets",
+      "unit_price": 47.82,
+      "line_amount": 1434.6
+    }
+  ]
+}

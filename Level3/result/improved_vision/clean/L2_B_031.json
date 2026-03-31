@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-9173",
+  "po_date": "2022-04-23",
+  "currency": "JPY",
+  "total_amount": 1836.03,
+  "items": [
+    {
+      "part_number": "GX-410",
+      "quantity": 19,
+      "unit": "units",
+      "unit_price": 39.54,
+      "line_amount": 751.26
+    },
+    {
+      "part_number": "IR-100",
+      "quantity": 17,
+      "unit": "sets",
+      "unit_price": 63.81,
+      "line_amount": 1084.77
+    }
+  ]
+}

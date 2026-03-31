@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-8283",
+  "po_date": "2024-01-20",
+  "currency": "USD",
+  "total_amount": 600.14,
+  "items": [
+    {
+      "part_number": "L2-2_023",
+      "quantity": 18,
+      "unit": "boxes",
+      "unit_price": 10.82,
+      "line_amount": 151.48
+    },
+    {
+      "part_number": "Ref-100",
+      "quantity": 1,
+      "unit": "boxes",
+      "unit_price": 98.95,
+      "line_amount": 98.95
+    },
+    {
+      "part_number": "J-010",
+      "quantity": 33,
+      "unit": "pcs",
+      "unit_price": 96.64,
+      "line_amount": 2991.12
+    },
+    {
+      "part_number": "CX-220",
+      "quantity": 14,
+      "unit": "boxes",
+      "unit_price": 96.46,
+      "line_amount": 1350.44
+    }
+  ]
+}

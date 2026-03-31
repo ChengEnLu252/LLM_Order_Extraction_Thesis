@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-5402",
+  "po_date": "2026-04-28",
+  "currency": null,
+  "total_amount": 2542.62,
+  "items": [
+    {
+      "part_number": "EV-618",
+      "quantity": 27,
+      "unit": "sets",
+      "unit_price": 52.53,
+      "line_amount": 1418.31
+    },
+    {
+      "part_number": "AX-220",
+      "quantity": 33,
+      "unit": "sets",
+      "unit_price": 34.07,
+      "line_amount": 1124.31
+    }
+  ]
+}

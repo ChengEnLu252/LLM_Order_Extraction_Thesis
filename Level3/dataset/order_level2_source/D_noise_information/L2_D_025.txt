@@ -1,0 +1,22 @@
+Purchase Order No.: PO-2024-2313
+Date: 11 Mar 2026
+Billing Currency: USD
+Supplier: AuroraLink Systems 極光連結系統
+Buyer: Allied Nexus Purchasing 聯合採購中心
+
+Ship To: 18 North Avenue, West District
+Contact Person: Melissa Turner / 王美玲
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- CN-830 | Qty 12 EA | Price 29.04 | Amount 348.48
+- AX-512 | Qty 15 sets | Price 53.03 | Amount 795.45
+
+Subtotal: 1143.93
+Tax: 57.20
+Shipping Fee: 34.27
+Final Payable Amount: 1235.40
+Payment Terms: Net 45 days（45天付款）
+Shipping Terms: DAP Customer Site（目的地交貨）
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

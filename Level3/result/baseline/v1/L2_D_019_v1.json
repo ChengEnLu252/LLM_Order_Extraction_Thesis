@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-5118",
+  "po_date": "2025-11-15",
+  "currency": "JPY",
+  "total_amount": 2328.01,
+  "items": [
+    {
+      "part_number": "CN-305",
+      "quantity": 5,
+      "unit": "pcs",
+      "unit_price": 92.64,
+      "line_amount": 463.2
+    },
+    {
+      "part_number": "BK-410",
+      "quantity": 33,
+      "unit": "sets",
+      "unit_price": 52.46,
+      "line_amount": 1731.18
+    }
+  ]
+}

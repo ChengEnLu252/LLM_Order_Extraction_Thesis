@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-2056",
+  "po_date": "2025-02-08",
+  "currency": "JPY",
+  "total_amount": 2011.33,
+  "items": [
+    {
+      "part_number": "HM-100",
+      "quantity": 23,
+      "unit": "EA",
+      "unit_price": 14.01,
+      "line_amount": 322.23
+    },
+    {
+      "part_number": "GX-830",
+      "quantity": 38,
+      "unit": "pcs",
+      "unit_price": 44.45,
+      "line_amount": 1689.1
+    }
+  ]
+}

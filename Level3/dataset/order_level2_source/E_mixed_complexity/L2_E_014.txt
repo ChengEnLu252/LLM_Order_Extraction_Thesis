@@ -1,0 +1,26 @@
+Supplier: NovaCircuit Solutions 新曜電路方案
+Buyer: LumenTrail Procurement 光徑採購
+
+Please process the following materials based on our current procurement request.
+PO Number: PO-2024-3260
+
+Please note that the requested items are presented in different line formats below.
+
+1. Qty 3 pcs of AX-940 at 45.37 each, total 136.11
+2. Qty 7 sets of GX-305 at 35.15 each, total 246.05
+3. Product Code: AX-305
+   Units Ordered: 5 units
+   Item Price: 40.54
+   Amount: 202.70
+4. Qty 5 sets of IR-512 at 97.82 each, total 489.10
+
+Additional Information:
+Date Issued: 05/28/2026
+Payment for this order shall follow Payment due upon receipt（收貨後付款）.
+Shipping arrangement will follow EXW Warehouse（工廠交貨）.
+All prices are quoted in EUR.
+Subtotal: 1073.96
+Discount: 18.50
+Handling Fee: 10.32
+Final Amount: 1065.78
+Remark: All goods must match approved specifications. 所有貨品須符合核准規格。

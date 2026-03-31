@@ -1,0 +1,22 @@
+Purchase Order
+Document ID: L2_D_043
+Category: D
+Purchase Order No.:PO-2024-6113
+Date:06/22/2024
+Billing Currency: JPY
+Supplier: BluePeak Industrial Supply 藍峰工業供應
+Buyer: PolarEdge Manufacturing 極鋒製造
+Ship To: 18 North Avenue, West District
+Contact Person: Kevin Huang /黄建凯
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-IR-618| Qty 23 pcs  Price 18.64 | Amount 428.72
+- GX-940 | Qty 31 sets | Price 66.46 | Amount 2060.26
+Subtotal:2488.98
+Tax:124.45
+Shipping Fee: 51.16
+Final Payable Amount: 2664.59
+PaymentTerms:Net30days(3o天付款）
+Shipping Terms: DAP Customer Site(目的地交货)
+Remark: Partial shipment is not allowed unless approved.未经同意不得分批出货。

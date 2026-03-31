@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-6233",
+  "po_date": "2022-10-13",
+  "currency": "EUR",
+  "total_amount": 4363.95,
+  "items": [
+    {
+      "part_number": "IW-410",
+      "quantity": 39,
+      "unit": null,
+      "unit_price": 27.78,
+      "line_amount": 1084.56
+    },
+    {
+      "part_number": "GX-725",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 38.12,
+      "line_amount": 76.24
+    },
+    {
+      "part_number": "AX-940",
+      "quantity": 16,
+      "unit": null,
+      "unit_price": 4.03,
+      "line_amount": 64.48
+    }
+  ]
+}

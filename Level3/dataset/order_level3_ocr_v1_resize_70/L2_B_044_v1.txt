@@ -1,0 +1,17 @@
+Purchase Order
+Document ID: L2_B_044
+Category: B
+Supplier:NovaCircuit Solutions新曜電路方案
+Buyer: Summit Valley Electronics峰谷電子
+Please prepare the materials listed below for the next production batch.
+The official reference for this order is Po-2026-7253.
+Item List:
+1.Part:FT-725|Qty:10 units |Price:99.25 | Amount:992.50
+2.CN-220,quantity 31 sets,unit price 16.04,amount 497.24
+3.CN-618,quantity 23 pcs,unit price 63.84,amount 1468.32
+Please note that the order date is 21/12/2026.
+The transaction currency for this order is EUR.
+PaymentTerms:30%advance，70%beforeshipment（30%预付，70%出货前付清）
+ShippingTerms:EXwWarehouse（工廠交货）
+Final payable amount: 2958.06
+Remark: Please confirm delivery schedule before shipment.出貨前請先確認交期。

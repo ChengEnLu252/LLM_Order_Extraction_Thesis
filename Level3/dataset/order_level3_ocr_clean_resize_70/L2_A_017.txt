@@ -1,0 +1,40 @@
+Purchase Order
+Document ID: L2_A_017
+Category: A
+Supplier：OrbitLine Distribution軌域配銷有限公司
+Buyer: Stonepath Industrial石徑工業
+PO Number: PO-2024-7625
+PO Date: 13/05/2025
+Currency: EUR
+Part No.
+Quantity
+Measure
+Unit Price
+Line Total
+GX-940
+37
+boxes
+54.03
+1999.11
+EV-512
+24
+boxes
+70.88
+1701.12
+DX-618
+16
+pcs
+13.82
+221.12
+CN-410
+36
+EA
+95.19
+3426.84
+JQ-940
+32
+units
+29.10
+931.20
+Total Amount: 8279.39
+Remarks: Partial shipment is not allowed unless approved.未经同意不得分批出貨。

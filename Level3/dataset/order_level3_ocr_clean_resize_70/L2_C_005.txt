@@ -1,0 +1,12 @@
+Purchase Order
+Document ID: L2_C_005
+Category: C
+PONumber:PO-2024-5934
+PO Date: 10/01/2026
+Currency:JPY
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Ordered Items:
+1) Item CN-940,ordered quantity 22 pcs, unit price 53.49, total 1176.78
+2) Item IR-940,ordered quantity 34 sets, unit price 17.62, total 599.08
+Grand Total:1775.86
+Remark: Please confirm delivery schedule before shipment.出貨前請先確認交期。

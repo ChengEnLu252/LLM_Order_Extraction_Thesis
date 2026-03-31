@@ -1,0 +1,18 @@
+Purchase Order
+Document ID: L2_B_016
+Category: B
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Buyer: BrightCore Assemblies亮核组装
+Kindly process the following order items for our current purchasing request.
+This request should be recorded under reference number PO-2026-4996.
+Item List:
+1.Part: HM-410 |Qty: 37 sets  Price:43.78 | Amount: 1619.86
+2. GX-725, quantity 13 pcs, unit price 20.27, amount 263.51
+3.Part: GX-725|Qty: 14 pcs  Price:46.06 | Amount: 644.84
+4. Part BK-220 / Qty 15 units / Unit Price 22.17 / Amount 332.55
+Please note that the order date is 11/22/2026.
+The transaction currency for this order is USD.
+PaymentTerms:Paymentdueupon receipt（收貨後付款）
+ShippingTerms:EXwWarehouse（工廠交货）
+Amount due upon confirmation: 2860.76
+Remark: Packaging must comply with export standards.包装需符合出口標準。

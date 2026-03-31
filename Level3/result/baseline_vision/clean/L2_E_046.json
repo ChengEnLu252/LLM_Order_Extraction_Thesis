@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-7074",
+  "po_date": "2023-12-03",
+  "currency": "EUR",
+  "total_amount": 3149.55,
+  "items": [
+    {
+      "part_number": "PF-816",
+      "quantity": 2,
+      "unit": "pcs",
+      "unit_price": 61.86,
+      "line_amount": 123.72
+    },
+    {
+      "part_number": "GX-305",
+      "quantity": 2,
+      "unit": "pcs",
+      "unit_price": 46.78,
+      "line_amount": 93.56
+    },
+    {
+      "part_number": "SR-512",
+      "quantity": 40,
+      "unit": "pcs",
+      "unit_price": 14.04,
+      "line_amount": 561.6
+    },
+    {
+      "part_number": "WF-940",
+      "quantity": 25,
+      "unit": "pcs",
+      "unit_price": 46.29,
+      "line_amount": 1157.25
+    },
+    {
+      "part_number": "PF-100",
+      "quantity": 10,
+      "unit": "boxes",
+      "unit_price": 32.34,
+      "line_amount": 323.4
+    }
+  ]
+}

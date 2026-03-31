@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-9887",
+  "po_date": "2025-02-28",
+  "currency": "JPY",
+  "total_amount": 466.66,
+  "items": [
+    {
+      "part_number": "PT-100",
+      "quantity": 34,
+      "unit": "pcs",
+      "unit_price": 94,
+      "line_amount": 3197.76
+    },
+    {
+      "part_number": "J-GO",
+      "quantity": 26,
+      "unit": "pcs",
+      "unit_price": 37.83,
+      "line_amount": 983.58
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+Purchase Order
+Document ID: L2_D_003
+Category: D
+Purchase Order No.:PO-2025-6954
+Date:03/13/2026
+Billing Currency:USD
+Supplier: Ironcrest Materials鐵冠材料有限公司
+Buyer: Stonepath Industrial石徑工業
+Ship To: 18 North Avenue, West District
+Contact Person: Daniel Brooks / 陳志宏
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-HM-220
+Qty 33 boxes
+Price 4.97 | Amount 164.01
+一
+CN-512
+Qty 32 boxes
+Price 47.20 | Amount 1510.40
+IR-220
+Qty 40 sets
+Price 58.32  Amount 2332.80
+-BK-512
+Qty8 units
+Price 33.94  Amount 271.52
+-GX-410
+Qty 31 units| Price 41.28 | Amount 1279.68
+Subtotal:5558.41
+Tax:277.92
+Shipping Fee: 36.87
+Final Payable Amount: 5873.20
+Payment Terms:Net45 days（45天付款）
+Shipping Terms: DAP Customer Site(目的地交货）
+Remark: Packaging must comply with export standards.包装需符合出口標準。

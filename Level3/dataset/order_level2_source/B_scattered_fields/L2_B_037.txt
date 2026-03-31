@@ -1,0 +1,19 @@
+Supplier: Silver Oak Procurement 銀橡採購股份有限公司
+Buyer: BrightCore Assemblies 亮核組裝
+
+Please arrange the following materials for our upcoming production schedule.
+This request should be recorded under reference number PO-2025-4271.
+
+Item List:
+1. Part: BK-512 | Qty: 7 sets | Price: 48.41 | Amount: 338.87
+2. Part EV-220 / Qty 32 units / Unit Price 49.93 / Amount 1597.76
+3. GX-618, quantity 26 EA, unit price 20.12, amount 523.12
+4. Part: HM-830 | Qty: 30 boxes | Price: 6.37 | Amount: 191.10
+
+Please note that the order date is 17 Jul 2024.
+All prices are stated in USD.
+Payment Terms: Payment due upon receipt（收貨後付款）
+Shipping Terms: FOB Origin（離岸交貨）
+
+Amount due upon confirmation: 2650.85
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

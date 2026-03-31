@@ -1,0 +1,15 @@
+{
+  "doc_id": "L2_D_021",
+  "level": "level2",
+  "category": "D",
+  "category_name": "noise_information",
+  "difficulty": "easy",
+  "complexity_type": [
+    "noise_information"
+  ],
+  "item_count": 3,
+  "currency": "USD",
+  "language_style": "bilingual",
+  "target_total_source": "computed_final_amount",
+  "generator_version": "v1"
+}

@@ -1,0 +1,19 @@
+Purchase Order
+Document ID: L2_B_007
+Category: B
+Please arrange the following materials for our upcoming production schedule.
+Supplier information: AuroraLink Systems極光連结系統
+The official reference for this order is PO-2025-9743.
+Requested by:Stonepath Industrial石径工業
+Ordered Materials:
+1. Part HM-618 / Qty 31 EA / Unit Price 11.66 / Amount 361.46
+2.Part:AX-410|Qty:25 EA|Price:32.67| Amount:816.75
+3.Part JQ-725 / Qty 3 boxes / Unit Price 27.56 / Amount 82.68
+4.Part DX-725 / Qty 11 units / Unit Price 21.23 / Amount 233.53
+5.Part: FT-512 | Qty: 17 sets  Price: 50.93 | Amount: 865.81
+PaymentTerms：30%advance，70%beforeshipment（30预付，70出货前付清）
+Please note that the order date is 05/01/2026.
+Shipping arrangementfollowsCIF Destination（成本保險加運费）.
+Please process all item prices in EUR.
+Total amount for this order: 2360.23
+Additional note:All goods must match approved specifications.所有货品须符合核准规格。

@@ -1,0 +1,18 @@
+
+Subject: PO-2026-0008
+
+Hi,
+
+Please process this order.
+
+Buyer: 承恩科技股份有限公司
+Supplier: 承恩科技股份有限公司
+Date: March 13, 2025
+
+Items:
+1. 電源管理IC (PMIC-A88) 數量: 877 個 單價: 57.68 小計: 50585.36
+2. Type-C 連接器 24Pin (TC-24P-001) 數量: 103 個 單價: 185.51 小計: 19107.53
+3. 電源管理IC (PMIC-A88) 數量: 949 顆 單價: 88.98 小計: 84442.02
+
+
+Total Amount: 154134.91 USD

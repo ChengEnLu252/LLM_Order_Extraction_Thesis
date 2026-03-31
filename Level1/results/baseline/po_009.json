@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-0009",
+  "po_date": "2025-06-08",
+  "currency": "TWD",
+  "total_amount": 118683.96,
+  "items": [
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 882,
+      "unit": "PCS",
+      "unit_price": 104.24,
+      "line_amount": 91939.68
+    },
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 258,
+      "unit": "條",
+      "unit_price": 103.66,
+      "line_amount": 26744.28
+    }
+  ]
+}

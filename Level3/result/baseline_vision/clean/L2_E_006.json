@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-8423",
+  "po_date": "2023-12-27",
+  "currency": "JPY",
+  "total_amount": 1465.8,
+  "items": [
+    {
+      "part_number": "EV-618",
+      "quantity": 80,
+      "unit": "pcs",
+      "unit_price": 5.03,
+      "line_amount": 402.75
+    },
+    {
+      "part_number": "3. Qty 27 of DL-725",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": 55.61,
+      "line_amount": 333.72
+    }
+  ]
+}

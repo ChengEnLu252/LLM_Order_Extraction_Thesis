@@ -1,0 +1,24 @@
+Purchase Order
+Document ID: L2_D_041
+Category: D
+Purchase Order No.:PO-2025-7165
+Date:25 Jun 2026
+Billing Currency: EUR
+Supplier:NorthstarComponentsLtd.北辰元件有限公司
+Buyer： Summit Valley Electronics峰谷電子
+Ship To: 18  North Avenue, West District
+Contact Person:Sophia Lin /林雅婷
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-EV-305 |Qty 37 sets | Price 66.62 | Amount 2464.94
+-GX-830
+Qty 29 pcs | Price 15.18 | Amount 440.22
+-IR-940 |Qty 38 units | Price 68.15 | Amount 2589.70
+Subtotal:5494.86
+Tax:274.74
+Shipping Fee:45.47
+Final Payable Amount: 5815.07
+PaymentTerms:30%advance，70%beforeshipment（30%预付，70%出货前付清）
+Shipping Terms:CIFDestination（成本保險加運費）
+Remark：Allgoods must matchapproved specifications.所有货品须符合核准规格。

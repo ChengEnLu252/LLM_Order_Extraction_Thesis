@@ -1,0 +1,16 @@
+PO Number: PO-2026-5155
+PO Date: 06/19/2025
+Currency: JPY
+Supplier: NovaCircuit Solutions 新曜電路方案
+
+Ordered Items:
+1) GX-940 / 27units / 75.99 / 2051.73
+2) Part: IR-940 | Qty: 32 sets | Price: 19.51 | Amount: 624.32
+3) JQ-618 / 18sets / 98.87 / 1779.66
+4) Part No: BK-410
+   Qty: 10 sets
+   Unit Price: 85.79
+   Amount: 857.90
+
+Grand Total: 5313.61
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

@@ -1,0 +1,23 @@
+Purchase Order No.: PO-2026-8145
+Date: 2026-05-14
+Billing Currency: JPY
+Supplier: Northstar Components Ltd. 北辰元件有限公司
+Buyer: GrandRiver Devices 大河裝置
+
+Ship To: 18 North Avenue, West District
+Contact Person: Kevin Huang / 黃建凱
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- EV-512 | Qty 19 units | Price 15.37 | Amount 292.03
+- AX-830 | Qty 13 pcs | Price 65.14 | Amount 846.82
+- BK-618 | Qty 5 units | Price 86.24 | Amount 431.20
+
+Subtotal: 1570.05
+Tax: 78.50
+Shipping Fee: 72.77
+Final Payable Amount: 1721.32
+Payment Terms: Net 30 days（30天付款）
+Shipping Terms: DAP Customer Site（目的地交貨）
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

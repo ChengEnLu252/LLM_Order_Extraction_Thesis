@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-9691",
+  "po_date": "2026-08-30",
+  "currency": "JPY",
+  "total_amount": 7001.96,
+  "items": [
+    {
+      "part_number": "J40-410",
+      "quantity": 30,
+      "unit": "pcs",
+      "unit_price": 5.55,
+      "line_amount": 166.5
+    },
+    {
+      "part_number": "J40-8209",
+      "quantity": 36,
+      "unit": "boxes",
+      "unit_price": 73.95,
+      "line_amount": 2632.2
+    },
+    {
+      "part_number": "J40-830",
+      "quantity": 34,
+      "unit": null,
+      "unit_price": 80.68,
+      "line_amount": 2731.12
+    }
+  ]
+}

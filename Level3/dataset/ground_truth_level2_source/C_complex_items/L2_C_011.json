@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-9210",
+  "po_date": "2026-11-11",
+  "currency": "USD",
+  "total_amount": "1904.00",
+  "items": [
+    {
+      "part_number": "JQ-305",
+      "quantity": 17,
+      "unit": "units",
+      "unit_price": "85.10",
+      "line_amount": "1446.70"
+    },
+    {
+      "part_number": "CN-305",
+      "quantity": 10,
+      "unit": "sets",
+      "unit_price": "45.73",
+      "line_amount": "457.30"
+    }
+  ]
+}

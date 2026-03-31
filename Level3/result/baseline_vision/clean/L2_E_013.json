@@ -1,0 +1,22 @@
+{
+  "po_number": "L2_E_013",
+  "po_date": "2025-08-21",
+  "currency": "JPY",
+  "total_amount": 1351.51,
+  "items": [
+    {
+      "part_number": "PM-305",
+      "quantity": 11,
+      "unit": "pcs",
+      "unit_price": 65.42,
+      "line_amount": 719.62
+    },
+    {
+      "part_number": "GK-100",
+      "quantity": 14,
+      "unit": "EA",
+      "unit_price": 45.03,
+      "line_amount": 630.42
+    }
+  ]
+}

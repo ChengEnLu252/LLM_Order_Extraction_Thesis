@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-0017",
+  "po_date": "2024-12-01",
+  "currency": "USD",
+  "total_amount": 178723.04,
+  "items": [
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 221,
+      "unit": "PCS",
+      "unit_price": 152.74,
+      "line_amount": 33755.54
+    },
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 758,
+      "unit": "個",
+      "unit_price": 191.25,
+      "line_amount": 144967.5
+    }
+  ]
+}

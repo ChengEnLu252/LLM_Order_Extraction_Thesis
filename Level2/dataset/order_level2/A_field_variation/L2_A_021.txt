@@ -1,0 +1,12 @@
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: LumenTrail Procurement 光徑採購
+P.O. No.: PO-2024-5375
+Issued On: 25/09/2024
+Settlement Currency: EUR
+
+Model No.       Order Qty    Unit Type  Rate            Total Price    
+JQ-410          3            EA         97.37           292.11         
+IR-725          21           pcs        55.98           1175.58        
+
+Grand Total: 1467.69
+Remarks: Packaging must comply with export standards. 包裝需符合出口標準。

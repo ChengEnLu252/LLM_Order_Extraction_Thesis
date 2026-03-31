@@ -1,0 +1,27 @@
+Purchase Order
+Document ID: L2_E_019
+Category: E
+Supplier: Prime Harbor Manufacturing鼎港製造
+Buyer:Stonepath Industrial石徑工業
+Kindly proceed with the following mixed-format order details.
+Purchase Order No.:PO-2024-5018
+Please note that the requested items are presented in different line formats below.
+1.Part:AX-618|Qty:39 sets |Price:6.41 |Amount:249.99
+2.Qty 13 sets of IR-618 at 42.66 each, total 554.58
+3. BK-940 / ordered quantity 18EA / rate 10.92 / line total 196.56
+4.EV-220 / ordered quantity 20EA / rate 16.12 / line total 322.40
+5.Product Code: CN-100
+Units Ordered:21 units
+Item Price:95.31
+Amount:2001.51
+Additional Information:
+Issued On:28/06/2026
+PaymentforthisordershallfollowNet45days（45天付款）
+Shipping arrangement will followFoB Origin（離岸交貨）.
+All prices are quoted in USD.
+Subtotal:3325.04
+Discount:6.48
+Handling Fee: 4.71
+FinalAmount:3323.27
+Remark: Partial shipment is not allowedunless approved.未经同意不得分批出货。
+T

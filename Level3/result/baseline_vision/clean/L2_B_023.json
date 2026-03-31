@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-6753",
+  "po_date": "2023-03-12",
+  "currency": "JPY",
+  "total_amount": 6185.09,
+  "items": [
+    {
+      "part_number": "BK-705",
+      "quantity": 15,
+      "unit": "pcs",
+      "unit_price": 10.5,
+      "line_amount": 157.5
+    },
+    {
+      "part_number": "FN-725",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 73.54,
+      "line_amount": 220.62
+    },
+    {
+      "part_number": "BK-410",
+      "quantity": 1,
+      "unit": "units",
+      "unit_price": 262.8,
+      "line_amount": 262.8
+    },
+    {
+      "part_number": "30-912",
+      "quantity": 40,
+      "unit": "pcs",
+      "unit_price": 60.0,
+      "line_amount": 2400.0
+    },
+    {
+      "part_number": "30-940",
+      "quantity": 21,
+      "unit": "EA",
+      "unit_price": 12.13,
+      "line_amount": 254.73
+    }
+  ]
+}

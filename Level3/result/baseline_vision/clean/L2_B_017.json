@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-8501",
+  "po_date": "2024-12-19",
+  "currency": "JPY",
+  "total_amount": 2667,
+  "items": [
+    {
+      "part_number": "EY-202",
+      "quantity": 22,
+      "unit": "EA",
+      "unit_price": 13.55,
+      "line_amount": 298.1
+    },
+    {
+      "part_number": "TRK-725",
+      "quantity": 25,
+      "unit": "sets",
+      "unit_price": 69.96,
+      "line_amount": 1749.0
+    },
+    {
+      "part_number": "GX-725",
+      "quantity": 40,
+      "unit": "EA",
+      "unit_price": 15.51,
+      "line_amount": 620.4
+    }
+  ]
+}

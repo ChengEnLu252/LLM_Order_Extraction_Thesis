@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-6180",
+  "po_date": "2023-09-08",
+  "currency": "EUR",
+  "total_amount": 526.74,
+  "items": [
+    {
+      "part_number": "IR-512",
+      "quantity": 11,
+      "unit": "boxes",
+      "unit_price": 35.86,
+      "line_amount": 394.46
+    },
+    {
+      "part_number": "DX-240",
+      "quantity": 33,
+      "unit": null,
+      "unit_price": 42.18,
+      "line_amount": 1395.84
+    },
+    {
+      "part_number": "DX-240",
+      "quantity": 11,
+      "unit": "units",
+      "unit_price": 51.31,
+      "line_amount": 564.63
+    },
+    {
+      "part_number": "IR-220",
+      "quantity": 3,
+      "unit": "sets",
+      "unit_price": 291.85,
+      "line_amount": 875.55
+    }
+  ]
+}

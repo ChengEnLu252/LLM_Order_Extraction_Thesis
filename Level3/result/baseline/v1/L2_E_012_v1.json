@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-4845",
+  "po_date": "2025-03-04",
+  "currency": "JPY",
+  "total_amount": 3019.17,
+  "items": [
+    {
+      "part_number": "CN-305",
+      "quantity": 18,
+      "unit": "units",
+      "unit_price": 36.99,
+      "line_amount": 665.82
+    },
+    {
+      "part_number": "FT-725",
+      "quantity": 4,
+      "unit": "pcs",
+      "unit_price": 81.07,
+      "line_amount": 324.28
+    },
+    {
+      "part_number": "DXx-830",
+      "quantity": 16,
+      "unit": "boxes",
+      "unit_price": 13.83,
+      "line_amount": 221.28
+    },
+    {
+      "part_number": "AX-940",
+      "quantity": 23,
+      "unit": "boxes",
+      "unit_price": 78.92,
+      "line_amount": 1815.16
+    }
+  ]
+}

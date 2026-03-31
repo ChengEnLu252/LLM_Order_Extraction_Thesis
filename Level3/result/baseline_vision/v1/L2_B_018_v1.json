@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-9281",
+  "po_date": "2023-10-02",
+  "currency": null,
+  "total_amount": 3476.05,
+  "items": [
+    {
+      "part_number": "Part JX-10",
+      "quantity": 33,
+      "unit": "EA",
+      "unit_price": 18.39,
+      "line_amount": 606.87
+    },
+    {
+      "part_number": "Part DX-940",
+      "quantity": 20,
+      "unit": "boxes",
+      "unit_price": 5.2,
+      "line_amount": 104.0
+    },
+    {
+      "part_number": "Part JU-840",
+      "quantity": 12,
+      "unit": "units",
+      "unit_price": 78.51,
+      "line_amount": 942.12
+    },
+    {
+      "part_number": "Part BK-512",
+      "quantity": 7,
+      "unit": null,
+      "unit_price": 45.06,
+      "line_amount": 315.42
+    },
+    {
+      "part_number": "Part AK-330",
+      "quantity": 21,
+      "unit": "EA",
+      "unit_price": 55.12,
+      "line_amount": 1157.52
+    }
+  ]
+}

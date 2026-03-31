@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-9873",
+  "po_date": "2026-01-21",
+  "currency": "GBP",
+  "total_amount": 3000.85,
+  "items": [
+    {
+      "part_number": "PT-410",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 62.73,
+      "line_amount": 188.19
+    },
+    {
+      "part_number": "IR-725",
+      "quantity": 35,
+      "unit": "EA",
+      "unit_price": 66.51,
+      "line_amount": 2338.85
+    }
+  ]
+}

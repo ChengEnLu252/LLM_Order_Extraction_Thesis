@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-5553",
+  "po_date": "2025-02-04",
+  "currency": "USD",
+  "total_amount": "3677.70",
+  "items": [
+    {
+      "part_number": "HM-618",
+      "quantity": 34,
+      "unit": "units",
+      "unit_price": "40.65",
+      "line_amount": "1382.10"
+    },
+    {
+      "part_number": "AX-618",
+      "quantity": 40,
+      "unit": "sets",
+      "unit_price": "52.13",
+      "line_amount": "2085.20"
+    }
+  ]
+}

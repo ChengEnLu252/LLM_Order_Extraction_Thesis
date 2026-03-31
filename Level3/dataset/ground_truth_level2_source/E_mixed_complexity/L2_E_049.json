@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-3370",
+  "po_date": "2025-08-30",
+  "currency": "USD",
+  "total_amount": "6589.82",
+  "items": [
+    {
+      "part_number": "AX-618",
+      "quantity": 40,
+      "unit": "boxes",
+      "unit_price": "29.77",
+      "line_amount": "1190.80"
+    },
+    {
+      "part_number": "BK-512",
+      "quantity": 34,
+      "unit": "units",
+      "unit_price": "99.05",
+      "line_amount": "3367.70"
+    },
+    {
+      "part_number": "DX-830",
+      "quantity": 32,
+      "unit": "boxes",
+      "unit_price": "63.85",
+      "line_amount": "2043.20"
+    }
+  ]
+}

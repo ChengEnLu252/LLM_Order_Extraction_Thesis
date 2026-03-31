@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-7427",
+  "po_date": "2025-11-22",
+  "currency": "EUR",
+  "total_amount": 3096.51,
+  "items": [
+    {
+      "part_number": "CN-616",
+      "quantity": 3,
+      "unit": "units",
+      "unit_price": 40.59,
+      "line_amount": 1218.77
+    },
+    {
+      "part_number": "SY-630",
+      "quantity": 5,
+      "unit": "units",
+      "unit_price": 85.28,
+      "line_amount": 426.4
+    },
+    {
+      "part_number": "FH-512",
+      "quantity": 38,
+      "unit": "units",
+      "unit_price": 15.48,
+      "line_amount": 588.24
+    },
+    {
+      "part_number": "DX-100",
+      "quantity": 5,
+      "unit": "boxes",
+      "unit_price": 23.38,
+      "line_amount": 116.9
+    }
+  ]
+}

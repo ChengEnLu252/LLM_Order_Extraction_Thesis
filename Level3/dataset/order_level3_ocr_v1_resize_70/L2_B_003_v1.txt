@@ -1,0 +1,18 @@
+Purchase Order
+Document ID: L2_B_003
+Category: B
+Please prepare the materials listed below for the next production batch.
+Supplier information:Northstar Components Ltd.北辰元件有限公司
+For tracking purposes, please use order reference PO-2024-8575.
+Requested by：Skyforge Systems天鑄系統
+Ordered Materials:
+1.Part JQ-220 / Qty 2 pcs / Unit Price 75.09 / Amount 150.18
+2.Part:BK-940 Qty:29pcs |Price:35.76 |Amount:1037.04
+3.Part HM-100 / Qty 6 boxes / Unit Price 98.64 / Amount 591.84
+4.Part CN-725 / Qty 28 boxes / Unit Price 19.64 / Amount 549.92
+PaymentTerms:30%advance，70%beforeshipment（30预付，70出货前付清）
+The issuance date for this order is 23/09/2025.
+Shipping arrangement follows DAP Customer Site(目的地交货）.
+Please process all item prices in JPy.
+Final payable amount: 2328.98
+Additional note:All goods must match approved specifications.所有货品须符合核准规格。

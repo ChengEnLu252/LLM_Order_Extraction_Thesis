@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-4700",
+  "po_date": "2026-04-14",
+  "currency": "EUR",
+  "total_amount": "5548.74",
+  "items": [
+    {
+      "part_number": "FT-305",
+      "quantity": 32,
+      "unit": "pcs",
+      "unit_price": "94.03",
+      "line_amount": "3008.96"
+    },
+    {
+      "part_number": "GX-830",
+      "quantity": 33,
+      "unit": "units",
+      "unit_price": "67.87",
+      "line_amount": "2239.71"
+    }
+  ]
+}

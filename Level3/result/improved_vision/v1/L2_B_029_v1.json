@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-9780",
+  "po_date": "2026-03-01",
+  "currency": null,
+  "total_amount": 5696.92,
+  "items": [
+    {
+      "part_number": "HR-305",
+      "quantity": 10,
+      "unit": "boxes",
+      "unit_price": 85.54,
+      "line_amount": 1539.72
+    },
+    {
+      "part_number": "FR-305",
+      "quantity": 40,
+      "unit": "pcs",
+      "unit_price": 5.95,
+      "line_amount": 238.0
+    },
+    {
+      "part_number": "CX-940",
+      "quantity": 1,
+      "unit": "set",
+      "unit_price": 96.96,
+      "line_amount": 96.96
+    },
+    {
+      "part_number": "CL-100",
+      "quantity": 1,
+      "unit": "set",
+      "unit_price": 27.5,
+      "line_amount": 27.5
+    },
+    {
+      "part_number": "SR-410",
+      "quantity": 30,
+      "unit": null,
+      "unit_price": 6.6,
+      "line_amount": 198.0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+Purchase Order
+Document ID: L2_A_035
+Category: A
+Supplier：AuroraLink Systems極光連结系統
+Buyer：Skyforge Systems天鑄系统
+PurchaseOrder No.:PO-2026-3600
+Date Issued:15/01/2026
+Curr.:EUR
+Item Code
+Quantity
+Measure
+Rate
+Line Total
+AX-618
+23
+pcs
+68.53
+1576.19
+GX-512
+23
+boxes
+11.26
+258.98
+FT-220
+40
+units
+87.58
+3503.20
+EV-725
+11
+EA
+91.84
+1010.24
+BK-512
+40
+units
+71.47
+2858.80
+Grand Total:9207.41
+Remarks:Allgoodsmustmatchapprovedspecifications.所有货品须符合核准规格。

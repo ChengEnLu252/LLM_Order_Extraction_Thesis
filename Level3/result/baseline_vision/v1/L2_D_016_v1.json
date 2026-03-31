@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-2870",
+  "po_date": "2026-10-15",
+  "currency": "JPY",
+  "total_amount": 2109,
+  "items": [
+    {
+      "part_number": "XK-618",
+      "quantity": 14,
+      "unit": "pcs",
+      "unit_price": 43.77,
+      "line_amount": 612.78
+    },
+    {
+      "part_number": "FX-410",
+      "quantity": 38,
+      "unit": "pcs",
+      "unit_price": 5.5,
+      "line_amount": 209.0
+    }
+  ]
+}

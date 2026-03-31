@@ -1,0 +1,22 @@
+{
+  "po_number": "L2_E_047",
+  "po_date": "2026-12-01",
+  "currency": "JPY",
+  "total_amount": 4149.77,
+  "items": [
+    {
+      "part_number": "EV-940",
+      "quantity": 1,
+      "unit": "pcs",
+      "unit_price": 80.09,
+      "line_amount": 80.09
+    },
+    {
+      "part_number": "C1-220",
+      "quantity": 89,
+      "unit": "units",
+      "unit_price": 25.85,
+      "line_amount": 1078.2
+    }
+  ]
+}

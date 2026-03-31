@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-5748",
+  "po_date": "2025-09-09",
+  "currency": "JPY",
+  "total_amount": 4461,
+  "items": [
+    {
+      "part_number": "AM-830",
+      "quantity": 26,
+      "unit": "EA",
+      "unit_price": 0.72,
+      "line_amount": 18.72
+    },
+    {
+      "part_number": "GX-940",
+      "quantity": 30,
+      "unit": null,
+      "unit_price": 23.55,
+      "line_amount": 706.5
+    },
+    {
+      "part_number": "PT-180",
+      "quantity": 21,
+      "unit": null,
+      "unit_price": 31.21,
+      "line_amount": 655.41
+    },
+    {
+      "part_number": "AX-110",
+      "quantity": 5,
+      "unit": null,
+      "unit_price": 15.85,
+      "line_amount": 79.25
+    },
+    {
+      "part_number": "IR-220",
+      "quantity": 40,
+      "unit": "boxes",
+      "unit_price": 40.62,
+      "line_amount": 1624.8
+    }
+  ]
+}

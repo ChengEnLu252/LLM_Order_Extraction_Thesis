@@ -1,0 +1,30 @@
+Purchase Order
+Document ID: L2_A_028
+Category: A
+Supplier: Ironcrest Materials鐵冠材料有限公司
+Buyer: GrandRiver Devices大河装置
+Order ID:PO-2026-4475
+Date Issued:13/02/2024
+Currency: USD
+Item Code
+Quantity
+Measure
+Unit Price
+Amount
+IR-410
+38
+units
+22.11
+840.18
+DX-618
+15
+EA
+81.68
+1225.20
+CN-305
+40
+units
+2.28
+91.20
+Total:2156.58
+Remarks: Partial shipment is not allowed unless approved.未經同意不得分批出貨。

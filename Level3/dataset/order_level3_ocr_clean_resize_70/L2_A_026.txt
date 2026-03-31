@@ -1,0 +1,30 @@
+Purchase Order
+Document ID: L2_A_026
+Category: A
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Buyer: PolarEdge Manufacturing 極鋒製造
+PONumber:PO-2024-3165
+Order Date: 19 Jan 2026
+Billing Currency:JPY
+Part No.
+Qty
+Measure
+Price/Unit
+Amount
+HM-512
+18
+boxes
+91.58
+1648.44
+BK-305
+9
+EA
+47.90
+431.10
+IR-618
+27
+pcs
+96.79
+2613.33
+Total Amount:4692.87
+Remarks: All goods must match approved specifications.所有货品须符合核准规格。

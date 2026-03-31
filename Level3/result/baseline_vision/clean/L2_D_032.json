@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-8144",
+  "po_date": "2025-06-12",
+  "currency": "JPY",
+  "total_amount": 3640.01,
+  "items": [
+    {
+      "part_number": "AX-512",
+      "quantity": 34,
+      "unit": "EA",
+      "unit_price": 73.83,
+      "line_amount": 2510.22
+    },
+    {
+      "part_number": "PT-830",
+      "quantity": 39,
+      "unit": "EA",
+      "unit_price": 7.73,
+      "line_amount": 301.47
+    },
+    {
+      "part_number": "EV-618",
+      "quantity": 24,
+      "unit": "EA",
+      "unit_price": 18.0,
+      "line_amount": 432.0
+    },
+    {
+      "part_number": "EV-940",
+      "quantity": 24,
+      "unit": "EA",
+      "unit_price": 6.77,
+      "line_amount": 162.48
+    }
+  ]
+}

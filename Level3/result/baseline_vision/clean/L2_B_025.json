@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-3545",
+  "po_date": null,
+  "currency": "EUR",
+  "total_amount": 378.03,
+  "items": [
+    {
+      "part_number": "Part-AB-100",
+      "quantity": 29,
+      "unit": "EA",
+      "unit_price": 73.54,
+      "line_amount": 2132.66
+    },
+    {
+      "part_number": "B-830",
+      "quantity": 71,
+      "unit": null,
+      "unit_price": 92.61,
+      "line_amount": 648.27
+    },
+    {
+      "part_number": "Part-C-220",
+      "quantity": 40,
+      "unit": "pcs",
+      "unit_price": 7.39,
+      "line_amount": 295.6
+    },
+    {
+      "part_number": "Part-C-830",
+      "quantity": 10,
+      "unit": "boxes",
+      "unit_price": 70.75,
+      "line_amount": 707.5
+    }
+  ]
+}

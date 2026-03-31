@@ -1,0 +1,35 @@
+Purchase Order
+Document ID: L2_A_038
+Category: A
+Supplier：AuroraLink Systems極光連結系統
+Buyer：GrandRiver Devices大河装置
+OrderID：PO-2026-9647
+Date:05/16/2026
+Currency: USD
+SKU
+Units Ordered Unit
+Rate
+Extended Price
+GX-830
+9
+pcs
+6.68
+60.12
+HM-940
+9
+pcs
+84.00
+756.00
+CN-512
+34
+sets
+58.35
+1983.90
+DX-725
+2
+EA
+62.25
+124.50
+GrandTotal:2924.52
+Remarks: Please confirm delivery schedule before shipment.出貨前請先確認交期。
+a

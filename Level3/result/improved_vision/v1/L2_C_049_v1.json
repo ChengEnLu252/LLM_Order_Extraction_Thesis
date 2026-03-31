@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-1477",
+  "po_date": "2024-12-25",
+  "currency": "USD",
+  "total_amount": 10781,
+  "items": [
+    {
+      "part_number": "CM-830",
+      "quantity": 32,
+      "unit": "pcs",
+      "unit_price": 86.13,
+      "line_amount": 2564.16
+    },
+    {
+      "part_number": "R-618",
+      "quantity": 31,
+      "unit": "sets",
+      "unit_price": 89.42,
+      "line_amount": 2772.02
+    },
+    {
+      "part_number": "AX-940",
+      "quantity": 20,
+      "unit": "boxes",
+      "unit_price": 98.92,
+      "line_amount": 2016.76
+    },
+    {
+      "part_number": "F-618",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 22.41,
+      "line_amount": 67.23
+    }
+  ]
+}

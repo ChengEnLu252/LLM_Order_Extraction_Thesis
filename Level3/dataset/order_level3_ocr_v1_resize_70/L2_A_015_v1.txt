@@ -1,0 +1,41 @@
+Purchase Order
+Document ID: L2_A_015
+Category: A
+Supplier:BluePeakIndustrial Supply藍峰工業供應
+Buyer:GrandRiver Devices大河装置
+PONumber:PO-2024-4908
+Issued On: September 15,2024
+Settlement Currency:EUR
+SKU
+Quantity
+Unit Type
+Price/Unit
+Extended Price
+CN-220
+18
+EA
+77.16
+1388.88
+AX-512
+21
+units
+12.59
+264.39
+DX-220
+26
+units
+40.87
+1062.62
+EV-220
+17
+units
+11.99
+203.83
+GX-618
+4
+pcs
+36.03
+144.12
+Total Amount:3063.84
+Remarks: Please include inspection report with shipment.出貨時請附檢驗報告。
+al

@@ -1,0 +1,26 @@
+Purchase Order
+Document ID: L2_E_013
+Category: E
+Supplier：CedarStone Imports雪松石進出口
+Buyer: LumenTrail Procurement光徑採購
+Kindly proceed with the following mixed-format order details.
+PONumber:PO-2025-3572
+The requested materials are summarized below in mixed item formats.
+1.Product Code:FT-305
+Units Ordered: 11 pcs
+Item Price:65.42
+Amount:719.62
+2.ProductCode:GX-100
+Units Ordered:14 EA
+Item Price:45.03
+Amount:630.42
+Additional Information:
+Date Issued: August 21, 2025
+Theagreedpaymentcondition isPaymentdue upon receipt(收貨後付款）
+Delivery arrangement follows EXw Warehouse(工廠交货）.
+All prices are quoted in JPY.
+Subtotal:1350.04
+Discount: 10.59
+Handling Fee: 12.06
+Final Amount: 1351.51
+Remark：Allgoodsmust matchapprovedspecifications.所有货品须符合核准规格。

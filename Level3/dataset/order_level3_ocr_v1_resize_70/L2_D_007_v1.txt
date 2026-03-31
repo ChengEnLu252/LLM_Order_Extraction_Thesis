@@ -1,0 +1,33 @@
+Purchase Order
+Document ID: L2_D_007
+Category: D
+Purchase Order No.:PO-2025-4698
+Date:2025-01-15
+Billing Currency: EUR
+Supplier：OrbitLine Distribution軌域配銷有限公司
+Buyer： Summit Valley Electronics峰谷電子
+Ship To: 18 North Avenue, West District
+Contact Person:Kevin Huang ／黄建凯
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-EV-725
+Qty 17 units
+|Price71.79
+Amount 1220.43
+-AX-830
+Qty 38 boxes
+jPrice37.96 jAmount1442.48
+-BK-305
+Qty 9 units | Price 58.87 | Amount 529.83
+-BK-940
+Qty 19 units | Price 47.56 | Amount 903.64
+-BK-940
+|Qty 7 units | Price 26.03 | Amount 182.21
+Subtotal:4278.59
+Tax:213.93
+Shipping Fee:47.45
+Final Payable Amount:4539.97
+PaymentTerms:Net30days（30天付款）
+ShippingTerms:EXWWarehouse（工廠交貨）
+Remark:Partialshipment is not allowed unless approved.未经同意不得分批出货。

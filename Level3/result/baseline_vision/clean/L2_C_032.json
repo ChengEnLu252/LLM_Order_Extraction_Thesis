@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-7802",
+  "po_date": "2024-05-04",
+  "currency": "JPY",
+  "total_amount": 8793.38,
+  "items": [
+    {
+      "part_number": "CH-305 / 2 units",
+      "quantity": 2,
+      "unit": "units",
+      "unit_price": 88.52,
+      "line_amount": 267.08
+    },
+    {
+      "part_number": "Item CN-940",
+      "quantity": 27,
+      "unit": "units",
+      "unit_price": 51.46,
+      "line_amount": 1389.42
+    },
+    {
+      "part_number": "Item P-940 / 3 boxes",
+      "quantity": 3,
+      "unit": "boxes",
+      "unit_price": 94.98,
+      "line_amount": 284.4
+    },
+    {
+      "part_number": "Item EX-640",
+      "quantity": 25,
+      "unit": "units",
+      "unit_price": 42.41,
+      "line_amount": 1066.25
+    },
+    {
+      "part_number": "DX-725 / 17 units",
+      "quantity": 17,
+      "unit": "units",
+      "unit_price": 51.19,
+      "line_amount": 922.23
+    }
+  ]
+}

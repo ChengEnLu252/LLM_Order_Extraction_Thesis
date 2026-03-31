@@ -1,0 +1,29 @@
+Purchase Order
+Document ID: L2_E_026
+Category: E
+Supplier：CedarStoneImports雪松石進出口
+Buyer： Summit Valley Electronics峰谷电子
+Please review and process the following procurement request.
+PO Number:PO-2025-2065
+The requested materials are summarized below in mixed item formats.
+1.Product Code:AX-940
+UnitsOrdered:29pcs
+Item Price:8.45
+Amount:245.05
+2. Product Code: GX-220
+Units Ordered: 20 units
+Item Price: 85.29
+Amount:1705.80
+3.Part:JQ-100 Qty:28 setsPrice:24.84Amount:695.52
+4.Part:GX-220|Qty:26boxesPrice:47.49| Amount:1234.74
+Additional Information:
+PO Date: 18 Sep 2024
+Theagreedpaymentconditionis 30%advance，70%beforeshipment(30预付，70出货前付清）.
+Delivery arrangement follows EXw Warehouse(工廠交貨）.
+All prices are quoted in USD.
+Subtotal:3881.11
+Discount: 5.18
+Handling Fee:11.56
+Final Amount:3887.49
+Remark:Please confirm delivery schedule before shipment.出貨前請先確認交期。
+T

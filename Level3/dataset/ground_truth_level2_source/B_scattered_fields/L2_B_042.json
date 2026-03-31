@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-9530",
+  "po_date": "2026-03-24",
+  "currency": "JPY",
+  "total_amount": "6034.87",
+  "items": [
+    {
+      "part_number": "JQ-512",
+      "quantity": 37,
+      "unit": "boxes",
+      "unit_price": "65.44",
+      "line_amount": "2421.28"
+    },
+    {
+      "part_number": "FT-512",
+      "quantity": 8,
+      "unit": "boxes",
+      "unit_price": "49.21",
+      "line_amount": "393.68"
+    },
+    {
+      "part_number": "EV-410",
+      "quantity": 19,
+      "unit": "EA",
+      "unit_price": "27.59",
+      "line_amount": "524.21"
+    },
+    {
+      "part_number": "AX-725",
+      "quantity": 35,
+      "unit": "boxes",
+      "unit_price": "77.02",
+      "line_amount": "2695.70"
+    }
+  ]
+}

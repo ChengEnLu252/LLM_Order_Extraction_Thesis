@@ -1,0 +1,17 @@
+PO Number: PO-2026-4783
+PO Date: 2025-04-20
+Currency: USD
+Supplier: Northstar Components Ltd. 北辰元件有限公司
+
+Ordered Items:
+1) Part No: JQ-830
+   Qty: 32 boxes
+   Unit Price: 15.14
+   Amount: 484.48
+2) Part No: HM-830
+   Qty: 13 EA
+   Unit Price: 85.51
+   Amount: 1111.63
+
+Grand Total: 1596.11
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

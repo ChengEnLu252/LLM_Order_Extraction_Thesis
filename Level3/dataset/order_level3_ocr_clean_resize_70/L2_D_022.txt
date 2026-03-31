@@ -1,0 +1,29 @@
+Purchase Order
+Document ID: L2_D_022
+Category: D
+Purchase Order No.: PO-2025-9701
+Date:03/18/2026
+Billing Currency: EUR
+Supplier: BluePeak Industrial Supply 藍峰工業供應
+Buyer: LumenTrail Procurement 光徑採購
+Ship To: 18 North Avenue, West District
+Contact Person: Kevin Huang /黄建凯
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-AX-725
+Qty 17 EA  Price 10.14 | Amount 172.38
+- DX-220
+Qty 10 pcs | Price 37.12 | Amount 371.20
+-CN-830
+Qty 32 units  Price 67.57 | Amount 2162.24
+-HM-830
+Qty 39 EA | Price 4.39 | Amount 171.21
+-FT-830 | Qty 27 pcs | Price 20.12 | Amount 543.24
+Subtotal:3420.27
+Tax:171.01
+Shipping Fee: 47.16
+Final Payable Amount: 3638.44
+PaymentTerms:30%advance，70%beforeshipment（30。预付，70%出貨前付清）
+Shipping Terms: EXw Warehouse（工廠交貨）
+Remark:Please confirm delivery schedule before shipment.出貨前請先確認交期。

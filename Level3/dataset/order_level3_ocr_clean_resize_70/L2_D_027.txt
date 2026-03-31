@@ -1,0 +1,28 @@
+Purchase Order
+Document ID: L2_D_027
+Category: D
+Purchase Order No.:PO-2024-1674
+Date:10/10/2025
+Billing Currency: JPY
+Supplier: Vertex Axis Trading 維泰軸心貿易
+Buyer: LumenTrail Procurement 光徑採購
+Ship To: 18 North Avenue, West District
+Contact Person: Ivy Chen /陳怡君
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-IR-100
+Qty25 boxes | Price 20.08 | Amount 502.00
+-HM-940
+Qty 24 EA | Price 16.50 | Amount 396.00
+-AX-725
+Qty 36 sets | Price 31.55 | Amount 1135.80
+-FT-305
+Qty 11 pcs  Price 94.88 | Amount 1043.68
+Subtotal:3077.48
+Tax:153.87
+Shipping Fee: 43.17
+Final Payable Amount: 3274.52
+Payment Terms:Paymentdueupon receipt（收貨後付款）
+Shipping Terms: EXw Warehouse(工廠交貨)
+Remark: Please include inspection report with shipment.出貨時請附檢驗報告。

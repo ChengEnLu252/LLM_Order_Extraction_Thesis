@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-3915",
+  "po_date": "2026-06-21",
+  "currency": "USD",
+  "total_amount": "2739.84",
+  "items": [
+    {
+      "part_number": "BK-305",
+      "quantity": 13,
+      "unit": "units",
+      "unit_price": "65.26",
+      "line_amount": "848.38"
+    },
+    {
+      "part_number": "BK-830",
+      "quantity": 29,
+      "unit": "boxes",
+      "unit_price": "23.40",
+      "line_amount": "678.60"
+    },
+    {
+      "part_number": "BK-512",
+      "quantity": 8,
+      "unit": "sets",
+      "unit_price": "5.42",
+      "line_amount": "43.36"
+    },
+    {
+      "part_number": "CN-100",
+      "quantity": 3,
+      "unit": "pcs",
+      "unit_price": "89.86",
+      "line_amount": "269.58"
+    },
+    {
+      "part_number": "FT-725",
+      "quantity": 26,
+      "unit": "units",
+      "unit_price": "28.11",
+      "line_amount": "730.86"
+    }
+  ]
+}

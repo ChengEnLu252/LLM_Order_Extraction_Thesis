@@ -1,0 +1,11 @@
+PO Number: PO-2026-2127
+PO Date: 15/04/2025
+Currency: EUR
+Supplier: NovaCircuit Solutions 新曜電路方案
+
+Ordered Items:
+1) IR-725 / 3 EA / 21.83 / 65.49
+2) Part: HM-100 | Qty: 40 units | Price: 11.44 | Amount: 457.60
+
+Grand Total: 523.09
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

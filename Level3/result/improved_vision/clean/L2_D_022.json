@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-9701",
+  "po_date": "2026-03-18",
+  "currency": "EUR",
+  "total_amount": 3638.44,
+  "items": [
+    {
+      "part_number": "AX-725",
+      "quantity": 17,
+      "unit": "EA",
+      "unit_price": 10.14,
+      "line_amount": 172.38
+    },
+    {
+      "part_number": "BX-220",
+      "quantity": 10,
+      "unit": "pcs",
+      "unit_price": 37.12,
+      "line_amount": 371.2
+    },
+    {
+      "part_number": "CX-330",
+      "quantity": 32,
+      "unit": "units",
+      "unit_price": 67.57,
+      "line_amount": 2162.24
+    },
+    {
+      "part_number": "DX-430",
+      "quantity": 39,
+      "unit": "EA",
+      "unit_price": 4.39,
+      "line_amount": 171.21
+    },
+    {
+      "part_number": "FB-830",
+      "quantity": 27,
+      "unit": "pcs",
+      "unit_price": 20.12,
+      "line_amount": 543.24
+    }
+  ]
+}

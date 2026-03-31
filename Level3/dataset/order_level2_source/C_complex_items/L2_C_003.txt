@@ -1,0 +1,16 @@
+PO Number: PO-2024-3913
+PO Date: October 28, 2026
+Currency: JPY
+Supplier: Ironcrest Materials 鐵冠材料有限公司
+
+Ordered Items:
+1) JQ-725 / 37 units / 49.08 / 1815.96
+2) Part No: GX-100
+   Qty: 20 units
+   Unit Price: 87.99
+   Amount: 1759.80
+3) CN-100 / 8pcs / 4.48 / 35.84
+4) Item CN-512, ordered quantity 14 boxes, unit price 28.16, total 394.24
+
+Grand Total: 4005.84
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

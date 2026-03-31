@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-4698",
+  "po_date": "2023-01-15",
+  "currency": "EUR",
+  "total_amount": 4539.97,
+  "items": [
+    {
+      "part_number": "EMX-725",
+      "quantity": 17,
+      "unit": "units",
+      "unit_price": 71.79,
+      "line_amount": 1220.43
+    },
+    {
+      "part_number": "BK-305",
+      "quantity": 38,
+      "unit": "units",
+      "unit_price": 37.96,
+      "line_amount": 1442.48
+    },
+    {
+      "part_number": "BK-305",
+      "quantity": 9,
+      "unit": "units",
+      "unit_price": 529.89,
+      "line_amount": 4768.01
+    },
+    {
+      "part_number": "BK-940",
+      "quantity": 19,
+      "unit": "units",
+      "unit_price": 47.56,
+      "line_amount": 903.64
+    },
+    {
+      "part_number": "BK-940",
+      "quantity": 7,
+      "unit": "units",
+      "unit_price": 26.03,
+      "line_amount": 182.21
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-8148",
+  "po_date": "2025-06-06",
+  "currency": "JPY",
+  "total_amount": 3947.11,
+  "items": [
+    {
+      "part_number": "GX-410",
+      "quantity": 5,
+      "unit": "EA",
+      "unit_price": 65.79,
+      "line_amount": 328.95
+    },
+    {
+      "part_number": "FT-100",
+      "quantity": 32,
+      "unit": "EA",
+      "unit_price": 5.38,
+      "line_amount": 172.16
+    },
+    {
+      "part_number": "CN-512",
+      "quantity": 18,
+      "unit": "EA",
+      "unit_price": 61.33,
+      "line_amount": 1103.94
+    },
+    {
+      "part_number": "CN-100",
+      "quantity": 40,
+      "unit": "pcs",
+      "unit_price": 58.68,
+      "line_amount": 2347.2
+    }
+  ]
+}

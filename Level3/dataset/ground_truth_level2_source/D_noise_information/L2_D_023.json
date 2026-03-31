@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-9887",
+  "po_date": "2025-02-28",
+  "currency": "JPY",
+  "total_amount": "4460.66",
+  "items": [
+    {
+      "part_number": "FT-100",
+      "quantity": 34,
+      "unit": "pcs",
+      "unit_price": "94.64",
+      "line_amount": "3217.76"
+    },
+    {
+      "part_number": "JQ-100",
+      "quantity": 26,
+      "unit": "boxes",
+      "unit_price": "37.83",
+      "line_amount": "983.58"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: BrightCore Assemblies 亮核組裝
+Purchase Order No.: PO-2025-4483
+Issued On: 10/19/2026
+Curr.: EUR
+
+SKU             Quantity     Unit       Unit Price      Line Total     
+IR-940          10           boxes      26.17           261.70         
+JQ-725          39           boxes      43.99           1715.61        
+CN-940          16           sets       99.74           1595.84        
+BK-305          7            EA         76.07           532.49         
+
+Total Amount: 4105.64
+Remarks: All goods must match approved specifications. 所有貨品須符合核准規格。

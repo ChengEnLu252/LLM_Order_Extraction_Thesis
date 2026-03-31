@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-3860",
+  "po_date": "2024-11-05",
+  "currency": "JPY",
+  "total_amount": 8654.46,
+  "items": [
+    {
+      "part_number": "DX-830",
+      "quantity": 18,
+      "unit": "EA",
+      "unit_price": 78.69,
+      "line_amount": 1416.42
+    },
+    {
+      "part_number": "FT-220",
+      "quantity": 35,
+      "unit": "EA",
+      "unit_price": 86.48,
+      "line_amount": 3026.8
+    },
+    {
+      "part_number": "CN-830",
+      "quantity": 40,
+      "unit": "sets",
+      "unit_price": 93.53,
+      "line_amount": 3741.2
+    }
+  ]
+}

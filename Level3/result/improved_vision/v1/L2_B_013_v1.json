@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-5922",
+  "po_date": "2025-10-01",
+  "currency": "JPY",
+  "total_amount": 959.3,
+  "items": [
+    {
+      "part_number": "Part R-752",
+      "quantity": 13,
+      "unit": "sets",
+      "unit_price": 96.53,
+      "line_amount": 1254.89
+    },
+    {
+      "part_number": "Part F-725",
+      "quantity": 38,
+      "unit": "boxes",
+      "unit_price": 76.63,
+      "line_amount": 2897.94
+    },
+    {
+      "part_number": "Part J-310",
+      "quantity": 27,
+      "unit": "units",
+      "unit_price": 37.77,
+      "line_amount": 1019.79
+    },
+    {
+      "part_number": "T-K10",
+      "quantity": 36,
+      "unit": "pieces",
+      "unit_price": 19.63,
+      "line_amount": 706.68
+    }
+  ]
+}

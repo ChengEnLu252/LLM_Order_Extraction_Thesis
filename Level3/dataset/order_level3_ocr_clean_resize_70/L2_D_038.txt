@@ -1,0 +1,22 @@
+Purchase Order
+Document ID: L2_D_038
+Category: D
+PurchaseOrderNo.:PO-2025-4700
+Date:April14,2026
+Billing Currency: EUR
+Supplier: NovaCircuit Solutions 新曜電路方案
+Buyer: GrandRiver Devices大河装置
+Ship To: 18 North Avenue, West District
+Contact Person: Melissa Turner /王美玲
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-FT-305 | Qty 32 pcs  Price 94.03 | Amount 3008.96
+- GX-830 | Qty 33 units | Price 67.87 | Amount 2239.71
+Subtotal:5248.67
+Tax:262.43
+Shipping Fee:37.64
+Final Payable Amount: 5548.74
+PaymentTerms:Net30days（3o天付款）
+Shipping Terms:CIF Destination（成本保險加運費）
+Remark: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

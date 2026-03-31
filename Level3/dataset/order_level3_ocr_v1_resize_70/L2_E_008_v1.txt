@@ -1,0 +1,30 @@
+Purchase Order
+Document ID: L2_E_008
+Category: E
+Supplier：AuroraLink Systems極光連結系統
+Buyer: GrandRiver Devices大河装置
+Please process the following materials based on our current procurement request.
+Order Ref:PO-2025-3434
+The requested materials are summarized below in mixed item formats.
+1.Product Code: IR-220
+Units Ordered: 20 pcs
+Item Price: 57.72
+Amount:1154.40
+2. Product Code: GX-725
+Units Ordered: 34
+pcs
+Item Price:12.55
+Amount：426.70
+3.JQ-512 / ordered quantity 31boxes / rate 66.76 / line total 2069.56
+4.Part:IR-100 Qty:18 pcs Price:59.39 |Amount:1069.02
+5.CN-725 / ordered quantity 31pcs / rate 19.60 / line total 607.60
+Additional Information:
+Issued On: 18 Sep 2024
+Theagreedpaymentconditionis30%advance，70%beforeshipment(30预付，70%出货前付清）.
+Delivery arrangement follows Exw Warehouse(工廠交货）.
+All prices are quoted in JPY.
+Subtotal:5327.28
+Discount:14.36
+Handling Fee: 6.18
+Final Amount:5319.10
+Remark:Please confirm delivery schedule before shipment.出貨前请先確認交期。

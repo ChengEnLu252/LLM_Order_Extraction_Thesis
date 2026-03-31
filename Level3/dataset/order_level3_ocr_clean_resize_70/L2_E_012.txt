@@ -1,0 +1,25 @@
+Purchase Order
+Document ID: L2_E_012
+Category: E
+Supplier:NorthstarComponents Ltd.北辰元件有限公司
+Buyer: Summit Valley Electronics峰谷電子
+Please process the following materials based on our current procurement request.
+OrderRef:PO-2025-4845
+Please note that the requested items are presented in different line formats below.
+1. CN-305 / ordered quantity 18units / rate 36.99 / line total 665.82
+2.FT-725 / ordered quantity 4pcs / rate 81.07 / line total 324.28
+3.Dx-830 / ordered quantity 16boxes / rate 13.83 / line total 221.28
+4.ProductCode:AX-940
+Units Ordered:23 boxes
+Item Price: 78.92
+Amount: 1815.16
+Additional Information:
+Issued On:2025-03-04
+Payment for this order shall follow Net 30 days(3o天付款）
+Shipping arrangement will follow FoB Origin(離岸交货）.
+All prices are quoted in JPY.
+Subtotal:3026.54
+Discount: 19.44
+Handling Fee: 12.07
+Final Amount: 3019.17
+Remark:Packaging must comply with export standards.包装需符合出口標準。

@@ -1,0 +1,35 @@
+Purchase Order
+Document ID: L2_A_042
+Category: A
+Supplier:BluePeak Industrial Supply藍峰工業供應
+Buyer：PolarEdge Manufacturing極鋒製造
+PO Number:PO-2026-6236
+Issued On:12/12/2025
+Billing Currency:JPY
+Part No.
+Order Qty
+UOM
+Price/Unit
+Line Total
+CN-618
+12
+units
+71.76
+861.12
+DX-305
+16
+EA
+13.89
+222.24
+IR-618
+33
+sets
+4.58
+151.14
+BK-220
+37
+boxes
+14.72
+544.64
+GrandTotal:1779.14
+Remarks:All goods must match approved specifications.所有货品须符合核准规格。

@@ -1,0 +1,14 @@
+Supplier: OrbitLine Distribution 軌域配銷有限公司
+Buyer: PolarEdge Manufacturing 極鋒製造
+Order ID: PO-2025-8616
+Order Date: 2026-06-11
+Billing Currency: JPY
+
+Part No.        Units Ordered Unit       Rate            Amount         
+BK-512          17           sets       83.41           1417.97        
+JQ-725          17           boxes      75.55           1284.35        
+FT-305          3            sets       50.44           151.32         
+EV-618          15           boxes      36.77           551.55         
+
+Total: 3405.19
+Remarks: Please include inspection report with shipment. 出貨時請附檢驗報告。

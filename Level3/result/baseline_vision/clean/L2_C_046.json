@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-3429",
+  "po_date": "2024-04-22",
+  "currency": "JPY",
+  "total_amount": 1554.95,
+  "items": [
+    {
+      "part_number": "J0-512",
+      "quantity": 4,
+      "unit": "boxes",
+      "unit_price": 67.37,
+      "line_amount": 269.48
+    },
+    {
+      "part_number": "J0-940",
+      "quantity": 20,
+      "unit": "EA",
+      "unit_price": 61.89,
+      "line_amount": 1237.8
+    }
+  ]
+}

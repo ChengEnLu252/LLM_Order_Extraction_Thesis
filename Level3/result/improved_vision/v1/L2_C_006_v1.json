@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-9691",
+  "po_date": "2026-06-30",
+  "currency": "JPY",
+  "total_amount": 7001.96,
+  "items": [
+    {
+      "part_number": "Part No: 30-410",
+      "quantity": 30,
+      "unit": "pcs",
+      "unit_price": 5.55,
+      "line_amount": 166.5
+    },
+    {
+      "part_number": "B: 725 / 2x2009 / 39.37 / 866.14",
+      "quantity": 36,
+      "unit": "boxes",
+      "unit_price": 73.95,
+      "line_amount": 2632.2
+    },
+    {
+      "part_number": "Part No: M-830",
+      "quantity": 34,
+      "unit": "pcs",
+      "unit_price": 60.68,
+      "line_amount": 2063.12
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+Supplier: Silver Oak Procurement 銀橡採購股份有限公司
+Buyer: Stonepath Industrial 石徑工業
+
+Please review and process the following procurement request.
+Order Ref: PO-2024-6371
+
+The requested materials are summarized below in mixed item formats.
+
+1. GX-725 / ordered quantity 8pcs / rate 16.36 / line total 130.88
+2. Product Code: CN-830
+   Units Ordered: 7 EA
+   Item Price: 8.09
+   Amount: 56.63
+3. Qty 30 units of IR-725 at 9.65 each, total 289.50
+4. Qty 37 units of GX-512 at 52.86 each, total 1955.82
+5. HM-830 / ordered quantity 33sets / rate 64.37 / line total 2124.21
+
+Additional Information:
+Order Date: 23/11/2026
+The agreed payment condition is Net 45 days（45天付款）.
+Delivery arrangement follows CIF Destination（成本保險加運費）.
+All prices are quoted in JPY.
+Subtotal: 4557.04
+Discount: 19.52
+Handling Fee: 9.16
+Final Amount: 4546.68
+Remark: Packaging must comply with export standards. 包裝需符合出口標準。

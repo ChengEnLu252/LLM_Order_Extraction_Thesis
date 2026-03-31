@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-9128",
+  "po_date": "2026-07-21",
+  "currency": "JPY",
+  "total_amount": "7487.93",
+  "items": [
+    {
+      "part_number": "CN-512",
+      "quantity": 38,
+      "unit": "pcs",
+      "unit_price": "18.35",
+      "line_amount": "697.30"
+    },
+    {
+      "part_number": "BK-410",
+      "quantity": 38,
+      "unit": "units",
+      "unit_price": "68.06",
+      "line_amount": "2586.28"
+    },
+    {
+      "part_number": "AX-410",
+      "quantity": 2,
+      "unit": "pcs",
+      "unit_price": "6.32",
+      "line_amount": "12.64"
+    },
+    {
+      "part_number": "CN-305",
+      "quantity": 32,
+      "unit": "pcs",
+      "unit_price": "37.67",
+      "line_amount": "1205.44"
+    },
+    {
+      "part_number": "GX-410",
+      "quantity": 37,
+      "unit": "boxes",
+      "unit_price": "80.71",
+      "line_amount": "2986.27"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2022-6653",
+  "po_date": "2024-04-21",
+  "currency": "JPY",
+  "total_amount": 1569.56,
+  "items": [
+    {
+      "part_number": "HM-512",
+      "quantity": 12,
+      "unit": "EA",
+      "unit_price": 47.7,
+      "line_amount": 569.64
+    },
+    {
+      "part_number": "GX-830",
+      "quantity": 36,
+      "unit": "boxes",
+      "unit_price": 24.9,
+      "line_amount": 896.4
+    }
+  ]
+}

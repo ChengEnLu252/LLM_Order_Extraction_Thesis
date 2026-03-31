@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-2497",
+  "po_date": "2024-02-02",
+  "currency": "EUR",
+  "total_amount": 389.96,
+  "items": [
+    {
+      "part_number": "BK-410",
+      "quantity": 14,
+      "unit": "EA",
+      "unit_price": 6.96,
+      "line_amount": 97.44
+    },
+    {
+      "part_number": "AX-725",
+      "quantity": 12,
+      "unit": "EA",
+      "unit_price": 72.95,
+      "line_amount": 875.4
+    },
+    {
+      "part_number": "PR-940",
+      "quantity": 1,
+      "unit": "EA",
+      "unit_price": 81.93,
+      "line_amount": 81.93
+    },
+    {
+      "part_number": "AX-725",
+      "quantity": 15,
+      "unit": "EA",
+      "unit_price": 93.56,
+      "line_amount": 1403.4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+Purchase Order
+Document ID: L2_A_044
+Category: A
+Supplier: Prime Harbor Manufacturing 鼎港製造
+Buyer: PolarEdge Manufacturing 極鋒製造
+Purchase Order No.:PO-2026-1496
+Issued On: 16/10/2026
+Billing Currency: JPY
+Item Code
+Quantity
+Unit
+Unit Price
+Line Total
+GX-512
+32
+sets
+26.00
+832.00
+CN-830
+6
+sets
+69.48
+416.88
+FT-305
+32
+boxes
+47.52
+1520.64
+FT-725
+22
+EA
+73.95
+1626.90
+Total:4396.42
+Remarks: Partial shipment is not allowed unless approved.未經同意不得分批出货。

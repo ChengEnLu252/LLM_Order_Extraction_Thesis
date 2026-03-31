@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-2870",
+  "po_date": "2026-10-15",
+  "currency": "JPY",
+  "total_amount": "2872.30",
+  "items": [
+    {
+      "part_number": "GX-618",
+      "quantity": 14,
+      "unit": "pcs",
+      "unit_price": "43.77",
+      "line_amount": "612.78"
+    },
+    {
+      "part_number": "FT-410",
+      "quantity": 38,
+      "unit": "pcs",
+      "unit_price": "55.50",
+      "line_amount": "2109.00"
+    }
+  ]
+}

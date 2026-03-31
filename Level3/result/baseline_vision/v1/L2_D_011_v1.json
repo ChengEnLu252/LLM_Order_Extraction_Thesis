@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-9687",
+  "po_date": "2024-03-25",
+  "currency": "USD",
+  "total_amount": 4602.98,
+  "items": [
+    {
+      "part_number": "EV-220",
+      "quantity": 19,
+      "unit": "boxes",
+      "unit_price": 34.83,
+      "line_amount": 661.77
+    },
+    {
+      "part_number": "EV-310",
+      "quantity": 39,
+      "unit": "units",
+      "unit_price": 40.87,
+      "line_amount": 1577.87
+    },
+    {
+      "part_number": "CK-618",
+      "quantity": 3,
+      "unit": "units",
+      "unit_price": 526.66,
+      "line_amount": 1573.66
+    },
+    {
+      "part_number": "DK-610",
+      "quantity": 2,
+      "unit": "sets",
+      "unit_price": 67.5,
+      "line_amount": 135.66
+    },
+    {
+      "part_number": "HM-618",
+      "quantity": 1,
+      "unit": "EA",
+      "unit_price": 53.48,
+      "line_amount": 53.48
+    }
+  ]
+}

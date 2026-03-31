@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-3260",
+  "po_date": "2026-05-28",
+  "currency": "EUR",
+  "total_amount": "1065.78",
+  "items": [
+    {
+      "part_number": "AX-940",
+      "quantity": 3,
+      "unit": "pcs",
+      "unit_price": "45.37",
+      "line_amount": "136.11"
+    },
+    {
+      "part_number": "GX-305",
+      "quantity": 7,
+      "unit": "sets",
+      "unit_price": "35.15",
+      "line_amount": "246.05"
+    },
+    {
+      "part_number": "AX-305",
+      "quantity": 5,
+      "unit": "units",
+      "unit_price": "40.54",
+      "line_amount": "202.70"
+    },
+    {
+      "part_number": "IR-512",
+      "quantity": 5,
+      "unit": "sets",
+      "unit_price": "97.82",
+      "line_amount": "489.10"
+    }
+  ]
+}

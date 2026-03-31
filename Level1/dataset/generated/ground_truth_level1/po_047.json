@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-0047",
+  "po_date": "2024-07-27",
+  "currency": "TWD",
+  "total_amount": 340311.65,
+  "items": [
+    {
+      "part_number": "HDMI-21-2M",
+      "quantity": 595,
+      "unit": "顆",
+      "unit_price": 169.63,
+      "line_amount": 100929.85
+    },
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 124,
+      "unit": "PCS",
+      "unit_price": 61.7,
+      "line_amount": 7650.8
+    },
+    {
+      "part_number": "TC-24P-001",
+      "quantity": 716,
+      "unit": "PCS",
+      "unit_price": 198.25,
+      "line_amount": 141947.0
+    },
+    {
+      "part_number": "HDMI-21-2M",
+      "quantity": 860,
+      "unit": "個",
+      "unit_price": 104.4,
+      "line_amount": 89784.0
+    }
+  ]
+}

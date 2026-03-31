@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-3860",
+  "po_date": "2024-05-11",
+  "currency": "JPY",
+  "total_amount": 3741.2,
+  "items": [
+    {
+      "part_number": "DX-230",
+      "quantity": 18,
+      "unit": "EA",
+      "unit_price": 78.69,
+      "line_amount": 1416.42
+    },
+    {
+      "part_number": "FP-220",
+      "quantity": 35,
+      "unit": "EA",
+      "unit_price": 86.48,
+      "line_amount": 3026.8
+    },
+    {
+      "part_number": "C-330",
+      "quantity": 4,
+      "unit": "EA",
+      "unit_price": 93.53,
+      "line_amount": 374.2
+    }
+  ]
+}

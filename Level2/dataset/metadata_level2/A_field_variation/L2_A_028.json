@@ -1,0 +1,15 @@
+{
+  "doc_id": "L2_A_028",
+  "level": "level2",
+  "category": "A",
+  "category_name": "field_variation",
+  "difficulty": "hard",
+  "complexity_type": [
+    "field_variation"
+  ],
+  "item_count": 3,
+  "currency": "USD",
+  "language_style": "bilingual",
+  "target_total_source": "direct_total",
+  "generator_version": "v1"
+}

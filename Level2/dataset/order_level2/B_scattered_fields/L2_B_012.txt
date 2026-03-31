@@ -1,0 +1,18 @@
+Supplier: NovaCircuit Solutions 新曜電路方案
+Buyer: BrightCore Assemblies 亮核組裝
+
+Please arrange the following materials for our upcoming production schedule.
+For tracking purposes, please use order reference PO-2026-9537.
+
+Item List:
+1. HM-305, quantity 19 pcs, unit price 31.51, amount 598.69
+2. GX-512, quantity 12 sets, unit price 44.60, amount 535.20
+3. Part: DX-830 | Qty: 6 units | Price: 37.39 | Amount: 224.34
+
+The issuance date for this order is December 13, 2024.
+The transaction currency for this order is JPY.
+Payment Terms: Net 45 days（45天付款）
+Shipping Terms: DAP Customer Site（目的地交貨）
+
+Total amount for this order: 1358.23
+Remark: Please include inspection report with shipment. 出貨時請附檢驗報告。

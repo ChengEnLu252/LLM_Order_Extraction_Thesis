@@ -1,0 +1,27 @@
+Purchase Order
+Document ID: L2_D_009
+Category: D
+PurchaseOrderNo.:PO-2024-3860
+Date:05/11/2024
+Billing Currency: JPY
+Supplier: CedarStone Imports 雪松石進出口
+Buyer: Stonepath Industrial石徑工業
+Ship To: 18 North Avenue, West District
+Contact Person: Daniel Brooks / 陳志宏
+Telephone:+1-555-0179
+Email:orders@procurement-mail.test
+Items:
+-DX-830
+Qty 18 EA
+Price78.69|Amount1416.42
+-FT-220
+Qty 35 EA | Price 86.48  Amount 3026.80
+-CN-830
+|Qty 40 sets | Price 93.53 | Amount 3741.20
+Subtotal:8184.42
+Tax:409.22
+Shipping Fee: 60.82
+Final Payable Amount: 8654.46
+Payment Terms:Net45 days (45天付款）
+Shipping Terms: DAP Customer Site(目的地交货）
+Remark: All goods must match approved specifications.所有货品须符合核准规格。

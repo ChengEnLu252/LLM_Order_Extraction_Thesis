@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-3128",
+  "po_date": "2025-02-25",
+  "currency": "EUR",
+  "total_amount": "3734.20",
+  "items": [
+    {
+      "part_number": "EV-410",
+      "quantity": 40,
+      "unit": "units",
+      "unit_price": "58.36",
+      "line_amount": "2334.40"
+    },
+    {
+      "part_number": "AX-305",
+      "quantity": 31,
+      "unit": "sets",
+      "unit_price": "28.99",
+      "line_amount": "898.69"
+    },
+    {
+      "part_number": "JQ-410",
+      "quantity": 6,
+      "unit": "units",
+      "unit_price": "82.81",
+      "line_amount": "496.86"
+    }
+  ]
+}

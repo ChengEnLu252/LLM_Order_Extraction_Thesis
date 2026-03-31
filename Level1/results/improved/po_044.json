@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-0044",
+  "po_date": "2025-04-28",
+  "currency": "USD",
+  "total_amount": 62582.63,
+  "items": [
+    {
+      "part_number": "HDMI-21-2M",
+      "quantity": 259,
+      "unit": "顆",
+      "unit_price": 148.31,
+      "line_amount": 38412.29
+    },
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 42,
+      "unit": "個",
+      "unit_price": 170.57,
+      "line_amount": 7163.94
+    },
+    {
+      "part_number": "PMIC-A88",
+      "quantity": 720,
+      "unit": "顆",
+      "unit_price": 23.62,
+      "line_amount": 17006.4
+    }
+  ]
+}

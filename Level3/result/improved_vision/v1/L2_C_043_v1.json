@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-9470",
+  "po_date": "2024-10-18",
+  "currency": "EUR",
+  "total_amount": 1961.76,
+  "items": [
+    {
+      "part_number": "IR-305",
+      "quantity": 13,
+      "unit": "pcs",
+      "unit_price": 78.32,
+      "line_amount": 1018.16
+    },
+    {
+      "part_number": "AX-305",
+      "quantity": 28,
+      "unit": "pcs",
+      "unit_price": 33.7,
+      "line_amount": 943.6
+    }
+  ]
+}

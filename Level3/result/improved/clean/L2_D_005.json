@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-1003",
+  "po_date": "2024-10-27",
+  "currency": "JPY",
+  "total_amount": 3776.67,
+  "items": [
+    {
+      "part_number": "HM-410",
+      "quantity": 26,
+      "unit": "EA",
+      "unit_price": 62.33,
+      "line_amount": 1620.58
+    },
+    {
+      "part_number": "EV-725",
+      "quantity": 22,
+      "unit": "boxes",
+      "unit_price": 31.37,
+      "line_amount": 690.14
+    },
+    {
+      "part_number": "JQ-940",
+      "quantity": 7,
+      "unit": "sts",
+      "unit_price": 59.11,
+      "line_amount": 413.77
+    },
+    {
+      "part_number": "AX-618",
+      "quantity": 10,
+      "unit": "units",
+      "unit_price": 85.55,
+      "line_amount": 855.5
+    }
+  ]
+}

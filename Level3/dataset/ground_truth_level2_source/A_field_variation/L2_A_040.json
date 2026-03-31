@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-8204",
+  "po_date": "2026-03-02",
+  "currency": "EUR",
+  "total_amount": "5325.65",
+  "items": [
+    {
+      "part_number": "IR-512",
+      "quantity": 25,
+      "unit": "pcs",
+      "unit_price": "92.58",
+      "line_amount": "2314.50"
+    },
+    {
+      "part_number": "JQ-305",
+      "quantity": 29,
+      "unit": "units",
+      "unit_price": "9.73",
+      "line_amount": "282.17"
+    },
+    {
+      "part_number": "BK-618",
+      "quantity": 20,
+      "unit": "boxes",
+      "unit_price": "33.48",
+      "line_amount": "669.60"
+    },
+    {
+      "part_number": "GX-305",
+      "quantity": 21,
+      "unit": "sets",
+      "unit_price": "45.70",
+      "line_amount": "959.70"
+    },
+    {
+      "part_number": "FT-725",
+      "quantity": 24,
+      "unit": "boxes",
+      "unit_price": "45.82",
+      "line_amount": "1099.68"
+    }
+  ]
+}

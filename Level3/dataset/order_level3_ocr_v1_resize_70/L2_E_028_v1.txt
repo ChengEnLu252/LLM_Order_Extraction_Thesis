@@ -1,0 +1,29 @@
+Purchase Order
+Document ID: L2_E_028
+Category: E
+Supplier：Ironcrest Materials鐵冠材料有限公司
+Buyer:GrandRiver Devices大河装置
+Please review and process the following procurement request.
+PONumber:PO-2024-4282
+The requested items are listed below.
+1.Part:FT-618 |Qty:31 units | Price:60.78 | Amount:1884.18
+2. CN-220 / ordered quantity 21sets / rate 43.03 / line total 903.63
+3.AX-410 / ordered quantity  4EA / rate 50.60 / line total 202.40
+4.Product Code:DX-830
+Units Ordered: 31 boxes
+Item Price: 63.14
+Amount:1957.34
+5.Product Code:CN-100
+Units Ordered:26 boxes
+Item Price:22.12
+Amount:575.12
+Additional Information:
+Order Date:02/16/2025
+PaymentTerms:Net30days（30天付款）
+ShippingTerms：EXwWarehouse（工廠交货）
+All prices are quoted in USD.
+Subtotal:5522.67
+Discount:9.36
+Handling Fee: 5.33
+Final Amount: 5518.64
+Remark: Please confirm delivery schedule before shipment.出貨前請先確認交期。

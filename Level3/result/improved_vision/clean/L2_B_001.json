@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-1187",
+  "po_date": null,
+  "currency": "JPY",
+  "total_amount": 1891.14,
+  "items": [
+    {
+      "part_number": "CN-78",
+      "quantity": 9,
+      "unit": "units",
+      "unit_price": 47.61,
+      "line_amount": 428.49
+    },
+    {
+      "part_number": "EV-618",
+      "quantity": 21,
+      "unit": "units",
+      "unit_price": 69.65,
+      "line_amount": 1462.65
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-6850",
+  "po_date": "2024-05-18",
+  "currency": "EUR",
+  "total_amount": 3626.2,
+  "items": [
+    {
+      "part_number": "IR-618",
+      "quantity": 10,
+      "unit": "EA",
+      "unit_price": 6.34,
+      "line_amount": 63.4
+    },
+    {
+      "part_number": "HM-305",
+      "quantity": 31,
+      "unit": "EA",
+      "unit_price": 98.12,
+      "line_amount": 3041.72
+    },
+    {
+      "part_number": "HM-100",
+      "quantity": 6,
+      "unit": "boxes",
+      "unit_price": 72.17,
+      "line_amount": 433.02
+    },
+    {
+      "part_number": "DX-100",
+      "quantity": 14,
+      "unit": "boxes",
+      "unit_price": 6.29,
+      "line_amount": 88.06
+    }
+  ]
+}

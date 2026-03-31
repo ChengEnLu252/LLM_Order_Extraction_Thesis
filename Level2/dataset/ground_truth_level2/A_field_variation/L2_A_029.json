@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2025-9619",
+  "po_date": "2024-08-20",
+  "currency": "JPY",
+  "total_amount": "6561.02",
+  "items": [
+    {
+      "part_number": "BK-830",
+      "quantity": 25,
+      "unit": "units",
+      "unit_price": "52.30",
+      "line_amount": "1307.50"
+    },
+    {
+      "part_number": "AX-940",
+      "quantity": 16,
+      "unit": "boxes",
+      "unit_price": "94.65",
+      "line_amount": "1514.40"
+    },
+    {
+      "part_number": "AX-100",
+      "quantity": 31,
+      "unit": "sets",
+      "unit_price": "65.05",
+      "line_amount": "2016.55"
+    },
+    {
+      "part_number": "BK-830",
+      "quantity": 27,
+      "unit": "sets",
+      "unit_price": "43.77",
+      "line_amount": "1181.79"
+    },
+    {
+      "part_number": "FT-305",
+      "quantity": 6,
+      "unit": "pcs",
+      "unit_price": "90.13",
+      "line_amount": "540.78"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-2850",
+  "po_date": "2022-04-22",
+  "currency": null,
+  "total_amount": 2787.33,
+  "items": [
+    {
+      "part_number": "IR-10",
+      "quantity": 2,
+      "unit": "boxes",
+      "unit_price": 31.2,
+      "line_amount": 70.62
+    },
+    {
+      "part_number": "20-220",
+      "quantity": 35,
+      "unit": "sets",
+      "unit_price": 53.26,
+      "line_amount": 1864.1
+    },
+    {
+      "part_number": "G3-X",
+      "quantity": 17,
+      "unit": "units",
+      "unit_price": 49.23,
+      "line_amount": 836.31
+    },
+    {
+      "part_number": "CN-40",
+      "quantity": 5,
+      "unit": "sets",
+      "unit_price": 3.14,
+      "line_amount": 15.7
+    }
+  ]
+}

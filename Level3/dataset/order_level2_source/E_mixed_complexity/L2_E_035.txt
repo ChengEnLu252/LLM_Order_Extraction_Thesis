@@ -1,0 +1,22 @@
+Supplier: NovaCircuit Solutions 新曜電路方案
+Buyer: LumenTrail Procurement 光徑採購
+
+Kindly proceed with the following mixed-format order details.
+PO Number: PO-2024-3128
+
+The requested materials are summarized below in mixed item formats.
+
+1. Part: EV-410 | Qty: 40 units | Price: 58.36 | Amount: 2334.40
+2. Part: AX-305 | Qty: 31 sets | Price: 28.99 | Amount: 898.69
+3. Qty 6 units of JQ-410 at 82.81 each, total 496.86
+
+Additional Information:
+PO Date: February 25, 2025
+The agreed payment condition is 30% advance, 70% before shipment（30% 預付，70% 出貨前付清）.
+Delivery arrangement follows DAP Customer Site（目的地交貨）.
+All prices are quoted in EUR.
+Subtotal: 3729.95
+Discount: 9.32
+Handling Fee: 13.57
+Final Amount: 3734.20
+Remark: Partial shipment is not allowed unless approved. 未經同意不得分批出貨。

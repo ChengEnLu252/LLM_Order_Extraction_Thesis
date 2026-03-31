@@ -1,0 +1,13 @@
+﻿category,file_name,section,item_index,field,ground_truth,prediction
+A_field_variation,L2_A_011.json,header,,po_date,"""2025-09-07""","""2025-07-09"""
+B_scattered_fields,L2_B_007.json,header,,po_date,"""2026-01-05""","""2026-05-01"""
+B_scattered_fields,L2_B_014.json,header,,po_date,"""2026-09-08""","""2026-08-09"""
+B_scattered_fields,L2_B_019.json,header,,po_date,"""2024-12-05""","""2024-05-12"""
+B_scattered_fields,L2_B_021.json,header,,po_date,"""2024-04-09""","""2024-09-04"""
+B_scattered_fields,L2_B_045.json,header,,po_date,"""2024-01-10""","""2024-10-01"""
+C_complex_items,L2_C_039.json,header,,po_date,"""2025-06-11""","""2025-11-06"""
+D_noise_information,L2_D_009.json,header,,po_date,"""2024-11-05""","""2024-05-11"""
+D_noise_information,L2_D_015.json,header,,po_date,"""2024-05-09""","""2024-09-05"""
+D_noise_information,L2_D_030.json,header,,po_date,"""2026-07-01""","""2026-01-07"""
+D_noise_information,L2_D_050.json,header,,po_date,"""2024-03-10""","""2024-10-03"""
+E_mixed_complexity,L2_E_031.json,header,,po_date,"""2026-02-05""","""2026-05-02"""

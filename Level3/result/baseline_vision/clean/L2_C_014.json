@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2022-2127",
+  "po_date": "2025-04-15",
+  "currency": "EUR",
+  "total_amount": 523.09,
+  "items": [
+    {
+      "part_number": "RN-725",
+      "quantity": 3,
+      "unit": "EA",
+      "unit_price": 21.83,
+      "line_amount": 65.49
+    },
+    {
+      "part_number": "HM-100",
+      "quantity": 40,
+      "unit": null,
+      "unit_price": 11.44,
+      "line_amount": 457.6
+    }
+  ]
+}

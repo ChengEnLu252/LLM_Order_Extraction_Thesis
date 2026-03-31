@@ -1,0 +1,25 @@
+Purchase Order No.: PO-2024-2060
+Date: 14/01/2026
+Billing Currency: USD
+Supplier: Ironcrest Materials 鐵冠材料有限公司
+Buyer: GrandRiver Devices 大河裝置
+
+Ship To: 18 North Avenue, West District
+Contact Person: Kevin Huang / 黃建凱
+Telephone: +1-555-0179
+Email: orders@procurement-mail.test
+
+Items:
+- GX-830 | Qty 9 boxes | Price 24.82 | Amount 223.38
+- GX-618 | Qty 39 sets | Price 60.18 | Amount 2347.02
+- HM-940 | Qty 40 boxes | Price 95.11 | Amount 3804.40
+- BK-220 | Qty 11 boxes | Price 77.26 | Amount 849.86
+- CN-100 | Qty 33 pcs | Price 50.73 | Amount 1674.09
+
+Subtotal: 8898.75
+Tax: 444.94
+Shipping Fee: 57.47
+Final Payable Amount: 9401.16
+Payment Terms: Net 30 days（30天付款）
+Shipping Terms: DAP Customer Site（目的地交貨）
+Remark: Please confirm delivery schedule before shipment. 出貨前請先確認交期。

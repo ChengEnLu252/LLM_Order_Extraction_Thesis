@@ -1,0 +1,41 @@
+Purchase Order
+Document ID: L2_A_029
+Category: A
+Supplier:BluePeak Industrial Supply藍峰工業供應
+Buyer：LumenTrailProcurement光徑採購
+P.O.NO.：PO-2025-9619
+Issued On:20 Aug 2024
+Billing Currency: JPY
+Part No.
+Quantity
+Unit
+Unit Price
+Line Total
+BK-830
+25
+units
+52.30
+1307.50
+AX-940
+16
+boxes
+94.65
+1514.40
+AX-100
+31
+sets
+65.05
+2016.55
+BK-830
+27
+sets
+43.77
+1181.79
+FT-305
+6
+pcs
+90.13
+540.78
+Grand Total:6561.02
+Remarks: Packaging must comply with export standards.包装需符合出口標準。
+a

@@ -1,0 +1,19 @@
+
+Subject: PO-2026-0048
+
+Hi,
+
+Please process this order.
+
+Buyer: 承恩科技股份有限公司
+Supplier: 宏達電子有限公司
+Date: October 01, 2024
+
+Items:
+1. 固態硬碟 1TB (SSD-1TB-X) 數量: 914 顆 單價: 184.37 小計: 168514.18
+2. HDMI 2.1 高速傳輸線 (HDMI-21-2M) 數量: 191 個 單價: 70.42 小計: 13450.22
+3. Type-C 連接器 24Pin (TC-24P-001) 數量: 212 顆 單價: 135.65 小計: 28757.8
+4. 電源管理IC (PMIC-A88) 數量: 152 條 單價: 176.21 小計: 26783.92
+
+
+Total Amount: 237506.12 TWD
