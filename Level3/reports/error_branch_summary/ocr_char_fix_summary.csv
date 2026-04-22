@@ -1,0 +1,3 @@
+﻿version,total_docs,baseline_document_accuracy,fixed_document_accuracy,total_po_number,baseline_po_number_accuracy,fixed_po_number_accuracy,po_number_fix_success,po_number_overcorrection,total_part_number,baseline_part_number_accuracy,fixed_part_number_accuracy,part_number_fix_success,part_number_overcorrection
+clean_baseline,250,0.868,0.936,250,0.96,1.0,10,0,891,0.9876543209876543,0.9988776655443322,10,0
+v1_baseline,250,0.828,0.932,250,0.876,1.0,31,0,891,0.9977553310886644,0.9977553310886644,0,0

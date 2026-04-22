@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-3564",
+  "po_date": "2024-06-01",
+  "currency": "EUR",
+  "total_amount": 2124.73,
+  "items": [
+    {
+      "part_number": "EV-830",
+      "quantity": 4,
+      "unit": "pcs",
+      "unit_price": 24.68,
+      "line_amount": 98.72
+    },
+    {
+      "part_number": "JQ-410",
+      "quantity": 16,
+      "unit": "sets",
+      "unit_price": 92.54,
+      "line_amount": 1480.64
+    },
+    {
+      "part_number": "CN-512",
+      "quantity": 9,
+      "unit": "EA",
+      "unit_price": 55.37,
+      "line_amount": 498.33
+    },
+    {
+      "part_number": "EV-512",
+      "quantity": 6,
+      "unit": "sets",
+      "unit_price": 7.84,
+      "line_amount": 47.04
+    }
+  ]
+}

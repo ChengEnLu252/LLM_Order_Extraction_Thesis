@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-3465",
+  "po_date": "2025-09-06",
+  "currency": "EUR",
+  "total_amount": 2659.07,
+  "items": [
+    {
+      "part_number": "EV-512",
+      "quantity": 15,
+      "unit": "EA",
+      "unit_price": 84.9,
+      "line_amount": 1273.5
+    },
+    {
+      "part_number": "DX-725",
+      "quantity": 18,
+      "unit": "EA",
+      "unit_price": 69.31,
+      "line_amount": 1247.58
+    }
+  ]
+}

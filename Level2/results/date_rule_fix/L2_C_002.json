@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-8912",
+  "po_date": "2026-11-07",
+  "currency": "USD",
+  "total_amount": 4042.15,
+  "items": [
+    {
+      "part_number": "JQ-618",
+      "quantity": 8,
+      "unit": "units",
+      "unit_price": 39.97,
+      "line_amount": 319.76
+    },
+    {
+      "part_number": "JQ-410",
+      "quantity": 26,
+      "unit": "boxes",
+      "unit_price": 43.03,
+      "line_amount": 1118.78
+    },
+    {
+      "part_number": "EV-830",
+      "quantity": 27,
+      "unit": "EA",
+      "unit_price": 96.43,
+      "line_amount": 2603.61
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-6862",
+  "po_date": "2025-03-06",
+  "currency": "JPY",
+  "total_amount": 5750.83,
+  "items": [
+    {
+      "part_number": "GX-305",
+      "quantity": 37,
+      "unit": "EA",
+      "unit_price": 88.65,
+      "line_amount": 3280.05
+    },
+    {
+      "part_number": "CN-725",
+      "quantity": 12,
+      "unit": "pcs",
+      "unit_price": 97.67,
+      "line_amount": 1172.04
+    },
+    {
+      "part_number": "FT-725",
+      "quantity": 13,
+      "unit": "EA",
+      "unit_price": 74.18,
+      "line_amount": 964.34
+    },
+    {
+      "part_number": "BK-725",
+      "quantity": 19,
+      "unit": "pcs",
+      "unit_price": 17.6,
+      "line_amount": 334.4
+    }
+  ]
+}

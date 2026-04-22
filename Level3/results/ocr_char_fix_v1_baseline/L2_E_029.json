@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-5292",
+  "po_date": "2024-12-22",
+  "currency": "EUR",
+  "total_amount": 1429.41,
+  "items": [
+    {
+      "part_number": "EV-220",
+      "quantity": 14,
+      "unit": "pcs",
+      "unit_price": 4.11,
+      "line_amount": 57.54
+    },
+    {
+      "part_number": "BK-618",
+      "quantity": 10,
+      "unit": "EA",
+      "unit_price": 39.13,
+      "line_amount": 391.3
+    },
+    {
+      "part_number": "FT-618",
+      "quantity": 21,
+      "unit": "EA",
+      "unit_price": 46.71,
+      "line_amount": 980.91
+    }
+  ]
+}

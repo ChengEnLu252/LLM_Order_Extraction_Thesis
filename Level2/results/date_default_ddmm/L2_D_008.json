@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2026-8687",
+  "po_date": "2025-09-11",
+  "currency": "EUR",
+  "total_amount": 947.44,
+  "items": [
+    {
+      "part_number": "JQ-512",
+      "quantity": 12,
+      "unit": "units",
+      "unit_price": 5.46,
+      "line_amount": 65.52
+    },
+    {
+      "part_number": "HM-305",
+      "quantity": 18,
+      "unit": "units",
+      "unit_price": 8.02,
+      "line_amount": 144.36
+    },
+    {
+      "part_number": "EV-100",
+      "quantity": 5,
+      "unit": "boxes",
+      "unit_price": 66.32,
+      "line_amount": 331.6
+    },
+    {
+      "part_number": "IR-220",
+      "quantity": 33,
+      "unit": "boxes",
+      "unit_price": 10.09,
+      "line_amount": 332.97
+    }
+  ]
+}

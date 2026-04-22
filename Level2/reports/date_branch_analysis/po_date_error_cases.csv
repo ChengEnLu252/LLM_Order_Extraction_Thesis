@@ -1,0 +1,13 @@
+﻿file_name,raw_date_string,raw_date_line,predicted_po_date,ground_truth_po_date,is_correct,is_day_month_swap
+L2_A_011,07/09/2025,Date Issued: 07/09/2025,2025-07-09,2025-09-07,False,True
+L2_B_007,05/01/2026,Please note that the order date is 05/01/2026.,2026-05-01,2026-01-05,False,True
+L2_B_014,08/09/2026,Please note that the order date is 08/09/2026.,2026-08-09,2026-09-08,False,True
+L2_B_019,05/12/2024,This order was issued on 05/12/2024.,2024-05-12,2024-12-05,False,True
+L2_B_021,09/04/2024,The issuance date for this order is 09/04/2024.,2024-09-04,2024-04-09,False,True
+L2_B_045,10/01/2024,The issuance date for this order is 10/01/2024.,2024-10-01,2024-01-10,False,True
+L2_C_039,11/06/2025,PO Date: 11/06/2025,2025-11-06,2025-06-11,False,True
+L2_D_009,05/11/2024,Date: 05/11/2024,2024-05-11,2024-11-05,False,True
+L2_D_015,09/05/2024,Date: 09/05/2024,2024-09-05,2024-05-09,False,True
+L2_D_030,07/01/2026,Date: 07/01/2026,2026-01-07,2026-07-01,False,True
+L2_D_050,10/03/2024,Date: 10/03/2024,2024-10-03,2024-03-10,False,True
+L2_E_031,05/02/2026,Order Date: 05/02/2026,2026-05-02,2026-02-05,False,True

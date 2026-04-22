@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2026-8423",
+  "po_date": "2025-10-27",
+  "currency": "JPY",
+  "total_amount": 1465.48,
+  "items": [
+    {
+      "part_number": "EV-618",
+      "quantity": 5,
+      "unit": "pcs",
+      "unit_price": 80.55,
+      "line_amount": 402.75
+    },
+    {
+      "part_number": "JQ-725",
+      "quantity": 6,
+      "unit": "pcs",
+      "unit_price": 55.62,
+      "line_amount": 333.72
+    },
+    {
+      "part_number": "DX-725",
+      "quantity": 27,
+      "unit": "pcs",
+      "unit_price": 27.01,
+      "line_amount": 729.27
+    }
+  ]
+}

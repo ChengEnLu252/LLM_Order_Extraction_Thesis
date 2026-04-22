@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-7165",
+  "po_date": "2026-06-25",
+  "currency": "EUR",
+  "total_amount": 5815.07,
+  "items": [
+    {
+      "part_number": "EV-305",
+      "quantity": 37,
+      "unit": "sets",
+      "unit_price": 66.62,
+      "line_amount": 2464.94
+    },
+    {
+      "part_number": "GX-830",
+      "quantity": 29,
+      "unit": "pcs",
+      "unit_price": 15.18,
+      "line_amount": 440.22
+    },
+    {
+      "part_number": "IR-940",
+      "quantity": 38,
+      "unit": "units",
+      "unit_price": 68.15,
+      "line_amount": 2589.7
+    }
+  ]
+}

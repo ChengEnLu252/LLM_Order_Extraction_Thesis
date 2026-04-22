@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-2063",
+  "po_date": "2025-08-22",
+  "currency": "EUR",
+  "total_amount": 5642.2,
+  "items": [
+    {
+      "part_number": "IR-410",
+      "quantity": 23,
+      "unit": "EA",
+      "unit_price": 53.65,
+      "line_amount": 1233.95
+    },
+    {
+      "part_number": "IR-220",
+      "quantity": 5,
+      "unit": "sets",
+      "unit_price": 12.71,
+      "line_amount": 63.55
+    },
+    {
+      "part_number": "EV-725",
+      "quantity": 40,
+      "unit": "units",
+      "unit_price": 93.52,
+      "line_amount": 3740.8
+    },
+    {
+      "part_number": "JQ-618",
+      "quantity": 22,
+      "unit": "EA",
+      "unit_price": 27.45,
+      "line_amount": 603.9
+    }
+  ]
+}

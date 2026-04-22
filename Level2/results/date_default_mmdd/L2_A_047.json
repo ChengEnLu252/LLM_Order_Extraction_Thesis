@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2025-5350",
+  "po_date": "2025-04-11",
+  "currency": "JPY",
+  "total_amount": 3296.13,
+  "items": [
+    {
+      "part_number": "JQ-725",
+      "quantity": 35,
+      "unit": "EA",
+      "unit_price": 63.64,
+      "line_amount": 2227.4
+    },
+    {
+      "part_number": "BK-410",
+      "quantity": 17,
+      "unit": "pcs",
+      "unit_price": 5.09,
+      "line_amount": 86.53
+    },
+    {
+      "part_number": "CN-725",
+      "quantity": 30,
+      "unit": "EA",
+      "unit_price": 32.74,
+      "line_amount": 982.2
+    }
+  ]
+}

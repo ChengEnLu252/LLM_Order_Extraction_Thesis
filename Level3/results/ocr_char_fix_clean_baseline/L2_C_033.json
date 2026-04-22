@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-6159",
+  "po_date": "2024-02-14",
+  "currency": "JPY",
+  "total_amount": 2417.98,
+  "items": [
+    {
+      "part_number": "CN-305",
+      "quantity": 4,
+      "unit": "boxes",
+      "unit_price": 47.12,
+      "line_amount": 188.48
+    },
+    {
+      "part_number": "DX-410",
+      "quantity": 25,
+      "unit": "boxes",
+      "unit_price": 89.18,
+      "line_amount": 2229.5
+    }
+  ]
+}

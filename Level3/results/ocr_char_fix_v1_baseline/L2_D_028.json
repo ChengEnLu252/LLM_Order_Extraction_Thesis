@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2024-8243",
+  "po_date": "2025-11-24",
+  "currency": "JPY",
+  "total_amount": 2543.63,
+  "items": [
+    {
+      "part_number": "BK-512",
+      "quantity": 10,
+      "unit": "pcs",
+      "unit_price": 68.44,
+      "line_amount": 684.4
+    },
+    {
+      "part_number": "DX-830",
+      "quantity": 27,
+      "unit": "boxes",
+      "unit_price": 62.52,
+      "line_amount": 1688.04
+    }
+  ]
+}

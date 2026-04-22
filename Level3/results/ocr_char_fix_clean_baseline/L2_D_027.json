@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-1674",
+  "po_date": "2025-10-10",
+  "currency": "JPY",
+  "total_amount": 3274.52,
+  "items": [
+    {
+      "part_number": "IR-100",
+      "quantity": 25,
+      "unit": "boxes",
+      "unit_price": 20.08,
+      "line_amount": 502.0
+    },
+    {
+      "part_number": "HM-940",
+      "quantity": 24,
+      "unit": "EA",
+      "unit_price": 16.5,
+      "line_amount": 396.0
+    },
+    {
+      "part_number": "AX-725",
+      "quantity": 36,
+      "unit": "sets",
+      "unit_price": 31.55,
+      "line_amount": 1135.8
+    },
+    {
+      "part_number": "FT-305",
+      "quantity": 11,
+      "unit": "pcs",
+      "unit_price": 94.88,
+      "line_amount": 1043.68
+    }
+  ]
+}

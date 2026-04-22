@@ -1,0 +1,251 @@
+﻿file_name,raw_date_string,raw_date_line,baseline_po_date,corrected_po_date,changed,decision_reason
+L2_A_001,2024-02-21,Order Date: 2024-02-21,2024-02-21,2024-02-21,False,direct_normalized_non_ambiguous
+L2_A_002,,,2024-03-29,2024-03-29,False,keep_baseline_no_raw_date_found
+L2_A_003,10/19/2026,Issued On: 10/19/2026,2026-10-19,2026-10-19,False,direct_normalized_non_ambiguous
+L2_A_004,08/05/2024,Order Date: 08/05/2024,2024-08-05,2024-08-05,False,keep_baseline_ambiguous_no_doc_hint
+L2_A_005,2024-09-04,Date Issued: 2024-09-04,2024-09-04,2024-09-04,False,direct_normalized_non_ambiguous
+L2_A_006,2024-08-11,PO Date: 2024-08-11,2024-08-11,2024-08-11,False,direct_normalized_non_ambiguous
+L2_A_007,2024-05-20,Date Issued: 2024-05-20,2024-05-20,2024-05-20,False,direct_normalized_non_ambiguous
+L2_A_008,08/07/2024,Date: 08/07/2024,2024-08-07,2024-08-07,False,keep_baseline_ambiguous_no_doc_hint
+L2_A_009,03/06/2025,Date Issued: 03/06/2025,2025-03-06,2025-03-06,False,keep_baseline_ambiguous_no_doc_hint
+L2_A_010,,,2026-11-09,2026-11-09,False,keep_baseline_no_raw_date_found
+L2_A_011,07/09/2025,Date Issued: 07/09/2025,2025-07-09,2025-07-09,False,keep_baseline_ambiguous_no_doc_hint
+L2_A_012,,,2025-05-16,2025-05-16,False,keep_baseline_no_raw_date_found
+L2_A_013,,,2025-04-25,2025-04-25,False,keep_baseline_no_raw_date_found
+L2_A_014,2025-03-27,PO Date: 2025-03-27,2025-03-27,2025-03-27,False,direct_normalized_non_ambiguous
+L2_A_015,,,2024-09-15,2024-09-15,False,keep_baseline_no_raw_date_found
+L2_A_016,2026-06-11,Order Date: 2026-06-11,2026-06-11,2026-06-11,False,direct_normalized_non_ambiguous
+L2_A_017,13/05/2025,PO Date: 13/05/2025,2025-05-13,2025-05-13,False,direct_normalized_non_ambiguous
+L2_A_018,26/01/2024,PO Date: 26/01/2024,2024-01-26,2024-01-26,False,direct_normalized_non_ambiguous
+L2_A_019,01/06/2024,Date Issued: 01/06/2024,2024-01-06,2024-01-06,False,keep_baseline_ambiguous_no_doc_hint
+L2_A_020,,,2026-08-21,2026-08-21,False,keep_baseline_no_raw_date_found
+L2_A_021,25/09/2024,Issued On: 25/09/2024,2024-09-25,2024-09-25,False,direct_normalized_non_ambiguous
+L2_A_022,,,2026-02-24,2026-02-24,False,keep_baseline_no_raw_date_found
+L2_A_023,2024-11-07,Issued On: 2024-11-07,2024-11-07,2024-11-07,False,direct_normalized_non_ambiguous
+L2_A_024,,,2026-06-01,2026-06-01,False,keep_baseline_no_raw_date_found
+L2_A_025,,,2025-08-27,2025-08-27,False,keep_baseline_no_raw_date_found
+L2_A_026,,,2026-01-19,2026-01-19,False,keep_baseline_no_raw_date_found
+L2_A_027,,,2024-08-26,2024-08-26,False,keep_baseline_no_raw_date_found
+L2_A_028,13/02/2024,Date Issued: 13/02/2024,2024-02-13,2024-02-13,False,direct_normalized_non_ambiguous
+L2_A_029,,,2024-08-20,2024-08-20,False,keep_baseline_no_raw_date_found
+L2_A_030,2026-05-01,Date: 2026-05-01,2026-05-01,2026-05-01,False,direct_normalized_non_ambiguous
+L2_A_031,,,2026-05-28,2026-05-28,False,keep_baseline_no_raw_date_found
+L2_A_032,,,2025-07-13,2025-07-13,False,keep_baseline_no_raw_date_found
+L2_A_033,,,2024-02-12,2024-02-12,False,keep_baseline_no_raw_date_found
+L2_A_034,,,2025-10-09,2025-10-09,False,keep_baseline_no_raw_date_found
+L2_A_035,15/01/2026,Date Issued: 15/01/2026,2026-01-15,2026-01-15,False,direct_normalized_non_ambiguous
+L2_A_036,2024-06-07,PO Date: 2024-06-07,2024-06-07,2024-06-07,False,direct_normalized_non_ambiguous
+L2_A_037,17/11/2026,PO Date: 17/11/2026,2026-11-17,2026-11-17,False,direct_normalized_non_ambiguous
+L2_A_038,05/16/2026,Date: 05/16/2026,2026-05-16,2026-05-16,False,direct_normalized_non_ambiguous
+L2_A_039,,,2024-05-18,2024-05-18,False,keep_baseline_no_raw_date_found
+L2_A_040,,,2026-03-02,2026-03-02,False,keep_baseline_no_raw_date_found
+L2_A_041,,,2026-07-10,2026-07-10,False,keep_baseline_no_raw_date_found
+L2_A_042,12/12/2025,Issued On: 12/12/2025,2025-12-12,2025-12-12,False,keep_baseline_ambiguous_no_doc_hint
+L2_A_043,,,2024-09-11,2024-09-11,False,keep_baseline_no_raw_date_found
+L2_A_044,16/10/2026,Issued On: 16/10/2026,2026-10-16,2026-10-16,False,direct_normalized_non_ambiguous
+L2_A_045,01/23/2025,Order Date: 01/23/2025,2025-01-23,2025-01-23,False,direct_normalized_non_ambiguous
+L2_A_046,2025-02-11,Date Issued: 2025-02-11,2025-02-11,2025-02-11,False,direct_normalized_non_ambiguous
+L2_A_047,,,2025-04-11,2025-04-11,False,keep_baseline_no_raw_date_found
+L2_A_048,25/06/2025,PO Date: 25/06/2025,2025-06-25,2025-06-25,False,direct_normalized_non_ambiguous
+L2_A_049,,,2025-07-10,2025-07-10,False,keep_baseline_no_raw_date_found
+L2_A_050,03/17/2024,Order Date: 03/17/2024,2024-03-17,2024-03-17,False,direct_normalized_non_ambiguous
+L2_B_001,,,2025-06-19,2025-06-19,False,keep_baseline_no_raw_date_found
+L2_B_002,,,2026-12-12,2026-12-12,False,keep_baseline_no_raw_date_found
+L2_B_003,23/09/2025,The issuance date for this order is 23/09/2025.,2025-09-23,2025-09-23,False,direct_normalized_non_ambiguous
+L2_B_004,,,2026-05-18,2026-05-18,False,keep_baseline_no_raw_date_found
+L2_B_005,04/30/2025,Please note that the order date is 04/30/2025.,2025-04-30,2025-04-30,False,direct_normalized_non_ambiguous
+L2_B_006,,,2026-02-11,2026-02-11,False,keep_baseline_no_raw_date_found
+L2_B_007,05/01/2026,Please note that the order date is 05/01/2026.,2026-05-01,2026-05-01,False,keep_baseline_ambiguous_no_doc_hint
+L2_B_008,2024-10-08,This order was issued on 2024-10-08.,2024-10-08,2024-10-08,False,direct_normalized_non_ambiguous
+L2_B_009,,,2024-06-10,2024-06-10,False,keep_baseline_no_raw_date_found
+L2_B_010,03/26/2026,The issuance date for this order is 03/26/2026.,2026-03-26,2026-03-26,False,direct_normalized_non_ambiguous
+L2_B_011,,,2025-08-27,2025-08-27,False,keep_baseline_no_raw_date_found
+L2_B_012,,,2024-12-13,2024-12-13,False,keep_baseline_no_raw_date_found
+L2_B_013,,,2025-10-18,2025-10-18,False,keep_baseline_no_raw_date_found
+L2_B_014,08/09/2026,Please note that the order date is 08/09/2026.,2026-08-09,2026-08-09,False,keep_baseline_ambiguous_no_doc_hint
+L2_B_015,07/01/2026,This order was issued on 07/01/2026.,2026-07-01,2026-07-01,False,keep_baseline_ambiguous_no_doc_hint
+L2_B_016,11/22/2026,Please note that the order date is 11/22/2026.,2026-11-22,2026-11-22,False,direct_normalized_non_ambiguous
+L2_B_017,,,2024-12-19,2024-12-19,False,keep_baseline_no_raw_date_found
+L2_B_018,,,2026-10-10,2026-10-10,False,keep_baseline_no_raw_date_found
+L2_B_019,05/12/2024,This order was issued on 05/12/2024.,2024-05-12,2024-05-12,False,keep_baseline_ambiguous_no_doc_hint
+L2_B_020,04/28/2026,The issuance date for this order is 04/28/2026.,2026-04-28,2026-04-28,False,direct_normalized_non_ambiguous
+L2_B_021,09/04/2024,The issuance date for this order is 09/04/2024.,2024-09-04,2024-09-04,False,keep_baseline_ambiguous_no_doc_hint
+L2_B_022,2024-07-05,Please note that the order date is 2024-07-05.,2024-07-05,2024-07-05,False,direct_normalized_non_ambiguous
+L2_B_023,,,2025-03-12,2025-03-12,False,keep_baseline_no_raw_date_found
+L2_B_024,,,2026-01-18,2026-01-18,False,keep_baseline_no_raw_date_found
+L2_B_025,10/31/2025,The issuance date for this order is 10/31/2025.,2025-10-31,2025-10-31,False,direct_normalized_non_ambiguous
+L2_B_026,2026-07-21,This order was issued on 2026-07-21.,2026-07-21,2026-07-21,False,direct_normalized_non_ambiguous
+L2_B_027,2024-06-25,This order was issued on 2024-06-25.,2024-06-25,2024-06-25,False,direct_normalized_non_ambiguous
+L2_B_028,2024-07-14,This order was issued on 2024-07-14.,2024-07-14,2024-07-14,False,direct_normalized_non_ambiguous
+L2_B_029,01/03/2026,Please note that the order date is 01/03/2026.,2026-01-03,2026-01-03,False,keep_baseline_ambiguous_no_doc_hint
+L2_B_030,2025-02-08,Please note that the order date is 2025-02-08.,2025-02-08,2025-02-08,False,direct_normalized_non_ambiguous
+L2_B_031,04/23/2026,Please note that the order date is 04/23/2026.,2026-04-23,2026-04-23,False,direct_normalized_non_ambiguous
+L2_B_032,01/02/2026,This order was issued on 01/02/2026.,2026-01-02,2026-01-02,False,keep_baseline_ambiguous_no_doc_hint
+L2_B_033,,,2026-10-01,2026-10-01,False,keep_baseline_no_raw_date_found
+L2_B_034,2025-10-11,Please note that the order date is 2025-10-11.,2025-10-11,2025-10-11,False,direct_normalized_non_ambiguous
+L2_B_035,2025-03-05,Please note that the order date is 2025-03-05.,2025-03-05,2025-03-05,False,direct_normalized_non_ambiguous
+L2_B_036,12/03/2024,This order was issued on 12/03/2024.,2024-12-03,2024-12-03,False,keep_baseline_ambiguous_no_doc_hint
+L2_B_037,,,2024-07-17,2024-07-17,False,keep_baseline_no_raw_date_found
+L2_B_038,,,2025-04-27,2025-04-27,False,keep_baseline_no_raw_date_found
+L2_B_039,,,2025-06-24,2025-06-24,False,keep_baseline_no_raw_date_found
+L2_B_040,,,2024-07-01,2024-07-01,False,keep_baseline_no_raw_date_found
+L2_B_041,,,2025-08-06,2025-08-06,False,keep_baseline_no_raw_date_found
+L2_B_042,,,2026-03-24,2026-03-24,False,keep_baseline_no_raw_date_found
+L2_B_043,,,2026-09-01,2026-09-01,False,keep_baseline_no_raw_date_found
+L2_B_044,21/12/2026,Please note that the order date is 21/12/2026.,2026-12-21,2026-12-21,False,direct_normalized_non_ambiguous
+L2_B_045,10/01/2024,The issuance date for this order is 10/01/2024.,2024-10-01,2024-10-01,False,keep_baseline_ambiguous_no_doc_hint
+L2_B_046,30/10/2026,Please note that the order date is 30/10/2026.,2026-10-30,2026-10-30,False,direct_normalized_non_ambiguous
+L2_B_047,2026-12-01,The issuance date for this order is 2026-12-01.,2026-12-01,2026-12-01,False,direct_normalized_non_ambiguous
+L2_B_048,21/03/2024,The issuance date for this order is 21/03/2024.,2024-03-21,2024-03-21,False,direct_normalized_non_ambiguous
+L2_B_049,04/22/2026,This order was issued on 04/22/2026.,2026-04-22,2026-04-22,False,direct_normalized_non_ambiguous
+L2_B_050,07/06/2026,This order was issued on 07/06/2026.,2026-07-06,2026-07-06,False,keep_baseline_ambiguous_no_doc_hint
+L2_C_001,,,2026-12-05,2026-12-05,False,keep_baseline_no_raw_date_found
+L2_C_002,,,2026-11-07,2026-11-07,False,keep_baseline_no_raw_date_found
+L2_C_003,,,2026-10-28,2026-10-28,False,keep_baseline_no_raw_date_found
+L2_C_004,05/01/2025,PO Date: 05/01/2025,2025-05-01,2025-05-01,False,keep_baseline_ambiguous_no_doc_hint
+L2_C_005,10/01/2026,PO Date: 10/01/2026,2026-10-01,2026-10-01,False,keep_baseline_ambiguous_no_doc_hint
+L2_C_006,2026-08-30,PO Date: 2026-08-30,2026-08-30,2026-08-30,False,direct_normalized_non_ambiguous
+L2_C_007,,,2025-02-25,2025-02-25,False,keep_baseline_no_raw_date_found
+L2_C_008,,,2025-09-09,2025-09-09,False,keep_baseline_no_raw_date_found
+L2_C_009,21/04/2024,PO Date: 21/04/2024,2024-04-21,2024-04-21,False,direct_normalized_non_ambiguous
+L2_C_010,09/09/2026,PO Date: 09/09/2026,2026-09-09,2026-09-09,False,keep_baseline_ambiguous_no_doc_hint
+L2_C_011,11/11/2026,PO Date: 11/11/2026,2026-11-11,2026-11-11,False,keep_baseline_ambiguous_no_doc_hint
+L2_C_012,26/11/2026,PO Date: 26/11/2026,2026-11-26,2026-11-26,False,direct_normalized_non_ambiguous
+L2_C_013,16/04/2025,PO Date: 16/04/2025,2025-04-16,2025-04-16,False,direct_normalized_non_ambiguous
+L2_C_014,15/04/2025,PO Date: 15/04/2025,2025-04-15,2025-04-15,False,direct_normalized_non_ambiguous
+L2_C_015,05/28/2026,PO Date: 05/28/2026,2026-05-28,2026-05-28,False,direct_normalized_non_ambiguous
+L2_C_016,06/19/2025,PO Date: 06/19/2025,2025-06-19,2025-06-19,False,direct_normalized_non_ambiguous
+L2_C_017,2024-06-29,PO Date: 2024-06-29,2024-06-29,2024-06-29,False,direct_normalized_non_ambiguous
+L2_C_018,,,2025-02-14,2025-02-14,False,keep_baseline_no_raw_date_found
+L2_C_019,17/11/2026,PO Date: 17/11/2026,2026-11-17,2026-11-17,False,direct_normalized_non_ambiguous
+L2_C_020,,,2025-06-27,2025-06-27,False,keep_baseline_no_raw_date_found
+L2_C_021,,,2026-10-26,2026-10-26,False,keep_baseline_no_raw_date_found
+L2_C_022,,,2024-11-02,2024-11-02,False,keep_baseline_no_raw_date_found
+L2_C_023,06/09/2024,PO Date: 06/09/2024,2024-06-09,2024-06-09,False,keep_baseline_ambiguous_no_doc_hint
+L2_C_024,,,2026-03-24,2026-03-24,False,keep_baseline_no_raw_date_found
+L2_C_025,,,2025-04-10,2025-04-10,False,keep_baseline_no_raw_date_found
+L2_C_026,,,2026-02-13,2026-02-13,False,keep_baseline_no_raw_date_found
+L2_C_027,,,2026-01-30,2026-01-30,False,keep_baseline_no_raw_date_found
+L2_C_028,2026-12-03,PO Date: 2026-12-03,2026-12-03,2026-12-03,False,direct_normalized_non_ambiguous
+L2_C_029,,,2024-08-07,2024-08-07,False,keep_baseline_no_raw_date_found
+L2_C_030,2026-01-21,PO Date: 2026-01-21,2026-01-21,2026-01-21,False,direct_normalized_non_ambiguous
+L2_C_031,,,2026-09-21,2026-09-21,False,keep_baseline_no_raw_date_found
+L2_C_032,,,2024-08-04,2024-08-04,False,keep_baseline_no_raw_date_found
+L2_C_033,14/02/2024,PO Date: 14/02/2024,2024-02-14,2024-02-14,False,direct_normalized_non_ambiguous
+L2_C_034,2025-09-07,PO Date: 2025-09-07,2025-09-07,2025-09-07,False,direct_normalized_non_ambiguous
+L2_C_035,,,2024-11-09,2024-11-09,False,keep_baseline_no_raw_date_found
+L2_C_036,,,2026-09-26,2026-09-26,False,keep_baseline_no_raw_date_found
+L2_C_037,,,2024-08-18,2024-08-18,False,keep_baseline_no_raw_date_found
+L2_C_038,18/04/2024,PO Date: 18/04/2024,2024-04-18,2024-04-18,False,direct_normalized_non_ambiguous
+L2_C_039,11/06/2025,PO Date: 11/06/2025,2025-11-06,2025-11-06,False,keep_baseline_ambiguous_no_doc_hint
+L2_C_040,2026-12-08,PO Date: 2026-12-08,2026-12-08,2026-12-08,False,direct_normalized_non_ambiguous
+L2_C_041,2025-04-20,PO Date: 2025-04-20,2025-04-20,2025-04-20,False,direct_normalized_non_ambiguous
+L2_C_042,,,2025-02-22,2025-02-22,False,keep_baseline_no_raw_date_found
+L2_C_043,10/18/2024,PO Date: 10/18/2024,2024-10-18,2024-10-18,False,direct_normalized_non_ambiguous
+L2_C_044,2024-07-05,PO Date: 2024-07-05,2024-07-05,2024-07-05,False,direct_normalized_non_ambiguous
+L2_C_045,2025-08-14,PO Date: 2025-08-14,2025-08-14,2025-08-14,False,direct_normalized_non_ambiguous
+L2_C_046,04/22/2024,PO Date: 04/22/2024,2024-04-22,2024-04-22,False,direct_normalized_non_ambiguous
+L2_C_047,22/08/2025,PO Date: 22/08/2025,2025-08-22,2025-08-22,False,direct_normalized_non_ambiguous
+L2_C_048,02/28/2025,PO Date: 02/28/2025,2025-02-28,2025-02-28,False,direct_normalized_non_ambiguous
+L2_C_049,,,2024-12-25,2024-12-25,False,keep_baseline_no_raw_date_found
+L2_C_050,,,2026-04-27,2026-04-27,False,keep_baseline_no_raw_date_found
+L2_D_001,11/13/2025,Date: 11/13/2025,2025-11-13,2025-11-13,False,direct_normalized_non_ambiguous
+L2_D_002,16/12/2024,Date: 16/12/2024,2024-12-16,2024-12-16,False,direct_normalized_non_ambiguous
+L2_D_003,03/13/2026,Date: 03/13/2026,2026-03-13,2026-03-13,False,direct_normalized_non_ambiguous
+L2_D_004,2026-06-10,Date: 2026-06-10,2026-06-10,2026-06-10,False,direct_normalized_non_ambiguous
+L2_D_005,10/27/2024,Date: 10/27/2024,2024-10-27,2024-10-27,False,direct_normalized_non_ambiguous
+L2_D_006,,,2025-10-13,2025-10-13,False,keep_baseline_no_raw_date_found
+L2_D_007,2025-01-15,Date: 2025-01-15,2025-01-15,2025-01-15,False,direct_normalized_non_ambiguous
+L2_D_008,11/09/2025,Date: 11/09/2025,2025-11-09,2025-11-09,False,keep_baseline_ambiguous_no_doc_hint
+L2_D_009,05/11/2024,Date: 05/11/2024,2024-05-11,2024-05-11,False,keep_baseline_ambiguous_no_doc_hint
+L2_D_010,,,2024-04-21,2024-04-21,False,keep_baseline_no_raw_date_found
+L2_D_011,,,2024-03-25,2024-03-25,False,keep_baseline_no_raw_date_found
+L2_D_012,09/06/2024,Date: 09/06/2024,2024-09-06,2024-09-06,False,keep_baseline_ambiguous_no_doc_hint
+L2_D_013,2026-06-21,Date: 2026-06-21,2026-06-21,2026-06-21,False,direct_normalized_non_ambiguous
+L2_D_014,2026-09-14,Date: 2026-09-14,2026-09-14,2026-09-14,False,direct_normalized_non_ambiguous
+L2_D_015,09/05/2024,Date: 09/05/2024,2024-09-05,2024-09-05,False,keep_baseline_ambiguous_no_doc_hint
+L2_D_016,10/15/2026,Date: 10/15/2026,2026-10-15,2026-10-15,False,direct_normalized_non_ambiguous
+L2_D_017,12/03/2024,Date: 12/03/2024,2024-12-03,2024-12-03,False,keep_baseline_ambiguous_no_doc_hint
+L2_D_018,12/23/2024,Date: 12/23/2024,2024-12-23,2024-12-23,False,direct_normalized_non_ambiguous
+L2_D_019,11/15/2025,Date: 11/15/2025,2025-11-15,2025-11-15,False,direct_normalized_non_ambiguous
+L2_D_020,07/19/2024,Date: 07/19/2024,2024-07-19,2024-07-19,False,direct_normalized_non_ambiguous
+L2_D_021,,,2025-04-15,2025-04-15,False,keep_baseline_no_raw_date_found
+L2_D_022,03/18/2026,Date: 03/18/2026,2026-03-18,2026-03-18,False,direct_normalized_non_ambiguous
+L2_D_023,28/02/2025,Date: 28/02/2025,2025-02-28,2025-02-28,False,direct_normalized_non_ambiguous
+L2_D_024,2024-08-20,Date: 2024-08-20,2024-08-20,2024-08-20,False,direct_normalized_non_ambiguous
+L2_D_025,,,2026-03-11,2026-03-11,False,keep_baseline_no_raw_date_found
+L2_D_026,15/02/2024,Date: 15/02/2024,2024-02-15,2024-02-15,False,direct_normalized_non_ambiguous
+L2_D_027,10/10/2025,Date: 10/10/2025,2025-10-10,2025-10-10,False,keep_baseline_ambiguous_no_doc_hint
+L2_D_028,24/11/2025,Date: 24/11/2025,2025-11-24,2025-11-24,False,direct_normalized_non_ambiguous
+L2_D_029,2025-02-04,Date: 2025-02-04,2025-02-04,2025-02-04,False,direct_normalized_non_ambiguous
+L2_D_030,07/01/2026,Date: 07/01/2026,2026-01-07,2026-01-07,False,keep_baseline_ambiguous_no_doc_hint
+L2_D_031,09/14/2025,Date: 09/14/2025,2025-09-14,2025-09-14,False,direct_normalized_non_ambiguous
+L2_D_032,,,2025-06-12,2025-06-12,False,keep_baseline_no_raw_date_found
+L2_D_033,2025-09-08,Date: 2025-09-08,2025-09-08,2025-09-08,False,direct_normalized_non_ambiguous
+L2_D_034,2024-10-11,Date: 2024-10-11,2024-10-11,2024-10-11,False,direct_normalized_non_ambiguous
+L2_D_035,08/18/2026,Date: 08/18/2026,2026-08-18,2026-08-18,False,direct_normalized_non_ambiguous
+L2_D_036,,,2026-10-22,2026-10-22,False,keep_baseline_no_raw_date_found
+L2_D_037,,,2025-01-05,2025-01-05,False,keep_baseline_no_raw_date_found
+L2_D_038,,,2026-04-14,2026-04-14,False,keep_baseline_no_raw_date_found
+L2_D_039,14/01/2026,Date: 14/01/2026,2026-01-14,2026-01-14,False,direct_normalized_non_ambiguous
+L2_D_040,2024-11-08,Date: 2024-11-08,2024-11-08,2024-11-08,False,direct_normalized_non_ambiguous
+L2_D_041,,,2026-06-25,2026-06-25,False,keep_baseline_no_raw_date_found
+L2_D_042,2025-12-23,Date: 2025-12-23,2025-12-23,2025-12-23,False,direct_normalized_non_ambiguous
+L2_D_043,06/22/2024,Date: 06/22/2024,2024-06-22,2024-06-22,False,direct_normalized_non_ambiguous
+L2_D_044,07/19/2024,Date: 07/19/2024,2024-07-19,2024-07-19,False,direct_normalized_non_ambiguous
+L2_D_045,05/24/2026,Date: 05/24/2026,2026-05-24,2026-05-24,False,direct_normalized_non_ambiguous
+L2_D_046,09/06/2025,Date: 09/06/2025,2025-09-06,2025-09-06,False,keep_baseline_ambiguous_no_doc_hint
+L2_D_047,2026-05-14,Date: 2026-05-14,2026-05-14,2026-05-14,False,direct_normalized_non_ambiguous
+L2_D_048,,,2024-08-17,2024-08-17,False,keep_baseline_no_raw_date_found
+L2_D_049,23/10/2024,Date: 23/10/2024,2024-10-23,2024-10-23,False,direct_normalized_non_ambiguous
+L2_D_050,10/03/2024,Date: 10/03/2024,2024-10-03,2024-10-03,False,keep_baseline_ambiguous_no_doc_hint
+L2_E_001,13/07/2026,PO Date: 13/07/2026,2026-07-13,2026-07-13,False,direct_normalized_non_ambiguous
+L2_E_002,06/10/2026,Date Issued: 06/10/2026,2026-06-10,2026-06-10,False,keep_baseline_ambiguous_no_doc_hint
+L2_E_003,24/02/2026,Order Date: 24/02/2026,2026-02-24,2026-02-24,False,direct_normalized_non_ambiguous
+L2_E_004,2024-09-27,PO Date: 2024-09-27,2024-09-27,2024-09-27,False,direct_normalized_non_ambiguous
+L2_E_005,12/31/2025,PO Date: 12/31/2025,2025-12-31,2025-12-31,False,direct_normalized_non_ambiguous
+L2_E_006,,,2025-10-27,2025-10-27,False,keep_baseline_no_raw_date_found
+L2_E_007,2026-01-05,Issued On: 2026-01-05,2026-01-05,2026-01-05,False,direct_normalized_non_ambiguous
+L2_E_008,,,2024-09-18,2024-09-18,False,keep_baseline_no_raw_date_found
+L2_E_009,,,2024-08-26,2024-08-26,False,keep_baseline_no_raw_date_found
+L2_E_010,,,2026-03-13,2026-03-13,False,keep_baseline_no_raw_date_found
+L2_E_011,,,2026-07-07,2026-07-07,False,keep_baseline_no_raw_date_found
+L2_E_012,2025-03-04,Issued On: 2025-03-04,2025-03-04,2025-03-04,False,direct_normalized_non_ambiguous
+L2_E_013,,,2025-08-21,2025-08-21,False,keep_baseline_no_raw_date_found
+L2_E_014,05/28/2026,Date Issued: 05/28/2026,2026-05-28,2026-05-28,False,direct_normalized_non_ambiguous
+L2_E_015,,,2024-06-21,2024-06-21,False,keep_baseline_no_raw_date_found
+L2_E_016,23/11/2026,Order Date: 23/11/2026,2026-11-23,2026-11-23,False,direct_normalized_non_ambiguous
+L2_E_017,,,2024-08-13,2024-08-13,False,keep_baseline_no_raw_date_found
+L2_E_018,2026-05-05,Order Date: 2026-05-05,2026-05-05,2026-05-05,False,direct_normalized_non_ambiguous
+L2_E_019,28/06/2026,Issued On: 28/06/2026,2026-06-28,2026-06-28,False,direct_normalized_non_ambiguous
+L2_E_020,10/30/2026,Date Issued: 10/30/2026,2026-10-30,2026-10-30,False,direct_normalized_non_ambiguous
+L2_E_021,2026-05-17,Date: 2026-05-17,2026-05-17,2026-05-17,False,direct_normalized_non_ambiguous
+L2_E_022,,,2024-10-13,2024-10-13,False,keep_baseline_no_raw_date_found
+L2_E_023,,,2024-01-20,2024-01-20,False,keep_baseline_no_raw_date_found
+L2_E_024,,,2026-12-27,2026-12-27,False,keep_baseline_no_raw_date_found
+L2_E_025,2026-05-17,Issued On: 2026-05-17,2026-05-17,2026-05-17,False,direct_normalized_non_ambiguous
+L2_E_026,,,2024-09-18,2024-09-18,False,keep_baseline_no_raw_date_found
+L2_E_027,,,2025-01-15,2025-01-15,False,keep_baseline_no_raw_date_found
+L2_E_028,02/16/2025,Order Date: 02/16/2025,2025-02-16,2025-02-16,False,direct_normalized_non_ambiguous
+L2_E_029,2024-12-22,Order Date: 2024-12-22,2024-12-22,2024-12-22,False,direct_normalized_non_ambiguous
+L2_E_030,10/31/2024,Date: 10/31/2024,2024-10-31,2024-10-31,False,direct_normalized_non_ambiguous
+L2_E_031,05/02/2026,Order Date: 05/02/2026,2026-05-02,2026-05-02,False,keep_baseline_ambiguous_no_doc_hint
+L2_E_032,01/07/2026,Issued On: 01/07/2026,2026-01-07,2026-01-07,False,keep_baseline_ambiguous_no_doc_hint
+L2_E_033,2025-03-05,Issued On: 2025-03-05,2025-03-05,2025-03-05,False,direct_normalized_non_ambiguous
+L2_E_034,2024-03-06,Issued On: 2024-03-06,2024-03-06,2024-03-06,False,direct_normalized_non_ambiguous
+L2_E_035,,,2025-02-25,2025-02-25,False,keep_baseline_no_raw_date_found
+L2_E_036,,,2025-01-02,2025-01-02,False,keep_baseline_no_raw_date_found
+L2_E_037,08/22/2024,PO Date: 08/22/2024,2024-08-22,2024-08-22,False,direct_normalized_non_ambiguous
+L2_E_038,02/02/2024,PO Date: 02/02/2024,2024-02-02,2024-02-02,False,keep_baseline_ambiguous_no_doc_hint
+L2_E_039,23/03/2025,Date: 23/03/2025,2025-03-23,2025-03-23,False,direct_normalized_non_ambiguous
+L2_E_040,09/24/2025,Date: 09/24/2025,2025-09-24,2025-09-24,False,direct_normalized_non_ambiguous
+L2_E_041,,,2024-04-20,2024-04-20,False,keep_baseline_no_raw_date_found
+L2_E_042,,,2024-11-15,2024-11-15,False,keep_baseline_no_raw_date_found
+L2_E_043,,,2025-06-06,2025-06-06,False,keep_baseline_no_raw_date_found
+L2_E_044,2024-07-01,Issued On: 2024-07-01,2024-07-01,2024-07-01,False,direct_normalized_non_ambiguous
+L2_E_045,,,2026-04-17,2026-04-17,False,keep_baseline_no_raw_date_found
+L2_E_046,,,2025-12-03,2025-12-03,False,keep_baseline_no_raw_date_found
+L2_E_047,,,2026-12-01,2026-12-01,False,keep_baseline_no_raw_date_found
+L2_E_048,2025-04-03,Issued On: 2025-04-03,2025-04-03,2025-04-03,False,direct_normalized_non_ambiguous
+L2_E_049,30/08/2025,Order Date: 30/08/2025,2025-08-30,2025-08-30,False,direct_normalized_non_ambiguous
+L2_E_050,22/11/2025,Order Date: 22/11/2025,2025-11-22,2025-11-22,False,direct_normalized_non_ambiguous

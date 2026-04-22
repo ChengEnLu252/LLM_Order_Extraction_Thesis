@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-6356",
+  "po_date": "2024-11-08",
+  "currency": "EUR",
+  "total_amount": 4651.07,
+  "items": [
+    {
+      "part_number": "HM-410",
+      "quantity": 35,
+      "unit": "boxes",
+      "unit_price": 77.22,
+      "line_amount": 2702.7
+    },
+    {
+      "part_number": "EV-940",
+      "quantity": 33,
+      "unit": "boxes",
+      "unit_price": 50.04,
+      "line_amount": 1651.32
+    }
+  ]
+}

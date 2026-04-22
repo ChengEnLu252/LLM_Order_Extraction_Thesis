@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-2168",
+  "po_date": "2026-07-01",
+  "currency": "USD",
+  "total_amount": 4335.39,
+  "items": [
+    {
+      "part_number": "EV-512",
+      "quantity": 14,
+      "unit": "boxes",
+      "unit_price": 68.16,
+      "line_amount": 954.24
+    },
+    {
+      "part_number": "CN-940",
+      "quantity": 14,
+      "unit": "boxes",
+      "unit_price": 71.15,
+      "line_amount": 996.1
+    },
+    {
+      "part_number": "EV-618",
+      "quantity": 2,
+      "unit": "sets",
+      "unit_price": 77.47,
+      "line_amount": 154.94
+    },
+    {
+      "part_number": "AX-830",
+      "quantity": 27,
+      "unit": "units",
+      "unit_price": 82.54,
+      "line_amount": 2228.58
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-5681",
+  "po_date": "2025-04-25",
+  "currency": "EUR",
+  "total_amount": 423.76,
+  "items": [
+    {
+      "part_number": "GX-305",
+      "quantity": 10,
+      "unit": "EA",
+      "unit_price": 16.78,
+      "line_amount": 167.8
+    },
+    {
+      "part_number": "FT-940",
+      "quantity": 6,
+      "unit": "sets",
+      "unit_price": 42.66,
+      "line_amount": 255.96
+    }
+  ]
+}

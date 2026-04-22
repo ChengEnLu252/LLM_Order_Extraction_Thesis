@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2026-8101",
+  "po_date": "2024-11-15",
+  "currency": "EUR",
+  "total_amount": 5513.92,
+  "items": [
+    {
+      "part_number": "EV-940",
+      "quantity": 7,
+      "unit": "EA",
+      "unit_price": 76.37,
+      "line_amount": 534.59
+    },
+    {
+      "part_number": "EV-725",
+      "quantity": 37,
+      "unit": "sets",
+      "unit_price": 73.21,
+      "line_amount": 2708.77
+    },
+    {
+      "part_number": "GX-940",
+      "quantity": 21,
+      "unit": "units",
+      "unit_price": 46.45,
+      "line_amount": 975.45
+    },
+    {
+      "part_number": "CN-830",
+      "quantity": 32,
+      "unit": "EA",
+      "unit_price": 9.05,
+      "line_amount": 289.6
+    },
+    {
+      "part_number": "AX-100",
+      "quantity": 11,
+      "unit": "units",
+      "unit_price": 91.78,
+      "line_amount": 1009.58
+    }
+  ]
+}

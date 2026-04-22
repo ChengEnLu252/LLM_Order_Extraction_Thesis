@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2025-7785",
+  "po_date": "2025-07-13",
+  "currency": "USD",
+  "total_amount": 1664.98,
+  "items": [
+    {
+      "part_number": "JQ-830",
+      "quantity": 29,
+      "unit": "units",
+      "unit_price": 12.87,
+      "line_amount": 373.23
+    },
+    {
+      "part_number": "GX-100",
+      "quantity": 21,
+      "unit": "pcs",
+      "unit_price": 6.45,
+      "line_amount": 135.45
+    },
+    {
+      "part_number": "DX-305",
+      "quantity": 15,
+      "unit": "boxes",
+      "unit_price": 31.54,
+      "line_amount": 473.1
+    },
+    {
+      "part_number": "AX-830",
+      "quantity": 20,
+      "unit": "sets",
+      "unit_price": 34.16,
+      "line_amount": 683.2
+    }
+  ]
+}

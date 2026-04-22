@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2026-3032",
+  "po_date": "2025-09-24",
+  "currency": "USD",
+  "total_amount": 495.52,
+  "items": [
+    {
+      "part_number": "HM-512",
+      "quantity": 5,
+      "unit": "EA",
+      "unit_price": 15.48,
+      "line_amount": 77.4
+    },
+    {
+      "part_number": "AX-410",
+      "quantity": 11,
+      "unit": "units",
+      "unit_price": 38.82,
+      "line_amount": 427.02
+    }
+  ]
+}

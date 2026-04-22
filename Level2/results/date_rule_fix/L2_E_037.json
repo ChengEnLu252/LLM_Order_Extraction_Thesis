@@ -1,0 +1,43 @@
+{
+  "po_number": "PO-2024-5105",
+  "po_date": "2024-08-22",
+  "currency": "JPY",
+  "total_amount": 5222.23,
+  "items": [
+    {
+      "part_number": "BK-940",
+      "quantity": 33,
+      "unit": "EA",
+      "unit_price": 47.21,
+      "line_amount": 1557.93
+    },
+    {
+      "part_number": "EV-305",
+      "quantity": 30,
+      "unit": "EA",
+      "unit_price": 15.75,
+      "line_amount": 472.5
+    },
+    {
+      "part_number": "CN-512",
+      "quantity": 3,
+      "unit": "pcs",
+      "unit_price": 61.48,
+      "line_amount": 184.44
+    },
+    {
+      "part_number": "CN-220",
+      "quantity": 36,
+      "unit": "pcs",
+      "unit_price": 74.66,
+      "line_amount": 2687.76
+    },
+    {
+      "part_number": "FT-305",
+      "quantity": 19,
+      "unit": "EA",
+      "unit_price": 17.04,
+      "line_amount": 323.76
+    }
+  ]
+}

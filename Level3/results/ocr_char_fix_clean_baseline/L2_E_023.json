@@ -1,0 +1,36 @@
+{
+  "po_number": "PO-2024-8283",
+  "po_date": "2024-01-20",
+  "currency": "USD",
+  "total_amount": 6080.14,
+  "items": [
+    {
+      "part_number": "JQ-512",
+      "quantity": 14,
+      "unit": "EA",
+      "unit_price": 10.82,
+      "line_amount": 151.48
+    },
+    {
+      "part_number": "FT-100",
+      "quantity": 16,
+      "unit": "boxes",
+      "unit_price": 98.05,
+      "line_amount": 1568.8
+    },
+    {
+      "part_number": "JQ-410",
+      "quantity": 33,
+      "unit": "pcs",
+      "unit_price": 90.64,
+      "line_amount": 2991.12
+    },
+    {
+      "part_number": "GX-220",
+      "quantity": 14,
+      "unit": "boxes",
+      "unit_price": 98.46,
+      "line_amount": 1378.44
+    }
+  ]
+}

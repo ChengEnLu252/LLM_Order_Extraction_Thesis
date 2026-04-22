@@ -1,0 +1,29 @@
+{
+  "po_number": "PO-2024-3362",
+  "po_date": "2026-03-26",
+  "currency": "USD",
+  "total_amount": 5335.94,
+  "items": [
+    {
+      "part_number": "GX-940",
+      "quantity": 38,
+      "unit": "boxes",
+      "unit_price": 83.8,
+      "line_amount": 3184.4
+    },
+    {
+      "part_number": "CN-220",
+      "quantity": 26,
+      "unit": "units",
+      "unit_price": 76.05,
+      "line_amount": 1977.3
+    },
+    {
+      "part_number": "GX-410",
+      "quantity": 24,
+      "unit": "pcs",
+      "unit_price": 7.26,
+      "line_amount": 174.24
+    }
+  ]
+}

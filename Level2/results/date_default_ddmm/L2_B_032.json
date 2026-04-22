@@ -1,0 +1,22 @@
+{
+  "po_number": "PO-2025-9674",
+  "po_date": "2026-02-01",
+  "currency": "JPY",
+  "total_amount": 2063.01,
+  "items": [
+    {
+      "part_number": "EV-940",
+      "quantity": 17,
+      "unit": "pcs",
+      "unit_price": 66.37,
+      "line_amount": 1128.29
+    },
+    {
+      "part_number": "GX-618",
+      "quantity": 16,
+      "unit": "EA",
+      "unit_price": 58.42,
+      "line_amount": 934.72
+    }
+  ]
+}

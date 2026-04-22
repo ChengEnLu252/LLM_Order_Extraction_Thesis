@@ -1,0 +1,6 @@
+﻿group_name,document_accuracy,correct_docs,total_docs,po_date_accuracy,correct_po_date,total_po_date,ambiguous_error_total,ambiguous_error_fixed,ambiguous_fix_rate,originally_correct_total,originally_correct_broken,overcorrection_rate
+baseline,0.0,0,250,0.952,238,250,,,,,,
+date_rule_fix,0.0,0,250,0.952,238,250,12,0,0.0,238,0,0.0
+date_candidate_validation,0.0,0,250,0.952,238,250,12,0,0.0,238,0,0.0
+date_default_ddmm,0.0,0,250,0.924,231,250,12,11,0.9166666666666666,238,18,0.07563025210084033
+date_default_mmdd,0.0,0,250,0.956,239,250,12,1,0.08333333333333333,238,0,0.0
