@@ -6,6 +6,7 @@ __pycache__/
 
 # Virtual environment
 .venv/
+.venv-1/
 venv/
 env/
 
@@ -38,3 +39,15 @@ temp/
 # API keys / local config
 config.local.*
 secrets.*
+
+# macOS / iCloud sync duplicate copies (e.g. "file 2.csv")
+* [0-9].csv
+* [0-9].json
+* [0-9].py
+* [0-9].txt
+* [0-9].md
+
+# Thesis writing sources — kept out of this experiment-code repo
+應用大型語言模型於異質訂單文件之關鍵資訊擷取/
+應用大型語言模型於異質訂單文件之關鍵資訊擷取.zip
+回條_thesis.pdf.pdf
